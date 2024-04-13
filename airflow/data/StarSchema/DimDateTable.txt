@@ -1,0 +1,5 @@
+Date,Year,Month,Day,DayofWeek
+2009-10-24,2009,10,24,Saturday
+2009-10-25,2009,10,25,Sunday
+2009-11-02,2009,11,2,Monday
+2009-11-03,2009,11,3,Tuesday
