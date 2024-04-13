@@ -1,0 +1,2222 @@
+109.153.161.208,GB,United Kingdom,Merthyr Tydfil,51.7303,-3.372
+109.172.40.197,RU,Russia,Lipetsk,52.6186,39.5689
+109.178.137.101,GR,Greece,None,37.9667,23.7167
+109.195.140.140,RU,Russia,None,55.7386,37.6068
+109.205.114.162,IQ,Iraq,None,33,44
+110.139.190.100,ID,Indonesia,Denpasar,-8.65,115.2167
+110.32.107.33,AU,Australia,None,-33.494,143.2104
+110.55.170.18,PH,Philippines,None,14.5955,120.9721
+111.68.24.27,ID,Indonesia,Yogyakarta,-7.8014,110.3647
+112.202.177.6,PH,Philippines,None,14.5955,120.9721
+113.166.45.82,VN,Vietnam,None,16,106
+113.169.88.26,VN,Vietnam,None,16,106
+113.36.218.92,JP,Japan,Nerima,35.7468,139.5863
+114.246.77.84,CN,China,Beijing,39.9288,116.3889
+114.249.206.35,CN,China,Beijing,39.9288,116.3889
+114.249.207.46,CN,China,Beijing,39.9288,116.3889
+114.78.248.21,AU,Australia,None,-33.494,143.2104
+115.238.100.218,CN,China,None,30.2936,120.1614
+115.75.0.99,VN,Vietnam,Ho Chi Minh City,10.8142,106.6438
+116.125.140.8,KR,South Korea,Gangnam-gu,37.4951,127.0628
+116.55.226.131,CN,China,None,25.0389,102.7183
+117.193.137.119,IN,India,Chennai,13.0833,80.2833
+117.195.229.133,IN,India,Uppuguda,17.34,78.4852
+117.196.146.126,IN,India,Ernakulam,9.9833,76.2833
+117.199.114.22,IN,India,Jaipur,26.9167,75.8167
+117.199.121.84,IN,India,Jaipur,26.9167,75.8167
+117.202.131.3,IN,India,Chennai,13.0833,80.2833
+117.204.68.4,IN,India,Bhaisa,19.1,77.9667
+117.3.4.67,VN,Vietnam,None,16,106
+118.100.15.252,MY,Malaysia,Petaling Jaya,3.107,101.6305
+118.100.69.159,MY,Malaysia,Johor Bahru,1.4655,103.7578
+118.101.251.39,MY,Malaysia,Kuantan,3.8109,103.2884
+118.210.129.61,AU,Australia,Adelaide,-34.9287,138.5986
+118.68.49.100,VN,Vietnam,None,16,106
+118.96.3.81,ID,Indonesia,None,-6.175,106.8286
+118.97.12.43,ID,Indonesia,Yogyakarta,-7.8014,110.3647
+118.97.69.146,ID,Indonesia,Jakarta,-6.1744,106.8294
+119.152.129.57,PK,Pakistan,Lahore,31.4888,74.3686
+119.152.164.17,PK,Pakistan,Hassan Abdal,33.823,72.6873
+119.153.0.221,PK,Pakistan,None,30,70
+119.203.66.8,KR,South Korea,None,37.5112,126.97409999999999
+119.224.17.163,NZ,New Zealand,Auckland,-36.8485,174.7635
+119.225.90.242,AU,Australia,Lugarno,-33.9827,151.0418
+119.235.237.93,JP,Japan,None,35.69,139.69
+119.40.118.196,MY,Malaysia,Kuala Selangor,3.35,101.25
+119.63.193.129,JP,Japan,None,35.69,139.69
+119.63.198.12,JP,Japan,None,35.69,139.69
+119.63.198.13,JP,Japan,None,35.69,139.69
+119.63.198.32,JP,Japan,None,35.69,139.69
+119.63.198.35,JP,Japan,None,35.69,139.69
+119.63.198.36,JP,Japan,None,35.69,139.69
+119.63.198.40,JP,Japan,None,35.69,139.69
+119.63.198.46,JP,Japan,None,35.69,139.69
+119.63.198.53,JP,Japan,None,35.69,139.69
+119.63.198.57,JP,Japan,None,35.69,139.69
+119.63.198.61,JP,Japan,None,35.69,139.69
+119.63.198.7,JP,Japan,None,35.69,139.69
+119.82.126.162,IN,India,Bengaluru,12.9833,77.5833
+119.86.99.163,CN,China,Chongqing,29.5628,106.5528
+120.152.123.176,AU,Australia,None,-33.494,143.2104
+121.10.111.162,CN,China,None,23.1167,113.25
+121.121.173.106,MY,Malaysia,None,2.5,112.5
+121.157.218.46,KR,South Korea,Gwangju,37.41,127.2572
+121.200.67.50,KR,South Korea,Yongin-si,37.2336,127.201
+121.215.214.157,AU,Australia,Baulkham Hills,-33.7588,150.9929
+121.217.253.42,AU,Australia,None,-33.494,143.2104
+121.218.59.47,AU,Australia,None,-33.494,143.2104
+121.52.147.11,PK,Pakistan,Dhok Parāli,33.1479,72.55
+121.52.159.232,PK,Pakistan,None,30,70
+122.100.132.199,MO,Macao,Macao,22.2,113.55
+122.106.209.49,AU,Australia,Belrose,-33.7395,151.2103
+122.107.229.202,AU,Australia,Brighton East,-37.9023,145.0173
+122.174.113.132,IN,India,Tiruchi,10.805,78.6856
+122.181.142.195,IN,India,None,20,77
+122.24.198.239,JP,Japan,Suginami-ku,35.7074,139.6001
+122.29.116.151,JP,Japan,None,35.69,139.69
+123.109.85.148,KR,South Korea,Seoul,37.5985,126.9783
+123.125.66.117,CN,China,Beijing,39.9288,116.3889
+123.125.66.118,CN,China,Beijing,39.9288,116.3889
+123.125.66.119,CN,China,Beijing,39.9288,116.3889
+123.125.66.120,CN,China,Beijing,39.9288,116.3889
+123.125.66.121,CN,China,Beijing,39.9288,116.3889
+123.125.66.122,CN,China,Beijing,39.9288,116.3889
+123.125.66.123,CN,China,Beijing,39.9288,116.3889
+123.125.66.124,CN,China,Beijing,39.9288,116.3889
+123.125.66.125,CN,China,Beijing,39.9288,116.3889
+123.125.66.126,CN,China,Beijing,39.9288,116.3889
+123.125.66.127,CN,China,Beijing,39.9288,116.3889
+123.125.66.128,CN,China,Beijing,39.9288,116.3889
+123.125.66.129,CN,China,Beijing,39.9288,116.3889
+123.125.66.130,CN,China,Beijing,39.9288,116.3889
+123.125.66.131,CN,China,Beijing,39.9288,116.3889
+123.125.66.132,CN,China,Beijing,39.9288,116.3889
+123.125.66.133,CN,China,Beijing,39.9288,116.3889
+123.125.66.134,CN,China,Beijing,39.9288,116.3889
+123.125.66.40,CN,China,Beijing,39.9288,116.3889
+123.125.66.57,CN,China,Beijing,39.9288,116.3889
+123.125.66.58,CN,China,Beijing,39.9288,116.3889
+123.125.66.59,CN,China,Beijing,39.9288,116.3889
+123.125.66.60,CN,China,Beijing,39.9288,116.3889
+123.125.66.61,CN,China,Beijing,39.9288,116.3889
+123.125.66.62,CN,China,Beijing,39.9288,116.3889
+123.125.66.63,CN,China,Beijing,39.9288,116.3889
+123.125.66.64,CN,China,Beijing,39.9288,116.3889
+123.125.66.65,CN,China,Beijing,39.9288,116.3889
+123.125.66.66,CN,China,Beijing,39.9288,116.3889
+123.125.66.67,CN,China,Beijing,39.9288,116.3889
+123.125.66.68,CN,China,Beijing,39.9288,116.3889
+123.125.66.69,CN,China,Beijing,39.9288,116.3889
+123.125.66.70,CN,China,Beijing,39.9288,116.3889
+123.125.66.71,CN,China,Beijing,39.9288,116.3889
+123.125.66.72,CN,China,Beijing,39.9288,116.3889
+123.125.66.73,CN,China,Beijing,39.9288,116.3889
+123.125.66.74,CN,China,Beijing,39.9288,116.3889
+123.125.66.75,CN,China,Beijing,39.9288,116.3889
+123.125.66.76,CN,China,Beijing,39.9288,116.3889
+123.125.66.77,CN,China,Beijing,39.9288,116.3889
+123.125.66.78,CN,China,Beijing,39.9288,116.3889
+123.125.66.79,CN,China,Beijing,39.9288,116.3889
+123.125.66.80,CN,China,Beijing,39.9288,116.3889
+123.125.66.81,CN,China,Beijing,39.9288,116.3889
+123.125.66.82,CN,China,Beijing,39.9288,116.3889
+123.125.66.83,CN,China,Beijing,39.9288,116.3889
+123.125.66.84,CN,China,Beijing,39.9288,116.3889
+123.125.66.85,CN,China,Beijing,39.9288,116.3889
+123.125.66.86,CN,China,Beijing,39.9288,116.3889
+123.125.66.87,CN,China,Beijing,39.9288,116.3889
+123.125.66.88,CN,China,Beijing,39.9288,116.3889
+123.125.66.89,CN,China,Beijing,39.9288,116.3889
+123.125.66.90,CN,China,Beijing,39.9288,116.3889
+123.125.66.91,CN,China,Beijing,39.9288,116.3889
+123.125.66.92,CN,China,Beijing,39.9288,116.3889
+123.125.66.93,CN,China,Beijing,39.9288,116.3889
+123.125.66.94,CN,China,Beijing,39.9288,116.3889
+123.125.66.95,CN,China,Beijing,39.9288,116.3889
+123.125.66.96,CN,China,Beijing,39.9288,116.3889
+123.125.66.97,CN,China,Beijing,39.9288,116.3889
+123.19.51.169,VN,Vietnam,Tam Ky,15.5667,108.4833
+123.237.232.118,IN,India,None,20,77
+124.115.0.109,CN,China,None,34.2583,108.9286
+124.115.0.110,CN,China,None,34.2583,108.9286
+124.115.0.168,CN,China,None,34.2583,108.9286
+124.115.4.202,CN,China,None,34.2583,108.9286
+124.115.6.11,CN,China,None,34.2583,108.9286
+124.120.132.76,TH,Thailand,Bang Khae,13.7167,100.4167
+124.189.35.155,AU,Australia,Tatura,-36.4396,145.2299
+124.190.0.218,AU,Australia,None,-33.494,143.2104
+124.219.26.209,TW,Taiwan,None,23.5,121
+125.160.221.98,ID,Indonesia,Malang,-7.9797,112.6304
+125.161.22.18,ID,Indonesia,Pontianak,-0.0319,109.325
+125.163.165.84,ID,Indonesia,Jakarta,-6.1744,106.8294
+125.165.178.232,ID,Indonesia,Muara Bungo,-1.4902,102.1149
+125.166.216.178,ID,Indonesia,Cimahi,-6.6983,107.2753
+125.167.253.65,ID,Indonesia,Banjarmasin,-3.3236,114.5889
+125.194.108.50,JP,Japan,Sendai,38.2643,140.8687
+125.60.240.217,PH,Philippines,Antipolo,14.5886,121.1757
+125.65.165.184,CN,China,Chengdu,30.6667,104.0667
+125.71.200.6,CN,China,None,30.6667,104.0667
+125.89.152.187,CN,China,Shaoguan,24.8,113.5833
+128.176.85.113,DE,Germany,Münster,51.9597,7.6349
+128.208.152.99,US,United States,Seattle,47.6633,-122.3022
+128.227.41.189,US,United States,Gainesville,29.6813,-82.3539
+128.253.177.65,US,United States,Ithaca,42.4474,-76.4837
+128.40.184.124,GB,United Kingdom,London,51.5161,-0.0949
+128.54.6.208,US,United States,La Jolla,32.8473,-117.2742
+129.100.68.174,CA,Canada,London,43.0147,-81.3049
+129.116.69.232,US,United States,Austin,30.2896,-97.7396
+129.116.69.235,US,United States,Austin,30.2896,-97.7396
+129.123.172.138,US,United States,Logan,41.6412,-111.8966
+129.123.205.101,US,United States,Logan,41.6412,-111.8966
+129.128.152.33,CA,Canada,Edmonton,53.521,-113.5324
+129.173.35.133,CA,Canada,Halifax,44.6344,-63.5822
+129.187.83.108,DE,Germany,None,51.2993,9.491
+129.234.158.27,GB,United Kingdom,Durham,54.7667,-1.5667
+129.241.46.118,NO,Norway,Trondheim,63.4167,10.4167
+129.34.20.17,US,United States,None,37.751,-97.822
+129.49.105.148,US,United States,Coram,40.885,-73.0069
+129.7.111.4,US,United States,Houston,29.834,-95.4342
+130.18.201.65,US,United States,Starkville,33.4156,-88.7433
+130.235.101.29,SE,Sweden,Lund,55.7028,13.1927
+131.111.113.4,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.119.34,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.139.104,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.150.66,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.151.217,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.184.8,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.186.95,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.224.54,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.248.8,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.30.16,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.30.34,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.30.57,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.35.138,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.37.50,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.37.72,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.37.76,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.37.93,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.41.167,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.48.93,GB,United Kingdom,Cambridge,52.191,0.1249
+131.111.55.95,GB,United Kingdom,Cambridge,52.191,0.1249
+131.112.16.220,JP,Japan,Tokyo,35.685,139.7514
+131.123.1.227,US,United States,Kent,41.1537,-81.3579
+131.183.246.157,US,United States,Toledo,41.6712,-83.606
+131.193.92.220,US,United States,Chicago,41.8805,-87.6873
+131.211.213.116,NL,Netherlands,Utrecht,52.0916,5.1228
+131.217.6.9,AU,Australia,Hobart,-42.8794,147.3294
+131.220.121.193,DE,Germany,Bonn,50.7333,7.1
+132.180.252.57,DE,Germany,Bayreuth,49.9481,11.5783
+133.70.80.17,JP,Japan,Shizuoka,34.9502,138.4317
+134.107.216.137,DE,Germany,Münster,51.9858,7.648
+134.121.117.71,US,United States,Pullman,46.7313,-117.1796
+134.176.167.17,DE,Germany,Giessen,50.5873,8.6755
+134.2.104.166,DE,Germany,Landkreis Tuebingen,48.5369,9.0536
+134.206.126.189,FR,France,Lille,50.633,3.0586
+134.36.36.100,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.105,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.106,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.109,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.110,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.112,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.113,GB,United Kingdom,Dundee,56.482,-2.9356
+134.36.36.98,GB,United Kingdom,Dundee,56.482,-2.9356
+137.205.88.118,GB,United Kingdom,Coventry,52.3833,-1.5833
+138.100.13.40,ES,Spain,Madrid,40.4167,-3.6837999999999997
+138.23.91.179,US,United States,Riverside,33.9533,-117.3962
+139.130.192.34,AU,Australia,Campbellfield,-37.6833,144.95
+139.18.63.84,DE,Germany,Leipzig,51.3442,12.3865
+140.109.103.226,TW,Taiwan,Taipei,25.0478,121.5318
+140.117.30.34,TW,Taiwan,None,23.5,121
+140.147.236.194,US,United States,Washington,38.9122,-77.0177
+141.48.46.38,DE,Germany,Halle,51.483,11.972
+141.52.175.61,DE,Germany,Karlsruhe,49.0083,8.3979
+141.65.161.67,DE,Germany,None,51.2993,9.491
+141.65.161.69,DE,Germany,None,51.2993,9.491
+141.84.65.44,DE,Germany,Munich,48.15,11.5833
+142.103.144.2,CA,Canada,Vancouver,49.4635,-122.822
+142.103.144.26,CA,Canada,Vancouver,49.4635,-122.822
+142.177.190.66,CA,Canada,Montague,46.1668,-62.6487
+143.107.211.154,BR,Brazil,Piracicaba,-22.7158,-47.773
+144.122.120.60,TR,Turkey,Ankara,39.923,32.8378
+144.122.127.130,TR,Turkey,Ankara,39.923,32.8378
+144.13.136.63,US,United States,Menomonie,44.8718,-91.9265
+144.13.137.28,US,United States,Menomonie,44.8718,-91.9265
+144.13.140.135,US,United States,Menomonie,44.8718,-91.9265
+144.32.126.11,GB,United Kingdom,York,53.9576,-1.0827
+144.41.33.62,DE,Germany,None,48.7667,9.1833
+145.253.249.226,DE,Germany,Borken,51.8438,6.8577
+145.36.234.116,GB,United Kingdom,None,51.4964,-0.1224
+145.72.98.1,NL,Netherlands,None,52.3824,4.8995
+146.83.205.130,CL,Chile,Temuco,-38.7333,-72.6
+147.210.209.38,FR,France,Talence,44.8048,-0.5954
+147.231.140.32,CZ,Czechia,Prague,50.0765,14.5104
+147.47.241.114,KR,South Korea,Seoul,37.5985,126.9783
+148.145.48.99,AU,Australia,Sydney,-33.8591,151.2002
+148.236.5.92,MX,Mexico,Villahermosa,17.9869,-92.9303
+149.169.206.74,US,United States,None,37.751,-97.822
+150.131.78.221,US,United States,Missoula,46.8721,-113.994
+150.214.36.10,ES,Spain,Granada,37.1882,-3.6067
+150.70.66.183,JP,Japan,None,35.69,139.69
+150.70.84.204,JP,Japan,None,35.69,139.69
+150.70.84.41,JP,Japan,None,35.69,139.69
+150.70.84.46,JP,Japan,None,35.69,139.69
+150.70.84.48,JP,Japan,None,35.69,139.69
+150.70.84.76,JP,Japan,None,35.69,139.69
+151.12.58.2,IT,Italy,Rome,41.8919,12.5113
+151.151.16.15,US,United States,None,37.751,-97.822
+151.20.39.192,IT,Italy,Milan,45.4643,9.1895
+151.61.236.212,IT,Italy,Forlì,44.2218,12.0414
+151.65.34.41,IT,Italy,Brescia,45.5356,10.2147
+152.2.14.157,US,United States,Chapel Hill,36.0525,-79.1077
+152.2.14.191,US,United States,Chapel Hill,36.0525,-79.1077
+152.2.15.133,US,United States,Chapel Hill,36.0525,-79.1077
+153.5.129.165,SI,Slovenia,None,46,15
+154.20.181.97,CA,Canada,Abbotsford,49.0423,-122.2835
+154.8.20.107,GB,United Kingdom,None,51.4964,-0.1224
+157.140.129.6,GB,United Kingdom,None,51.4964,-0.1224
+157.249.83.68,NO,Norway,None,59.95,10.75
+157.92.44.71,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+157.92.44.72,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+159.189.131.110,US,United States,None,37.751,-97.822
+161.38.221.197,US,United States,None,37.751,-97.822
+162.38.184.98,FR,France,Montpellier,43.6109,3.8772
+162.38.231.76,FR,France,Montpellier,43.6109,3.8772
+163.1.78.251,GB,United Kingdom,Oxford,51.7158,-1.2925
+163.10.199.46,AR,Argentina,La Plata,-34.9314,-57.9489
+163.247.40.160,CL,Chile,Santiago,-33.45,-70.6667
+164.133.154.130,DE,Germany,Halle,51.5034,11.9622
+164.77.156.115,CL,Chile,Los Ángeles,-37.4667,-72.35
+165.12.252.111,AU,Australia,Canberra,-35.2835,149.1281
+165.138.0.20,US,United States,Kokomo,40.4509,-86.1352
+165.139.0.20,US,United States,Indianapolis,39.772,-86.1535
+165.29.106.3,US,United States,Hamburg,33.2058,-91.8023
+165.98.236.75,NI,Nicaragua,None,13,-85
+168.167.220.254,BW,Botswana,None,-22,24
+168.176.5.162,CO,Colombia,Bogotá,4.6492,-74.0628
+168.96.255.130,AR,Argentina,Maipu,-32.9667,-68.7833
+169.139.176.84,US,United States,Daytona Beach,29.2012,-81.0371
+173.160.158.254,US,United States,Mercer Island,47.5603,-122.2281
+173.162.73.9,US,United States,Homestead,25.2846,-80.6246
+173.212.214.130,DE,Germany,Nuremberg,49.4075,11.1649
+173.55.27.157,US,United States,None,37.751,-97.822
+173.95.155.139,US,United States,Wake Forest,35.9815,-78.5392
+174.116.106.206,CA,Canada,St. John's,47.55,-52.6667
+174.121.75.26,US,United States,Dallas,32.9322,-96.8353
+174.121.75.42,US,United States,Dallas,32.9322,-96.8353
+174.121.88.26,US,United States,Dallas,32.9322,-96.8353
+174.129.152.208,US,United States,Ashburn,39.0481,-77.4728
+174.129.57.51,US,United States,Ashburn,39.0481,-77.4728
+174.129.62.59,US,United States,Ashburn,39.0481,-77.4728
+178.208.75.89,RU,Russia,None,55.7386,37.6068
+178.63.9.74,DE,Germany,None,51.2993,9.491
+178.79.128.23,GB,United Kingdom,London,51.5161,-0.0949
+184.73.19.148,US,United States,Ashburn,39.0481,-77.4728
+186.10.26.144,CL,Chile,Santiago,-33.45,-70.6667
+186.105.113.133,CL,Chile,Santiago,-33.45,-70.6667
+186.105.127.219,CL,Chile,Santiago,-33.45,-70.6667
+186.124.231.159,AR,Argentina,Baradero,-33.7967,-59.5208
+186.18.24.83,AR,Argentina,Lomas de Zamora,-34.7667,-58.4
+186.3.1.155,EC,Ecuador,None,-2,-77.5
+186.60.4.247,AR,Argentina,San Juan,-31.5375,-68.5364
+186.99.234.168,CO,Colombia,None,4.5981,-74.0758
+187.112.182.148,BR,Brazil,Curitiba,-25.5039,-49.2908
+187.12.84.146,BR,Brazil,None,-22.8305,-43.2192
+187.137.24.236,MX,Mexico,Ciudad Obregón,27.4864,-109.9408
+187.149.125.35,MX,Mexico,None,19.4371,-99.0111
+187.149.66.189,MX,Mexico,Badiraguato,25.3031,-107.2544
+187.15.32.87,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+187.152.19.44,MX,Mexico,Guadalajara,20.6668,-103.3918
+187.3.4.196,BR,Brazil,São Bernardo do Campo,-23.7,-46.55
+187.35.240.162,BR,Brazil,Nova Odessa,-22.7816,-47.2713
+187.37.165.10,BR,Brazil,São Paulo,-23.627,-46.635
+187.4.27.209,BR,Brazil,Uruguaiana,-29.75,-57.0833
+187.45.20.152,BR,Brazil,Capela do Alto,-23.4687,-47.7508
+187.59.124.151,BR,Brazil,Igarassu,-7.7927,-34.9592
+187.67.231.164,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+187.79.118.167,BR,Brazil,Fortaleza,-3.7227,-38.5247
+188.102.199.147,DE,Germany,Oschatz,51.3,13.1098
+188.103.129.230,DE,Germany,Saalfeld,50.6516,11.3764
+188.112.104.7,SK,Slovakia,Bratislava,48.1482,17.1067
+188.115.26.164,LU,Luxembourg,None,49.75,6.1667
+188.179.206.255,DK,Denmark,Kongens Lyngby,55.7704,12.5038
+188.222.125.89,GB,United Kingdom,Norwich,52.6278,1.2983
+188.27.217.147,RO,Romania,Cluj-Napoca,46.7667,23.6
+188.3.162.140,TR,Turkey,Bornova,38.4697,27.2211
+188.4.8.94,GR,Greece,Athens,37.9833,23.7333
+188.45.234.35,AT,Austria,None,48.2,16.3667
+188.56.252.215,TR,Turkey,None,41.0214,28.9948
+188.58.188.194,TR,Turkey,None,41.0214,28.9948
+188.92.72.172,LV,Latvia,None,57,25
+189.100.174.41,BR,Brazil,São Paulo,-23.627,-46.635
+189.104.91.92,BR,Brazil,None,-22.8305,-43.2192
+189.145.47.232,MX,Mexico,Torreón,25.5752,-103.4222
+189.168.227.1,MX,Mexico,None,19.4371,-99.0111
+189.173.6.172,MX,Mexico,Hermosillo,29.1026,-110.9773
+189.19.60.31,BR,Brazil,Guarulhos,-23.412,-46.4435
+189.190.61.172,MX,Mexico,Puebla City,19.0376,-98.2074
+189.202.68.239,MX,Mexico,Tijuana,32.5027,-117.0037
+189.29.16.20,BR,Brazil,Araraquara,-21.8276,-48.2011
+189.32.163.238,BR,Brazil,Sao Jose do Rio Preto,-20.7691,-49.356700000000004
+189.59.55.182,BR,Brazil,Cuiabá,-15.596,-56.097
+190.10.54.132,CR,Costa Rica,None,10,-84
+190.12.66.81,PE,Peru,None,-12.0433,-77.0283
+190.131.103.58,EC,Ecuador,Guayaquil,-2.1667,-79.9
+190.137.207.94,AR,Argentina,Santa Fe,-31.6333,-60.7
+190.138.185.39,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+190.138.81.82,AR,Argentina,Concordia,-31.4,-58.0333
+190.14.186.130,AR,Argentina,Comodoro Rivadavia,-45.6083,-67.75
+190.15.128.68,EC,Ecuador,None,-2,-77.5
+190.15.203.203,AR,Argentina,Mendoza,-33.1561,-68.8288
+190.152.115.209,EC,Ecuador,None,-2,-77.5
+190.16.157.253,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+190.160.130.212,CL,Chile,Santiago,-33.45,-70.6667
+190.161.13.54,CL,Chile,Santiago,-33.45,-70.6667
+190.162.28.87,CL,Chile,Las Condes,-33.3667,-70.5167
+190.174.18.228,AR,Argentina,La Plata,-34.9314,-57.9489
+190.174.20.90,AR,Argentina,La Plata,-34.9314,-57.9489
+190.176.225.75,AR,Argentina,Pontevedra,-34.7517,-58.7117
+190.177.142.21,AR,Argentina,None,-34.6033,-58.3817
+190.177.151.143,AR,Argentina,Neuquén,-38.95,-68.0667
+190.177.158.244,AR,Argentina,Bariloche,-41.15,-71.3
+190.177.185.228,AR,Argentina,Bariloche,-41.15,-71.3
+190.177.37.247,AR,Argentina,Lomas de Zamora,-34.7667,-58.4
+190.177.68.207,AR,Argentina,Banfield,-34.75,-58.4
+190.177.72.119,AR,Argentina,Jose Maria Ezeiza,-34.8381,-58.5172
+190.177.75.229,AR,Argentina,Lomas de Zamora,-34.7667,-58.4
+190.178.117.212,AR,Argentina,Neuquén,-38.95,-68.0667
+190.178.65.153,AR,Argentina,Allen,-38.9774,-67.8271
+190.178.65.239,AR,Argentina,Allen,-38.9774,-67.8271
+190.178.74.122,AR,Argentina,Neuquén,-38.95,-68.0667
+190.178.74.53,AR,Argentina,Neuquén,-38.95,-68.0667
+190.178.79.114,AR,Argentina,Allen,-38.9774,-67.8271
+190.18.113.167,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+190.183.1.121,AR,Argentina,Paraná,-31.7333,-60.5333
+190.184.83.117,NI,Nicaragua,None,13,-85
+190.20.78.164,CL,Chile,Santiago,-33.45,-70.6667
+190.208.109.4,CL,Chile,None,-33.4378,-70.6503
+190.21.28.255,CL,Chile,None,-33.4378,-70.6503
+190.216.56.34,AR,Argentina,None,-34.6033,-58.3817
+190.22.140.252,CL,Chile,Santiago,-33.45,-70.6667
+190.222.64.236,PE,Peru,None,-12.0433,-77.0283
+190.226.137.123,AR,Argentina,Rosario,-32.9511,-60.6664
+190.227.71.9,AR,Argentina,None,-34.6033,-58.3817
+190.229.236.231,AR,Argentina,San Miguel de Tucumán,-26.8167,-65.2167
+190.232.218.210,PE,Peru,Lima,-12.05,-77.05
+190.234.5.185,PE,Peru,Lima,-12.05,-77.05
+190.235.209.81,PE,Peru,Lima,-12.05,-77.05
+190.246.102.231,AR,Argentina,Tandil,-37.3167,-59.15
+190.25.97.30,CO,Colombia,Bogotá,4.6492,-74.0628
+190.4.235.39,CL,Chile,None,-33.4378,-70.6503
+190.40.173.252,PE,Peru,Puente de Piedra,-11.8667,-77.0833
+190.40.196.11,PE,Peru,Lambayeque,-6.7011,-79.9061
+190.40.238.53,PE,Peru,Lima,-12.05,-77.05
+190.40.91.123,PE,Peru,None,-12.0433,-77.0283
+190.42.151.148,PE,Peru,Lima,-12.05,-77.05
+190.42.71.178,PE,Peru,Lima,-12.05,-77.05
+190.42.8.48,PE,Peru,Lima,-12.05,-77.05
+190.43.71.63,PE,Peru,Lima,-12.05,-77.05
+190.45.150.203,CL,Chile,Santiago,-33.45,-70.6667
+190.47.111.125,CL,Chile,Santiago,-33.45,-70.6667
+190.47.29.75,CL,Chile,Viña del Mar,-33.0081,-71.5197
+190.48.14.244,AR,Argentina,Almirante Brown,-34.7881,-58.4039
+190.49.46.79,AR,Argentina,La Plata,-34.9314,-57.9489
+190.64.101.1,UY,Uruguay,None,-33,-56
+190.64.98.54,UY,Uruguay,None,-33,-56
+190.81.93.72,PE,Peru,None,-12.0433,-77.0283
+190.82.221.98,CL,Chile,Santiago,-33.45,-70.6667
+190.95.187.2,EC,Ecuador,None,-2,-77.5
+190.95.211.18,EC,Ecuador,None,-2,-77.5
+190.95.57.16,CL,Chile,None,-33.4378,-70.6503
+190.95.83.35,CL,Chile,None,-33.4378,-70.6503
+192.100.112.211,GB,United Kingdom,None,51.4964,-0.1224
+192.104.39.2,US,United States,St Louis,38.6185,-90.2564
+192.134.152.230,FR,France,Paris,48.8709,2.3561
+192.188.55.4,EC,Ecuador,Quito,-0.2167,-78.5
+192.234.253.4,US,United States,Oviedo,28.6513,-81.2066
+192.43.227.18,AU,Australia,Adelaide,-34.9287,138.5986
+192.86.100.36,US,United States,Washington,38.9144,-77.074
+193.1.217.20,IE,Ireland,Dublin,53.3331,-6.2489
+193.10.145.40,SE,Sweden,None,59.3247,18.056
+193.105.254.165,UA,Ukraine,None,50.45,30.5233
+193.128.243.6,GB,United Kingdom,None,51.4964,-0.1224
+193.132.78.42,GB,United Kingdom,None,51.4964,-0.1224
+193.136.1.22,PT,Portugal,Oeiras,38.691,-9.3108
+193.140.134.23,TR,Turkey,None,41.0214,28.9948
+193.145.124.210,ES,Spain,San Cristóbal de La Laguna,28.4853,-16.3201
+193.157.203.121,NO,Norway,Oslo,59.905,10.7487
+193.169.86.70,UA,Ukraine,None,49.2328,28.481
+193.190.117.55,BE,Belgium,Ghent,51.05,3.7167
+193.206.79.46,IT,Italy,Pavia,45.1921,9.1592
+193.218.134.246,PL,Poland,None,52.2394,21.0362
+193.219.186.211,LT,Republic of Lithuania,Kaunas,54.9,23.9
+193.255.60.254,TR,Turkey,Yalova,40.6108,29.3412
+193.33.26.121,RU,Russia,None,55.7386,37.6068
+193.35.132.10,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.13,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.19,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.22,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.25,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.4,GB,United Kingdom,None,51.4964,-0.1224
+193.35.132.7,GB,United Kingdom,None,51.4964,-0.1224
+193.47.80.47,FR,France,None,48.8582,2.3387000000000002
+193.62.154.252,GB,United Kingdom,None,51.4964,-0.1224
+194.116.198.179,GB,United Kingdom,None,51.4964,-0.1224
+194.136.238.200,FI,Finland,Kerava,60.419200000000004,25.0952
+194.75.238.105,GB,United Kingdom,None,51.4964,-0.1224
+194.78.48.108,BE,Belgium,Tervuren,50.8167,4.5167
+194.8.75.157,GB,United Kingdom,None,51.4964,-0.1224
+194.83.252.163,GB,United Kingdom,None,51.4964,-0.1224
+195.13.163.99,LV,Latvia,Riga,56.95,24.1
+195.191.40.13,RU,Russia,None,55.7386,37.6068
+195.221.174.217,FR,France,Montpellier,43.6109,3.8772
+195.229.235.38,AE,United Arab Emirates,Dubai,25.2582,55.3047
+195.229.242.53,AE,United Arab Emirates,Abu Dhabi,24.4667,54.3667
+195.229.242.59,AE,United Arab Emirates,Abu Dhabi,24.4667,54.3667
+195.244.169.41,BE,Belgium,Brussels,50.8466,4.3528
+195.248.193.121,FK,Falkland Islands,None,-51.75,-59
+195.3.157.254,UA,Ukraine,Kyiv,50.4547,30.5238
+195.34.233.214,RU,Russia,Lipetsk,52.6186,39.5689
+195.93.21.1,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.10,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.100,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.101,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.102,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.103,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.104,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.105,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.106,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.2,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.3,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.33,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.34,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.36,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.37,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.38,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.39,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.4,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.40,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.41,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.42,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.5,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.6,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.65,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.67,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.68,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.7,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.70,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.71,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.72,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.73,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.74,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.8,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.9,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.97,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.98,GB,United Kingdom,None,51.4964,-0.1224
+195.93.21.99,GB,United Kingdom,None,51.4964,-0.1224
+196.192.40.21,MG,Madagascar,None,-20,47
+196.205.170.26,EG,Egypt,None,30.0355,31.223
+196.3.50.253,None,None,None,47,8
+196.41.20.251,ZA,South Africa,Uitenhage,-33.7653,25.4022
+196.46.246.21,NG,Nigeria,None,10,8
+196.6.221.4,ZA,South Africa,Mmabatho,-25.85,25.6333
+198.53.195.96,CA,Canada,Edson,53.5834,-116.4356
+198.54.202.150,ZA,South Africa,Benoni,-26.1833,28.3167
+198.7.235.70,US,United States,Barrington,41.7443,-71.3175
+198.96.80.15,CA,Canada,London,42.9976,-81.2563
+199.133.17.236,US,United States,Capitol Heights,38.8897,-76.8925
+199.133.185.22,US,United States,None,37.751,-97.822
+200.0.182.62,AR,Argentina,Mar del Plata,-38,-57.55
+200.104.102.234,CL,Chile,Santiago,-33.45,-70.6667
+200.106.98.153,PE,Peru,Lima,-12.05,-77.05
+200.11.0.12,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+200.111.150.2,CL,Chile,Santiago,-33.45,-70.6667
+200.112.70.191,CL,Chile,Talca,-35.4333,-71.6667
+200.117.204.175,AR,Argentina,San Miguel de Tucumán,-26.8167,-65.2167
+200.12.205.154,AR,Argentina,None,-34.6033,-58.3817
+200.127.245.101,AR,Argentina,Villa Ballester,-34.5457,-58.5468
+200.127.26.76,AR,Argentina,San Isidro,-34.4708,-58.5286
+200.140.95.14,BR,Brazil,Brasília,-15.7836,-47.9343
+200.144.29.106,BR,Brazil,Cotia,-23.6704,-46.9472
+200.169.84.236,BR,Brazil,São Paulo,-23.627,-46.635
+200.17.137.79,BR,Brazil,Camaragibe,-7.9878,-34.9914
+200.17.83.66,BR,Brazil,Venancio Aires,-29.5421,-52.2196
+200.29.170.58,CL,Chile,None,-33.4378,-70.6503
+200.3.122.146,AR,Argentina,Rosario,-32.9511,-60.6664
+200.41.129.168,AR,Argentina,None,-34.6033,-58.3817
+200.42.143.173,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+200.43.249.254,AR,Argentina,None,-34.6033,-58.3817
+200.46.83.245,PA,Panama,None,9,-80
+200.51.93.243,AR,Argentina,Buenos Aires,-34.6033,-58.3816
+200.51.96.85,AR,Argentina,None,-34.6033,-58.3817
+200.55.192.130,CL,Chile,None,-33.4378,-70.6503
+200.59.236.106,AR,Argentina,Neuquén,-38.95,-68.0667
+200.7.224.18,EC,Ecuador,None,-2,-77.5
+200.7.40.36,SX,Sint Maarten,None,18.0417,-63.0667
+200.71.233.164,AR,Argentina,None,-34.6033,-58.3817
+200.72.149.186,CL,Chile,None,-33.4378,-70.6503
+200.75.9.162,CL,Chile,None,-33.4378,-70.6503
+200.82.88.170,AR,Argentina,San Miguel de Tucumán,-26.8167,-65.2167
+200.83.174.119,CL,Chile,Maipu,-33.5167,-70.7667
+200.85.200.234,CL,Chile,None,-33.4378,-70.6503
+200.89.58.117,CL,Chile,Punta Arenas,-53.15,-70.9167
+200.89.58.90,CL,Chile,Punta Arenas,-53.15,-70.9167
+200.90.175.181,CL,Chile,Los Ángeles,-37.4667,-72.35
+200.90.194.2,CL,Chile,None,-33.4378,-70.6503
+200.90.247.207,CL,Chile,Tome,-36.6167,-72.95
+200.93.225.26,EC,Ecuador,Guayaquil,-2.1667,-79.9
+200.97.125.15,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+201.10.21.92,BR,Brazil,Canoas,-29.9212,-51.1767
+201.130.223.180,MX,Mexico,None,19.4371,-99.0111
+201.132.83.201,MX,Mexico,Guadalupe,22.7475,-102.5187
+201.138.84.32,MX,Mexico,None,19.4371,-99.0111
+201.158.83.83,MX,Mexico,Saltillo,25.4167,-101.0167
+201.164.163.141,MX,Mexico,Ciudad Nicolás Romero,19.5972,-99.3221
+201.167.123.129,MX,Mexico,Aguascalientes,21.8823,-102.2826
+201.17.96.9,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+201.19.121.73,BR,Brazil,Rio de Janeiro,-22.9201,-43.3307
+201.191.155.142,CR,Costa Rica,Alajuela,10.0281,-84.2573
+201.191.156.226,CR,Costa Rica,Siquirres,10.1589,-83.4546
+201.197.32.18,CR,Costa Rica,None,10,-84
+201.209.202.141,VE,Venezuela,Ambrosio,10.4272,-71.4558
+201.213.177.111,AR,Argentina,San Fernando,-34.442,-58.5574
+201.216.217.101,AR,Argentina,Córdoba,-31.4,-64.1833
+201.222.254.205,CL,Chile,None,-33.4378,-70.6503
+201.223.176.55,CL,Chile,Arica,-18.475,-70.3042
+201.223.62.242,CL,Chile,Mejillones,-23.1,-70.45
+201.231.2.220,AR,Argentina,San Isidro,-34.4708,-58.5286
+201.234.0.134,AR,Argentina,None,-34.6033,-58.3817
+201.234.84.50,EC,Ecuador,None,-2,-77.5
+201.239.161.63,CL,Chile,Santiago,-33.45,-70.6667
+201.24.176.108,BR,Brazil,Goiânia,-16.6402,-49.2599
+201.240.112.249,PE,Peru,Lima,-12.05,-77.05
+201.241.105.239,CL,Chile,Santiago,-33.45,-70.6667
+201.251.98.141,AR,Argentina,Chillar,-37.3,-59.9833
+201.253.225.216,AR,Argentina,None,-34.6033,-58.3817
+201.35.212.98,BR,Brazil,Tubarao,-28.4926,-49.0365
+201.51.253.234,BR,Brazil,None,-22.8305,-43.2192
+201.67.172.104,BR,Brazil,Lages,-27.9449,-50.3525
+201.67.207.227,BR,Brazil,Gaspar,-26.924,-48.9826
+201.79.142.200,BR,Brazil,Joao Neiva,-19.7253,-40.4376
+202.129.240.20,IN,India,Anand,22.5667,72.9333
+202.173.180.65,AU,Australia,Myrniong,-37.6167,144.35
+202.28.78.138,TH,Thailand,Bangkok,13.7833,100.5167
+202.29.18.253,TH,Thailand,None,13.75,100.4667
+202.36.154.162,NZ,New Zealand,None,-41,174
+202.37.78.13,NZ,New Zealand,None,-41,174
+202.5.185.86,CA,Canada,Victoria,48.4496,-123.4193
+202.57.69.84,PH,Philippines,None,14.5955,120.9721
+202.88.240.69,IN,India,Thiruvananthapuram,8.5069,76.9569
+202.89.58.19,NZ,New Zealand,None,-41,174
+203.128.250.31,ID,Indonesia,None,-6.175,106.8286
+203.131.252.14,HK,Hong Kong,None,22.25,114.1667
+203.152.210.122,JP,Japan,None,35.69,139.69
+203.160.128.8,ID,Indonesia,Jakarta,-6.1744,106.8294
+203.173.161.117,NZ,New Zealand,Auckland,-36.8485,174.7635
+203.185.133.16,TH,Thailand,Bangkok,13.754,100.5014
+203.185.214.42,AU,Australia,None,-33.494,143.2104
+203.217.89.136,AU,Australia,Brunswick,-37.7667,144.9667
+203.24.148.50,AU,Australia,Melbourne,-37.8103,144.9544
+203.6.203.78,AU,Australia,Randwick,-33.9144,151.2489
+203.82.81.79,MY,Malaysia,None,2.5,112.5
+203.82.94.34,MY,Malaysia,None,2.5,112.5
+203.87.205.158,PH,Philippines,None,14.5955,120.9721
+203.88.10.131,IN,India,None,20,77
+204.11.225.76,US,United States,San Jose,37.2568,-121.8896
+204.158.157.32,US,United States,Odessa,31.889,-102.3548
+204.218.240.143,US,United States,None,37.751,-97.822
+204.218.240.159,US,United States,None,37.751,-97.822
+204.236.132.156,US,United States,San Jose,37.3388,-121.8914
+204.236.198.191,US,United States,Ashburn,39.0481,-77.4728
+204.236.203.64,US,United States,Ashburn,39.0481,-77.4728
+204.236.211.159,US,United States,Ashburn,39.0481,-77.4728
+204.236.226.210,US,United States,Ashburn,39.0481,-77.4728
+204.244.11.121,CA,Canada,Parksville,49.3,-124.3167
+204.68.97.131,US,United States,None,37.751,-97.822
+204.76.240.247,US,United States,Wesley Chapel,28.2397,-82.3279
+204.84.6.88,US,United States,Kannapolis,35.502,-80.6359
+205.151.118.95,CA,Canada,Shefford-Ouest,45.3501,-72.5658
+205.175.121.127,US,United States,Seattle,47.6849,-122.2968
+205.175.121.68,US,United States,Seattle,47.6849,-122.2968
+205.178.184.152,US,United States,Jacksonville,30.1459,-81.5739
+205.178.184.153,US,United States,Jacksonville,30.1459,-81.5739
+205.178.184.154,US,United States,Jacksonville,30.1459,-81.5739
+205.178.184.155,US,United States,Jacksonville,30.1459,-81.5739
+205.178.184.156,US,United States,Jacksonville,30.1459,-81.5739
+205.188.116.6,US,United States,None,37.751,-97.822
+205.209.170.10,US,United States,San Jose,37.3249,-121.9153
+206.51.228.161,US,United States,Tampa,28.0091,-82.5034
+206.81.181.10,DE,Germany,Frankfurt am Main,50.1153,8.6823
+207.183.232.130,US,United States,Roseville,38.7346,-121.234
+207.241.173.20,US,United States,None,37.751,-97.822
+207.46.12.107,US,United States,Chicago,41.8483,-87.6517
+207.46.12.109,US,United States,Chicago,41.8483,-87.6517
+207.46.12.114,US,United States,Chicago,41.8483,-87.6517
+207.46.12.115,US,United States,Chicago,41.8483,-87.6517
+207.46.12.117,US,United States,Chicago,41.8483,-87.6517
+207.46.12.120,US,United States,Chicago,41.8483,-87.6517
+207.46.12.122,US,United States,Chicago,41.8483,-87.6517
+207.46.12.13,US,United States,Chicago,41.8483,-87.6517
+207.46.12.14,US,United States,Chicago,41.8483,-87.6517
+207.46.12.156,US,United States,Chicago,41.8483,-87.6517
+207.46.12.157,US,United States,Chicago,41.8483,-87.6517
+207.46.12.159,US,United States,Chicago,41.8483,-87.6517
+207.46.12.16,US,United States,Chicago,41.8483,-87.6517
+207.46.12.160,US,United States,Chicago,41.8483,-87.6517
+207.46.12.161,US,United States,Chicago,41.8483,-87.6517
+207.46.12.163,US,United States,Chicago,41.8483,-87.6517
+207.46.12.164,US,United States,Chicago,41.8483,-87.6517
+207.46.12.165,US,United States,Chicago,41.8483,-87.6517
+207.46.12.170,US,United States,Chicago,41.8483,-87.6517
+207.46.12.18,US,United States,Chicago,41.8483,-87.6517
+207.46.12.19,US,United States,Chicago,41.8483,-87.6517
+207.46.12.20,US,United States,Chicago,41.8483,-87.6517
+207.46.12.200,US,United States,Chicago,41.8483,-87.6517
+207.46.12.203,US,United States,Chicago,41.8483,-87.6517
+207.46.12.204,US,United States,Chicago,41.8483,-87.6517
+207.46.12.205,US,United States,Chicago,41.8483,-87.6517
+207.46.12.207,US,United States,Chicago,41.8483,-87.6517
+207.46.12.21,US,United States,Chicago,41.8483,-87.6517
+207.46.12.211,US,United States,Chicago,41.8483,-87.6517
+207.46.12.212,US,United States,Chicago,41.8483,-87.6517
+207.46.12.213,US,United States,Chicago,41.8483,-87.6517
+207.46.12.214,US,United States,Chicago,41.8483,-87.6517
+207.46.12.215,US,United States,Chicago,41.8483,-87.6517
+207.46.12.217,US,United States,Chicago,41.8483,-87.6517
+207.46.12.22,US,United States,Chicago,41.8483,-87.6517
+207.46.12.23,US,United States,Chicago,41.8483,-87.6517
+207.46.12.25,US,United States,Chicago,41.8483,-87.6517
+207.46.12.26,US,United States,Chicago,41.8483,-87.6517
+207.46.12.27,US,United States,Chicago,41.8483,-87.6517
+207.46.12.29,US,United States,Chicago,41.8483,-87.6517
+207.46.12.60,US,United States,Chicago,41.8483,-87.6517
+207.46.12.63,US,United States,Chicago,41.8483,-87.6517
+207.46.12.65,US,United States,Chicago,41.8483,-87.6517
+207.46.12.66,US,United States,Chicago,41.8483,-87.6517
+207.46.12.67,US,United States,Chicago,41.8483,-87.6517
+207.46.12.68,US,United States,Chicago,41.8483,-87.6517
+207.46.12.69,US,United States,Chicago,41.8483,-87.6517
+207.46.12.70,US,United States,Chicago,41.8483,-87.6517
+207.46.12.72,US,United States,Chicago,41.8483,-87.6517
+207.46.12.73,US,United States,Chicago,41.8483,-87.6517
+207.46.13.100,US,United States,None,47.6062,-122.3321
+207.46.13.101,US,United States,None,47.6062,-122.3321
+207.46.13.131,US,United States,None,47.6062,-122.3321
+207.46.13.132,US,United States,None,47.6062,-122.3321
+207.46.13.133,US,United States,None,47.6062,-122.3321
+207.46.13.134,US,United States,None,47.6062,-122.3321
+207.46.13.135,US,United States,None,47.6062,-122.3321
+207.46.13.136,US,United States,None,47.6062,-122.3321
+207.46.13.137,US,United States,None,47.6062,-122.3321
+207.46.13.138,US,United States,None,47.6062,-122.3321
+207.46.13.139,US,United States,None,47.6062,-122.3321
+207.46.13.140,US,United States,None,47.6062,-122.3321
+207.46.13.141,US,United States,None,47.6062,-122.3321
+207.46.13.142,US,United States,None,47.6062,-122.3321
+207.46.13.143,US,United States,None,47.6062,-122.3321
+207.46.13.144,US,United States,None,47.6062,-122.3321
+207.46.13.145,US,United States,None,47.6062,-122.3321
+207.46.13.146,US,United States,None,47.6062,-122.3321
+207.46.13.40,US,United States,None,47.6062,-122.3321
+207.46.13.41,US,United States,None,47.6062,-122.3321
+207.46.13.42,US,United States,None,47.6062,-122.3321
+207.46.13.43,US,United States,None,47.6062,-122.3321
+207.46.13.44,US,United States,None,47.6062,-122.3321
+207.46.13.45,US,United States,None,47.6062,-122.3321
+207.46.13.46,US,United States,None,47.6062,-122.3321
+207.46.13.47,US,United States,None,47.6062,-122.3321
+207.46.13.48,US,United States,None,47.6062,-122.3321
+207.46.13.49,US,United States,None,47.6062,-122.3321
+207.46.13.50,US,United States,None,47.6062,-122.3321
+207.46.13.51,US,United States,None,47.6062,-122.3321
+207.46.13.52,US,United States,None,47.6062,-122.3321
+207.46.13.53,US,United States,None,47.6062,-122.3321
+207.46.13.54,US,United States,None,47.6062,-122.3321
+207.46.13.84,US,United States,None,47.6062,-122.3321
+207.46.13.85,US,United States,None,47.6062,-122.3321
+207.46.13.86,US,United States,None,47.6062,-122.3321
+207.46.13.87,US,United States,None,47.6062,-122.3321
+207.46.13.88,US,United States,None,47.6062,-122.3321
+207.46.13.89,US,United States,None,47.6062,-122.3321
+207.46.13.90,US,United States,None,47.6062,-122.3321
+207.46.13.91,US,United States,None,47.6062,-122.3321
+207.46.13.92,US,United States,None,47.6062,-122.3321
+207.46.13.93,US,United States,None,47.6062,-122.3321
+207.46.13.94,US,United States,None,47.6062,-122.3321
+207.46.13.95,US,United States,None,47.6062,-122.3321
+207.46.13.96,US,United States,None,47.6062,-122.3321
+207.46.13.97,US,United States,None,47.6062,-122.3321
+207.46.13.98,US,United States,None,47.6062,-122.3321
+207.46.13.99,US,United States,None,47.6062,-122.3321
+207.46.193.48,US,United States,Chicago,41.8483,-87.6517
+207.46.194.165,IE,Ireland,Dublin,53.3331,-6.2489
+207.46.194.64,IE,Ireland,Dublin,53.3331,-6.2489
+207.46.194.71,IE,Ireland,Dublin,53.3331,-6.2489
+207.46.195.201,US,United States,Chicago,41.8483,-87.6517
+207.46.195.204,US,United States,Chicago,41.8483,-87.6517
+207.46.195.205,US,United States,Chicago,41.8483,-87.6517
+207.46.195.207,US,United States,Chicago,41.8483,-87.6517
+207.46.195.210,US,United States,Chicago,41.8483,-87.6517
+207.46.195.214,US,United States,Chicago,41.8483,-87.6517
+207.46.195.216,US,United States,Chicago,41.8483,-87.6517
+207.46.195.217,US,United States,Chicago,41.8483,-87.6517
+207.46.195.223,US,United States,Chicago,41.8483,-87.6517
+207.46.195.224,US,United States,Chicago,41.8483,-87.6517
+207.46.195.225,US,United States,Chicago,41.8483,-87.6517
+207.46.195.226,US,United States,Chicago,41.8483,-87.6517
+207.46.195.227,US,United States,Chicago,41.8483,-87.6517
+207.46.195.228,US,United States,Chicago,41.8483,-87.6517
+207.46.195.229,US,United States,Chicago,41.8483,-87.6517
+207.46.195.230,US,United States,Chicago,41.8483,-87.6517
+207.46.195.231,US,United States,Chicago,41.8483,-87.6517
+207.46.195.232,US,United States,Chicago,41.8483,-87.6517
+207.46.195.233,US,United States,Chicago,41.8483,-87.6517
+207.46.195.234,US,United States,Chicago,41.8483,-87.6517
+207.46.195.235,US,United States,Chicago,41.8483,-87.6517
+207.46.195.236,US,United States,Chicago,41.8483,-87.6517
+207.46.195.237,US,United States,Chicago,41.8483,-87.6517
+207.46.195.238,US,United States,Chicago,41.8483,-87.6517
+207.46.195.239,US,United States,Chicago,41.8483,-87.6517
+207.46.195.240,US,United States,Chicago,41.8483,-87.6517
+207.46.195.241,US,United States,Chicago,41.8483,-87.6517
+207.46.195.242,US,United States,Chicago,41.8483,-87.6517
+207.46.199.13,US,United States,Chicago,41.8483,-87.6517
+207.46.199.14,US,United States,Chicago,41.8483,-87.6517
+207.46.199.16,US,United States,Chicago,41.8483,-87.6517
+207.46.199.177,US,United States,Chicago,41.8483,-87.6517
+207.46.199.178,US,United States,Chicago,41.8483,-87.6517
+207.46.199.179,US,United States,Chicago,41.8483,-87.6517
+207.46.199.180,US,United States,Chicago,41.8483,-87.6517
+207.46.199.182,US,United States,Chicago,41.8483,-87.6517
+207.46.199.183,US,United States,Chicago,41.8483,-87.6517
+207.46.199.184,US,United States,Chicago,41.8483,-87.6517
+207.46.199.185,US,United States,Chicago,41.8483,-87.6517
+207.46.199.188,US,United States,Chicago,41.8483,-87.6517
+207.46.199.190,US,United States,Chicago,41.8483,-87.6517
+207.46.199.191,US,United States,Chicago,41.8483,-87.6517
+207.46.199.193,US,United States,Chicago,41.8483,-87.6517
+207.46.199.194,US,United States,Chicago,41.8483,-87.6517
+207.46.199.195,US,United States,Chicago,41.8483,-87.6517
+207.46.199.196,US,United States,Chicago,41.8483,-87.6517
+207.46.199.198,US,United States,Chicago,41.8483,-87.6517
+207.46.199.199,US,United States,Chicago,41.8483,-87.6517
+207.46.199.200,US,United States,Chicago,41.8483,-87.6517
+207.46.199.201,US,United States,Chicago,41.8483,-87.6517
+207.46.199.21,US,United States,Chicago,41.8483,-87.6517
+207.46.199.217,US,United States,Chicago,41.8483,-87.6517
+207.46.199.22,US,United States,Chicago,41.8483,-87.6517
+207.46.199.26,US,United States,Chicago,41.8483,-87.6517
+207.46.199.28,US,United States,Chicago,41.8483,-87.6517
+207.46.199.30,US,United States,Chicago,41.8483,-87.6517
+207.46.199.32,US,United States,Chicago,41.8483,-87.6517
+207.46.199.33,US,United States,Chicago,41.8483,-87.6517
+207.46.199.37,US,United States,Chicago,41.8483,-87.6517
+207.46.199.38,US,United States,Chicago,41.8483,-87.6517
+207.46.199.39,US,United States,Chicago,41.8483,-87.6517
+207.46.199.40,US,United States,Chicago,41.8483,-87.6517
+207.46.199.41,US,United States,Chicago,41.8483,-87.6517
+207.46.199.42,US,United States,Chicago,41.8483,-87.6517
+207.46.199.43,US,United States,Chicago,41.8483,-87.6517
+207.46.199.44,US,United States,Chicago,41.8483,-87.6517
+207.46.199.45,US,United States,Chicago,41.8483,-87.6517
+207.46.199.46,US,United States,Chicago,41.8483,-87.6517
+207.46.199.47,US,United States,Chicago,41.8483,-87.6517
+207.46.199.48,US,United States,Chicago,41.8483,-87.6517
+207.46.199.49,US,United States,Chicago,41.8483,-87.6517
+207.46.199.50,US,United States,Chicago,41.8483,-87.6517
+207.46.199.51,US,United States,Chicago,41.8483,-87.6517
+207.46.199.52,US,United States,Chicago,41.8483,-87.6517
+207.46.199.53,US,United States,Chicago,41.8483,-87.6517
+207.46.199.54,US,United States,Chicago,41.8483,-87.6517
+207.46.199.55,US,United States,Chicago,41.8483,-87.6517
+207.46.204.157,US,United States,Chicago,41.8483,-87.6517
+207.46.204.161,US,United States,Chicago,41.8483,-87.6517
+207.46.204.162,US,United States,Chicago,41.8483,-87.6517
+207.46.204.163,US,United States,Chicago,41.8483,-87.6517
+207.46.204.164,US,United States,Chicago,41.8483,-87.6517
+207.46.204.166,US,United States,Chicago,41.8483,-87.6517
+207.46.204.167,US,United States,Chicago,41.8483,-87.6517
+207.46.204.168,US,United States,Chicago,41.8483,-87.6517
+207.46.204.169,US,United States,Chicago,41.8483,-87.6517
+207.46.204.170,US,United States,Chicago,41.8483,-87.6517
+207.46.204.172,US,United States,Chicago,41.8483,-87.6517
+207.46.204.173,US,United States,Chicago,41.8483,-87.6517
+207.46.204.177,US,United States,Chicago,41.8483,-87.6517
+207.46.204.178,US,United States,Chicago,41.8483,-87.6517
+207.46.204.179,US,United States,Chicago,41.8483,-87.6517
+207.46.204.180,US,United States,Chicago,41.8483,-87.6517
+207.46.204.181,US,United States,Chicago,41.8483,-87.6517
+207.46.204.182,US,United States,Chicago,41.8483,-87.6517
+207.46.204.183,US,United States,Chicago,41.8483,-87.6517
+207.46.204.184,US,United States,Chicago,41.8483,-87.6517
+207.46.204.185,US,United States,Chicago,41.8483,-87.6517
+207.46.204.186,US,United States,Chicago,41.8483,-87.6517
+207.46.204.187,US,United States,Chicago,41.8483,-87.6517
+207.46.204.188,US,United States,Chicago,41.8483,-87.6517
+207.46.204.189,US,United States,Chicago,41.8483,-87.6517
+207.46.204.190,US,United States,Chicago,41.8483,-87.6517
+207.46.204.191,US,United States,Chicago,41.8483,-87.6517
+207.46.204.192,US,United States,Chicago,41.8483,-87.6517
+207.46.204.193,US,United States,Chicago,41.8483,-87.6517
+207.46.204.194,US,United States,Chicago,41.8483,-87.6517
+207.46.204.195,US,United States,Chicago,41.8483,-87.6517
+207.46.204.196,US,United States,Chicago,41.8483,-87.6517
+207.46.204.197,US,United States,Chicago,41.8483,-87.6517
+207.46.204.203,US,United States,Chicago,41.8483,-87.6517
+207.46.204.205,US,United States,Chicago,41.8483,-87.6517
+207.46.204.209,US,United States,Chicago,41.8483,-87.6517
+207.46.204.210,US,United States,Chicago,41.8483,-87.6517
+207.46.204.211,US,United States,Chicago,41.8483,-87.6517
+207.46.204.212,US,United States,Chicago,41.8483,-87.6517
+207.46.204.213,US,United States,Chicago,41.8483,-87.6517
+207.46.204.215,US,United States,Chicago,41.8483,-87.6517
+207.46.204.218,US,United States,Chicago,41.8483,-87.6517
+207.46.204.219,US,United States,Chicago,41.8483,-87.6517
+207.46.204.220,US,United States,Chicago,41.8483,-87.6517
+207.46.204.222,US,United States,Chicago,41.8483,-87.6517
+207.46.204.227,US,United States,Chicago,41.8483,-87.6517
+207.46.204.228,US,United States,Chicago,41.8483,-87.6517
+207.46.204.229,US,United States,Chicago,41.8483,-87.6517
+207.46.204.230,US,United States,Chicago,41.8483,-87.6517
+207.46.204.231,US,United States,Chicago,41.8483,-87.6517
+207.46.204.232,US,United States,Chicago,41.8483,-87.6517
+207.46.204.233,US,United States,Chicago,41.8483,-87.6517
+207.46.204.234,US,United States,Chicago,41.8483,-87.6517
+207.46.204.235,US,United States,Chicago,41.8483,-87.6517
+207.46.204.236,US,United States,Chicago,41.8483,-87.6517
+207.46.204.237,US,United States,Chicago,41.8483,-87.6517
+207.46.204.238,US,United States,Chicago,41.8483,-87.6517
+207.46.204.239,US,United States,Chicago,41.8483,-87.6517
+207.46.204.240,US,United States,Chicago,41.8483,-87.6517
+207.46.204.241,US,United States,Chicago,41.8483,-87.6517
+207.46.204.242,US,United States,Chicago,41.8483,-87.6517
+207.46.204.243,US,United States,Chicago,41.8483,-87.6517
+207.46.204.244,US,United States,Chicago,41.8483,-87.6517
+207.75.211.180,US,United States,Engadine,46.204,-85.6005
+208.114.40.192,US,United States,Hennessey,36.0868,-97.8926
+208.115.111.242,US,United States,Cle Elum,47.2063,-120.9685
+208.115.138.254,US,United States,Easton,40.6957,-75.2865
+208.43.179.10,US,United States,Seattle,47.6062,-122.3321
+208.44.221.71,US,United States,None,37.751,-97.822
+208.70.189.142,US,United States,None,37.751,-97.822
+208.71.173.74,US,United States,San Clemente,33.4615,-117.6375
+208.80.193.1,US,United States,None,37.751,-97.822
+208.80.193.121,US,United States,None,37.751,-97.822
+208.80.193.27,US,United States,None,37.751,-97.822
+208.80.193.28,US,United States,None,37.751,-97.822
+208.80.193.29,US,United States,None,37.751,-97.822
+208.80.193.30,US,United States,None,37.751,-97.822
+208.80.193.32,US,United States,None,37.751,-97.822
+208.80.193.34,US,United States,None,37.751,-97.822
+208.80.193.35,US,United States,None,37.751,-97.822
+208.80.193.36,US,United States,None,37.751,-97.822
+208.80.193.37,US,United States,None,37.751,-97.822
+208.80.193.38,US,United States,None,37.751,-97.822
+208.80.193.39,US,United States,None,37.751,-97.822
+208.80.193.40,US,United States,None,37.751,-97.822
+208.80.193.42,US,United States,None,37.751,-97.822
+208.80.193.43,US,United States,None,37.751,-97.822
+208.80.193.58,US,United States,None,37.751,-97.822
+208.89.76.203,US,United States,Fort Myers,26.5567,-81.9034
+209.125.235.88,US,United States,None,37.751,-97.822
+209.159.223.8,US,United States,Spearfish,44.4958,-103.8703
+209.59.172.198,US,United States,Lansing,42.7376,-84.6244
+209.82.175.238,US,United States,None,37.751,-97.822
+209.85.226.82,US,United States,None,37.751,-97.822
+209.85.228.84,US,United States,None,37.751,-97.822
+210.17.251.159,HK,Hong Kong,None,22.25,114.1667
+210.210.149.157,ID,Indonesia,None,-6.175,106.8286
+210.69.75.17,TW,Taiwan,Taipei,25.0478,121.5318
+210.7.2.235,FJ,Fiji,Suva,-18.1333,178.4167
+211.100.19.216,CN,China,None,39.9289,116.3883
+211.232.57.21,KR,South Korea,None,37.5112,126.97409999999999
+211.30.198.230,AU,Australia,Chatswood,-33.8,151.1833
+212.113.36.33,UA,Ukraine,None,50.45,30.5233
+212.115.225.20,UA,Ukraine,Dnipro,48.4593,35.0386
+212.117.165.179,LU,Luxembourg,None,49.75,6.1667
+212.117.183.163,LU,Luxembourg,None,49.75,6.1667
+212.124.7.164,RU,Russia,Shuya,56.8553,41.3586
+212.138.47.16,SA,Saudi Arabia,None,25,45
+212.138.69.17,SA,Saudi Arabia,None,25,45
+212.138.69.18,SA,Saudi Arabia,None,25,45
+212.138.69.19,SA,Saudi Arabia,None,25,45
+212.138.69.24,SA,Saudi Arabia,None,25,45
+212.175.32.126,TR,Turkey,Istanbul,41.0087,28.9502
+212.178.14.145,UA,Ukraine,Odesa,46.4775,30.7326
+212.183.140.2,GB,United Kingdom,None,51.4964,-0.1224
+212.183.140.61,GB,United Kingdom,None,51.4964,-0.1224
+212.183.222.26,ES,Spain,León,42.6,-5.5703
+212.219.116.109,GB,United Kingdom,Cambridge,52.2093,0.1482
+212.219.116.229,GB,United Kingdom,None,51.3167,-0.5333
+212.219.203.8,GB,United Kingdom,None,51.4964,-0.1224
+212.240.32.98,GB,United Kingdom,None,51.4964,-0.1224
+212.253.165.140,TR,Turkey,Gaziantep,37.25,37.2
+212.33.246.66,RU,Russia,Perm,58,56.25
+212.41.84.34,CH,Switzerland,Stein,47.544,7.9526
+212.44.26.65,GB,United Kingdom,Birmingham,52.4585,-1.9573
+212.44.6.81,GB,United Kingdom,Altrincham,53.35,-2.3333
+212.45.26.214,RU,Russia,Moscow,55.7522,37.6156
+212.55.66.90,UA,Ukraine,Cherkasy,49.4285,32.0621
+212.69.11.40,RS,Serbia,None,44,21
+212.69.53.218,GB,United Kingdom,Hinckley,52.5139,-1.3412
+212.84.104.108,GB,United Kingdom,None,51.4964,-0.1224
+212.84.120.115,GB,United Kingdom,None,51.4964,-0.1224
+212.84.97.184,GB,United Kingdom,None,51.4964,-0.1224
+212.84.98.59,GB,United Kingdom,None,51.4964,-0.1224
+213.105.191.87,GB,United Kingdom,Aylesbury,51.7609,-0.8993
+213.106.114.58,GB,United Kingdom,None,51.4964,-0.1224
+213.106.86.169,GB,United Kingdom,Papworth Everard,52.2279,0.0427
+213.106.93.89,GB,United Kingdom,None,51.4964,-0.1224
+213.120.115.56,GB,United Kingdom,Sidcup,51.4187,0.1178
+213.123.60.37,GB,United Kingdom,Bristol,51.4335,-2.5472
+213.218.142.100,FR,France,None,48.8582,2.3387000000000002
+213.22.137.66,PT,Portugal,Porto,41.1496,-8.611
+213.229.219.129,SI,Slovenia,Rogaška Slatina,46.2375,15.6397
+213.55.66.220,ET,Ethiopia,None,8,38
+213.7.101.10,CY,Cyprus,Paphos,34.7667,32.4167
+213.78.125.170,GB,United Kingdom,Wolverhampton,52.6299,-2.2015000000000002
+213.81.85.15,GB,United Kingdom,None,51.4964,-0.1224
+216.104.15.130,US,United States,None,37.751,-97.822
+216.104.15.134,US,United States,None,37.751,-97.822
+216.104.15.138,US,United States,None,37.751,-97.822
+216.104.15.142,US,United States,None,37.751,-97.822
+216.129.119.10,US,United States,None,37.751,-97.822
+216.129.119.11,US,United States,None,37.751,-97.822
+216.129.119.12,US,United States,None,37.751,-97.822
+216.129.119.13,US,United States,None,37.751,-97.822
+216.129.119.14,US,United States,None,37.751,-97.822
+216.129.119.40,US,United States,None,37.751,-97.822
+216.129.119.41,US,United States,None,37.751,-97.822
+216.129.119.42,US,United States,None,37.751,-97.822
+216.129.119.43,US,United States,None,37.751,-97.822
+216.129.119.44,US,United States,None,37.751,-97.822
+216.129.119.45,US,United States,None,37.751,-97.822
+216.129.119.46,US,United States,None,37.751,-97.822
+216.129.119.47,US,United States,None,37.751,-97.822
+216.129.119.48,US,United States,None,37.751,-97.822
+216.129.119.49,US,United States,None,37.751,-97.822
+216.155.41.11,US,United States,None,37.751,-97.822
+216.157.145.63,US,United States,None,37.751,-97.822
+216.158.1.201,US,United States,Lewes,38.7381,-75.1747
+216.188.244.90,US,United States,Waco,31.5765,-97.1786
+216.38.35.125,US,United States,Pine Island,44.211,-92.6613
+216.73.249.89,US,United States,Brooklyn,40.6412,-74.0133
+217.112.115.34,NL,Netherlands,Veenendaal,52.0334,5.5489
+217.127.72.187,ES,Spain,Oleiros,43.3382,-8.3736
+217.131.205.249,TR,Turkey,Istanbul,41.0177,28.9744
+217.131.211.130,TR,Turkey,Bursa,40.1686,28.9208
+217.131.211.141,TR,Turkey,Bursa,40.1686,28.9208
+217.131.85.167,TR,Turkey,Istanbul,41.0279,28.94
+217.14.6.72,NO,Norway,Oslo,59.905,10.7487
+217.158.27.130,GB,United Kingdom,Hampstead,51.5407,-0.1964
+217.16.22.72,RU,Russia,None,55.7386,37.6068
+217.166.60.242,NL,Netherlands,Goes,51.514,3.8796
+217.18.20.253,GB,United Kingdom,City of Westminster,51.5085,-0.1257
+217.20.118.75,DE,Germany,None,51.2993,9.491
+217.207.136.226,GB,United Kingdom,London,51.5161,-0.0949
+217.227.131.203,DE,Germany,Sangerhausen,51.4722,11.2953
+217.227.182.234,DE,Germany,Penig,50.9334,12.7042
+217.228.242.181,DE,Germany,Schwarzheide,51.4767,13.8556
+217.36.123.213,GB,United Kingdom,Brighton,50.8614,-0.1204
+217.39.49.239,GB,United Kingdom,Skipton,54.0283,-2.1506
+217.39.77.7,GB,United Kingdom,Barnet,51.6493,-0.1482
+217.42.14.206,GB,United Kingdom,Slough,51.5353,-0.6658
+217.42.31.71,GB,United Kingdom,Maidstone,51.2539,0.5327
+217.44.249.153,GB,United Kingdom,Uckfield,50.9956,0.1845
+217.44.85.20,GB,United Kingdom,Bishop Auckland,54.6793,-1.8451
+217.87.245.167,DE,Germany,Witten,51.4644,7.3739
+218.108.29.104,CN,China,None,30.2936,120.1614
+218.185.56.178,AU,Australia,None,-33.494,143.2104
+218.186.11.10,SG,Singapore,None,1.3667,103.8
+218.186.11.12,SG,Singapore,None,1.3667,103.8
+218.186.11.228,SG,Singapore,None,1.3667,103.8
+218.186.11.249,SG,Singapore,None,1.3667,103.8
+218.22.21.2,CN,China,Hefei,31.8639,117.2808
+218.88.35.31,CN,China,Chengdu,30.6667,104.0667
+219.117.193.20,JP,Japan,Yokohama,35.3608,139.5361
+219.124.174.189,JP,Japan,Takamatsu,34.3621,134.1415
+219.124.174.205,JP,Japan,Takamatsu,34.3621,134.1415
+219.13.86.5,JP,Japan,None,35.69,139.69
+219.133.105.219,CN,China,None,23.1167,113.25
+219.89.226.84,NZ,New Zealand,None,-41,174
+220.157.216.215,JP,Japan,Setagaya-ku,35.6333,139.65
+220.181.125.68,CN,China,Beijing,39.9288,116.3889
+220.181.125.71,CN,China,Beijing,39.9288,116.3889
+220.181.66.165,CN,China,Beijing,39.9288,116.3889
+220.181.7.100,CN,China,Beijing,39.9288,116.3889
+220.181.7.104,CN,China,Beijing,39.9288,116.3889
+220.181.7.106,CN,China,Beijing,39.9288,116.3889
+220.181.7.107,CN,China,Beijing,39.9288,116.3889
+220.181.7.108,CN,China,Beijing,39.9288,116.3889
+220.181.7.109,CN,China,Beijing,39.9288,116.3889
+220.181.7.112,CN,China,Beijing,39.9288,116.3889
+220.181.7.113,CN,China,Beijing,39.9288,116.3889
+220.181.7.115,CN,China,Beijing,39.9288,116.3889
+220.181.7.116,CN,China,Beijing,39.9288,116.3889
+220.181.7.117,CN,China,Beijing,39.9288,116.3889
+220.181.7.118,CN,China,Beijing,39.9288,116.3889
+220.181.7.119,CN,China,Beijing,39.9288,116.3889
+220.181.7.120,CN,China,Beijing,39.9288,116.3889
+220.181.7.121,CN,China,Beijing,39.9288,116.3889
+220.181.7.122,CN,China,Beijing,39.9288,116.3889
+220.181.7.123,CN,China,Beijing,39.9288,116.3889
+220.181.7.124,CN,China,Beijing,39.9288,116.3889
+220.181.7.125,CN,China,Beijing,39.9288,116.3889
+220.181.7.126,CN,China,Beijing,39.9288,116.3889
+220.181.7.127,CN,China,Beijing,39.9288,116.3889
+220.181.7.128,CN,China,Beijing,39.9288,116.3889
+220.181.7.129,CN,China,Beijing,39.9288,116.3889
+220.181.7.130,CN,China,Beijing,39.9288,116.3889
+220.181.7.131,CN,China,Beijing,39.9288,116.3889
+220.181.7.132,CN,China,Beijing,39.9288,116.3889
+220.181.7.14,CN,China,Beijing,39.9288,116.3889
+220.181.7.17,CN,China,Beijing,39.9288,116.3889
+220.181.7.19,CN,China,Beijing,39.9288,116.3889
+220.181.7.20,CN,China,Beijing,39.9288,116.3889
+220.181.7.23,CN,China,Beijing,39.9288,116.3889
+220.181.7.28,CN,China,Beijing,39.9288,116.3889
+220.181.7.32,CN,China,Beijing,39.9288,116.3889
+220.181.7.33,CN,China,Beijing,39.9288,116.3889
+220.181.7.34,CN,China,Beijing,39.9288,116.3889
+220.181.7.36,CN,China,Beijing,39.9288,116.3889
+220.181.7.37,CN,China,Beijing,39.9288,116.3889
+220.181.7.38,CN,China,Beijing,39.9288,116.3889
+220.181.7.40,CN,China,Beijing,39.9288,116.3889
+220.181.7.43,CN,China,Beijing,39.9288,116.3889
+220.181.7.44,CN,China,Beijing,39.9288,116.3889
+220.181.7.45,CN,China,Beijing,39.9288,116.3889
+220.181.7.47,CN,China,Beijing,39.9288,116.3889
+220.181.7.48,CN,China,Beijing,39.9288,116.3889
+220.181.7.49,CN,China,Beijing,39.9288,116.3889
+220.181.7.51,CN,China,Beijing,39.9288,116.3889
+220.181.7.52,CN,China,Beijing,39.9288,116.3889
+220.181.7.54,CN,China,Beijing,39.9288,116.3889
+220.181.7.55,CN,China,Beijing,39.9288,116.3889
+220.181.7.56,CN,China,Beijing,39.9288,116.3889
+220.181.7.57,CN,China,Beijing,39.9288,116.3889
+220.181.7.58,CN,China,Beijing,39.9288,116.3889
+220.181.7.59,CN,China,Beijing,39.9288,116.3889
+220.181.7.60,CN,China,Beijing,39.9288,116.3889
+220.181.7.61,CN,China,Beijing,39.9288,116.3889
+220.181.7.62,CN,China,Beijing,39.9288,116.3889
+220.181.7.63,CN,China,Beijing,39.9288,116.3889
+220.181.7.64,CN,China,Beijing,39.9288,116.3889
+220.181.7.65,CN,China,Beijing,39.9288,116.3889
+220.181.7.66,CN,China,Beijing,39.9288,116.3889
+220.181.7.67,CN,China,Beijing,39.9288,116.3889
+220.181.7.68,CN,China,Beijing,39.9288,116.3889
+220.181.7.69,CN,China,Beijing,39.9288,116.3889
+220.181.7.70,CN,China,Beijing,39.9288,116.3889
+220.181.7.71,CN,China,Beijing,39.9288,116.3889
+220.181.7.72,CN,China,Beijing,39.9288,116.3889
+220.181.7.73,CN,China,Beijing,39.9288,116.3889
+220.181.7.74,CN,China,Beijing,39.9288,116.3889
+220.181.7.75,CN,China,Beijing,39.9288,116.3889
+220.181.7.76,CN,China,Beijing,39.9288,116.3889
+220.181.7.77,CN,China,Beijing,39.9288,116.3889
+220.181.7.78,CN,China,Beijing,39.9288,116.3889
+220.181.7.79,CN,China,Beijing,39.9288,116.3889
+220.181.7.80,CN,China,Beijing,39.9288,116.3889
+220.181.7.81,CN,China,Beijing,39.9288,116.3889
+220.181.7.82,CN,China,Beijing,39.9288,116.3889
+220.181.7.83,CN,China,Beijing,39.9288,116.3889
+220.181.7.84,CN,China,Beijing,39.9288,116.3889
+220.181.7.85,CN,China,Beijing,39.9288,116.3889
+220.181.7.86,CN,China,Beijing,39.9288,116.3889
+220.181.7.87,CN,China,Beijing,39.9288,116.3889
+220.181.7.88,CN,China,Beijing,39.9288,116.3889
+220.181.7.89,CN,China,Beijing,39.9288,116.3889
+220.181.7.90,CN,China,Beijing,39.9288,116.3889
+220.181.7.91,CN,China,Beijing,39.9288,116.3889
+220.181.7.92,CN,China,Beijing,39.9288,116.3889
+220.181.7.93,CN,China,Beijing,39.9288,116.3889
+220.181.7.94,CN,China,Beijing,39.9288,116.3889
+220.181.7.95,CN,China,Beijing,39.9288,116.3889
+220.181.7.96,CN,China,Beijing,39.9288,116.3889
+220.181.7.99,CN,China,Beijing,39.9288,116.3889
+220.253.102.76,AU,Australia,Ballarat,-37.5662,143.8496
+220.253.148.115,AU,Australia,Dianella,-31.8882,115.8719
+220.253.151.45,AU,Australia,Dianella,-31.8882,115.8719
+221.130.7.102,CN,China,Beijing,39.9288,116.3889
+221.208.241.248,CN,China,None,45.75,126.65
+221.38.234.102,JP,Japan,None,35.69,139.69
+222.124.203.10,ID,Indonesia,Bandung,-6.9222,107.6069
+222.124.207.5,ID,Indonesia,Bandung,-6.9222,107.6069
+222.124.3.12,ID,Indonesia,None,-6.175,106.8286
+222.66.83.60,CN,China,None,31.0456,121.3997
+24.10.190.114,US,United States,Salt Lake City,40.7043,-111.8142
+24.108.22.0,CA,Canada,Victoria,48.4765,-123.3145
+24.130.88.151,US,United States,Sebastopol,38.3941,-122.8433
+24.16.157.102,US,United States,Bellevue,47.615,-122.1663
+24.18.156.14,US,United States,Seattle,47.6379,-122.3643
+24.186.166.147,US,United States,Millbrook,41.7803,-73.6885
+24.188.123.50,US,United States,Island Park,40.604,-73.6554
+24.189.174.196,US,United States,The Bronx,40.852,-73.9129
+24.197.139.109,US,United States,Anderson,34.5261,-82.6304
+24.2.38.93,US,United States,Roseville,38.7346,-121.234
+24.201.124.118,CA,Canada,Québec,46.8528,-71.2573
+24.205.145.134,US,United States,Temple City,34.1016,-118.0537
+24.207.250.197,US,United States,St Louis,38.5814,-90.2625
+24.21.133.140,US,United States,Portland,45.5472,-122.5001
+24.210.70.237,US,United States,West Mansfield,40.4043,-83.5243
+24.22.125.177,US,United States,Eugene,44.0682,-123.0819
+24.22.70.76,US,United States,Salem,44.9039,-123.0445
+24.240.203.106,US,United States,St Louis,38.6669,-90.3225
+24.39.211.14,US,United States,Buffalo,42.9164,-78.8763
+24.44.139.8,US,United States,Farmingdale,40.7315,-73.4327
+24.44.58.160,US,United States,Milford,41.2175,-73.0549
+24.7.65.16,US,United States,San Pablo,37.9724,-122.3369
+24.89.237.110,CA,Canada,Dartmouth,44.6819,-63.5768
+38.100.226.146,US,United States,Issaquah,47.5585,-122.0055
+38.100.41.113,US,United States,Washington,38.9067,-77.0312
+38.101.148.126,US,United States,None,37.751,-97.822
+38.105.83.12,US,United States,Washington,38.9202,-77.0375
+38.111.117.1,US,United States,None,37.751,-97.822
+38.127.134.3,US,United States,None,37.751,-97.822
+38.99.96.11,US,United States,None,37.751,-97.822
+38.99.96.115,US,United States,None,37.751,-97.822
+38.99.96.210,US,United States,None,37.751,-97.822
+38.99.96.81,US,United States,None,37.751,-97.822
+38.99.97.103,US,United States,None,37.751,-97.822
+38.99.97.115,US,United States,None,37.751,-97.822
+38.99.98.110,US,United States,None,37.751,-97.822
+4.79.205.35,US,United States,Roanoke,37.2704,-79.9535
+41.182.204.226,NA,Namibia,Tsumeb,-19.2333,17.7167
+41.201.78.27,DZ,Algeria,Bab Ezzouar,36.7261,3.1829
+41.202.74.171,CI,Ivory Coast,Ledi,8.2495,-3.1245
+41.204.224.14,NG,Nigeria,None,10,8
+41.221.202.142,CV,Cabo Verde,None,15.1111,-23.6167
+41.233.47.81,EG,Egypt,Alexandria,31.2156,29.9553
+41.235.233.101,EG,Egypt,Cairo,30.0771,31.2859
+41.238.20.40,EG,Egypt,None,30.0355,31.223
+41.238.23.134,EG,Egypt,None,30.0355,31.223
+41.250.23.52,MA,Morocco,None,32,-5
+41.254.1.217,LY,Libya,None,25,17
+58.107.66.231,AU,Australia,Canberra,-35.276,149.1344
+58.173.41.198,AU,Australia,None,-33.494,143.2104
+58.175.155.1,AU,Australia,None,-33.494,143.2104
+58.61.164.141,CN,China,None,23.1167,113.25
+58.61.164.19,CN,China,None,23.1167,113.25
+58.61.164.40,CN,China,None,23.1167,113.25
+58.64.41.68,TH,Thailand,None,13.75,100.4667
+58.96.89.126,AU,Australia,Exeter,-41.2975,146.9505
+59.165.135.78,IN,India,None,20,77
+59.177.106.226,IN,India,New Delhi,28.6,77.2
+59.177.98.161,IN,India,New Delhi,28.6,77.2
+59.183.56.247,IN,India,Mumbai,18.975,72.8258
+59.95.55.121,IN,India,Gwalior,26.2236,78.1792
+59.97.96.29,IN,India,Pune,18.5333,73.8667
+60.224.132.144,AU,Australia,Kew,-37.8064,145.0309
+60.52.86.7,MY,Malaysia,Bayan Lepas,5.3294,100.2907
+61.147.97.249,CN,China,None,32.0617,118.7778
+61.160.216.63,CN,China,None,32.0617,118.7778
+61.183.15.9,CN,China,None,30.5801,114.2734
+61.215.163.136,JP,Japan,None,35.69,139.69
+61.23.221.9,JP,Japan,Sagamihara,35.5298,139.404
+61.247.222.45,KR,South Korea,None,37.5112,126.97409999999999
+61.64.137.220,TW,Taiwan,None,23.5,121
+61.8.252.134,SG,Singapore,Singapore,1.2931,103.8558
+61.89.27.53,JP,Japan,Nara,34.6853,135.8328
+62.122.211.4,RU,Russia,Moscow,55.7522,37.6156
+62.171.194.4,GB,United Kingdom,None,51.4964,-0.1224
+62.177.82.78,CZ,Czechia,None,50.0848,14.411200000000001
+62.190.148.25,GB,United Kingdom,Hinckley,52.5139,-1.3412
+62.190.94.91,GB,United Kingdom,London,51.5265,-0.0986
+62.194.121.218,NL,Netherlands,Barneveld,52.1317,5.5815
+62.203.196.110,CH,Switzerland,Dornach,47.4804,7.6164
+62.24.222.131,GB,United Kingdom,None,51.4964,-0.1224
+62.24.222.132,GB,United Kingdom,None,51.4964,-0.1224
+62.25.109.195,GB,United Kingdom,Maidstone,51.2738,0.497
+62.254.10.169,GB,United Kingdom,Manchester,53.4688,-2.3119
+62.254.8.67,GB,United Kingdom,Manchester,53.4688,-2.3119
+62.28.37.67,PT,Portugal,Amarante,41.2495,-8.1023
+62.43.184.15,ES,Spain,Inca,39.7211,2.9109
+62.56.108.172,GB,United Kingdom,St Austell,50.3365,-4.757
+62.62.128.161,FR,France,Vertou,47.1687,-1.4693
+62.80.246.145,LT,Republic of Lithuania,Šiauliai,55.9333,23.3167
+63.110.125.22,US,United States,None,37.751,-97.822
+63.130.248.38,GB,United Kingdom,None,51.4964,-0.1224
+63.196.142.33,US,United States,None,37.751,-97.822
+64.118.27.112,CA,Canada,Westport,44.6833,-76.4
+64.125.222.16,US,United States,Hutchinson,38.055,-97.9311
+64.129.85.90,US,United States,None,30.0815,-81.5477
+64.184.228.230,US,United States,Hereford,31.4035,-110.2047
+64.229.192.152,CA,Canada,Brampton,43.6665,-79.8054
+64.233.172.1,US,United States,None,37.751,-97.822
+64.237.233.140,PR,Puerto Rico,San Juan,18.4663,-66.1057
+64.246.165.170,US,United States,None,37.751,-97.822
+64.246.165.50,US,United States,None,37.751,-97.822
+64.255.180.164,US,United States,Santa Clara,37.3483,-121.9844
+64.38.3.50,US,United States,None,37.751,-97.822
+64.56.64.57,US,United States,Los Angeles,34.0584,-118.278
+64.56.67.154,US,United States,Los Angeles,34.0584,-118.278
+65.100.37.183,US,United States,Vancouver,45.6644,-122.5212
+65.102.152.96,US,United States,Seattle,47.5412,-122.275
+65.243.184.91,US,United States,Port Angeles,48.1065,-123.4384
+65.243.185.247,US,United States,Port Angeles,48.1065,-123.4384
+65.243.186.2,US,United States,Port Angeles,48.1065,-123.4384
+65.244.122.243,US,United States,None,37.751,-97.822
+65.49.2.18,US,United States,None,37.751,-97.822
+65.51.46.18,US,United States,Brooklyn,40.6628,-73.9546
+65.52.108.58,US,United States,Boydton,36.6544,-78.3752
+65.55.104.53,US,United States,Washington,38.7078,-78.1566
+65.55.104.58,US,United States,Washington,38.7078,-78.1566
+65.55.104.60,US,United States,Washington,38.7078,-78.1566
+65.55.104.63,US,United States,Washington,38.7078,-78.1566
+65.55.104.67,US,United States,Washington,38.7078,-78.1566
+65.55.104.68,US,United States,Washington,38.7078,-78.1566
+65.55.104.70,US,United States,Washington,38.7078,-78.1566
+65.55.104.72,US,United States,Washington,38.7078,-78.1566
+65.55.104.74,US,United States,Washington,38.7078,-78.1566
+65.55.106.107,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.108,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.109,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.111,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.112,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.113,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.114,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.115,SG,Singapore,Singapore,1.2931,103.8558
+65.55.106.131,US,United States,Boydton,36.6544,-78.3752
+65.55.106.132,US,United States,Boydton,36.6544,-78.3752
+65.55.106.133,US,United States,Boydton,36.6544,-78.3752
+65.55.106.134,US,United States,Boydton,36.6544,-78.3752
+65.55.106.135,US,United States,Boydton,36.6544,-78.3752
+65.55.106.136,US,United States,Boydton,36.6544,-78.3752
+65.55.106.137,US,United States,Boydton,36.6544,-78.3752
+65.55.106.138,US,United States,Boydton,36.6544,-78.3752
+65.55.106.139,US,United States,Boydton,36.6544,-78.3752
+65.55.106.155,US,United States,Boydton,36.6544,-78.3752
+65.55.106.156,US,United States,Boydton,36.6544,-78.3752
+65.55.106.157,US,United States,Boydton,36.6544,-78.3752
+65.55.106.158,US,United States,Boydton,36.6544,-78.3752
+65.55.106.159,US,United States,Boydton,36.6544,-78.3752
+65.55.106.160,US,United States,Boydton,36.6544,-78.3752
+65.55.106.161,US,United States,Boydton,36.6544,-78.3752
+65.55.106.162,US,United States,Boydton,36.6544,-78.3752
+65.55.106.163,US,United States,Boydton,36.6544,-78.3752
+65.55.106.179,US,United States,Boydton,36.6544,-78.3752
+65.55.106.180,US,United States,Boydton,36.6544,-78.3752
+65.55.106.181,US,United States,Boydton,36.6544,-78.3752
+65.55.106.182,US,United States,Boydton,36.6544,-78.3752
+65.55.106.183,US,United States,Boydton,36.6544,-78.3752
+65.55.106.184,US,United States,Boydton,36.6544,-78.3752
+65.55.106.185,US,United States,Boydton,36.6544,-78.3752
+65.55.106.186,US,United States,Boydton,36.6544,-78.3752
+65.55.106.187,US,United States,Boydton,36.6544,-78.3752
+65.55.106.203,US,United States,Redmond,47.6718,-122.1232
+65.55.106.204,US,United States,Redmond,47.6718,-122.1232
+65.55.106.207,US,United States,Redmond,47.6718,-122.1232
+65.55.106.208,US,United States,Chicago,41.8483,-87.6517
+65.55.106.210,US,United States,Chicago,41.8483,-87.6517
+65.55.106.211,US,United States,Chicago,41.8483,-87.6517
+65.55.106.227,US,United States,Chicago,41.8483,-87.6517
+65.55.106.228,US,United States,Chicago,41.8483,-87.6517
+65.55.106.229,US,United States,Chicago,41.8483,-87.6517
+65.55.106.230,US,United States,Chicago,41.8483,-87.6517
+65.55.106.231,US,United States,Chicago,41.8483,-87.6517
+65.55.106.232,US,United States,Chicago,41.8483,-87.6517
+65.55.106.233,US,United States,Chicago,41.8483,-87.6517
+65.55.106.234,US,United States,Chicago,41.8483,-87.6517
+65.55.107.179,US,United States,Redmond,47.6718,-122.1232
+65.55.107.180,US,United States,Redmond,47.6718,-122.1232
+65.55.107.181,US,United States,Redmond,47.6718,-122.1232
+65.55.107.182,US,United States,Redmond,47.6718,-122.1232
+65.55.109.158,US,United States,Chicago,41.8483,-87.6517
+65.55.109.168,US,United States,Chicago,41.8483,-87.6517
+65.55.109.20,US,United States,Chicago,41.8483,-87.6517
+65.55.109.203,US,United States,Chicago,41.8483,-87.6517
+65.55.109.241,US,United States,Chicago,41.8483,-87.6517
+65.55.109.45,US,United States,Chicago,41.8483,-87.6517
+65.55.109.48,US,United States,Chicago,41.8483,-87.6517
+65.55.109.91,US,United States,Chicago,41.8483,-87.6517
+65.55.109.93,US,United States,Chicago,41.8483,-87.6517
+65.55.110.156,US,United States,Redmond,47.6718,-122.1232
+65.55.110.171,US,United States,Redmond,47.6718,-122.1232
+65.55.110.197,US,United States,Redmond,47.6718,-122.1232
+65.55.110.216,US,United States,Redmond,47.6718,-122.1232
+65.55.110.218,US,United States,Redmond,47.6718,-122.1232
+65.55.110.219,US,United States,Redmond,47.6718,-122.1232
+65.55.110.230,US,United States,Redmond,47.6718,-122.1232
+65.55.110.26,US,United States,Redmond,47.6718,-122.1232
+65.55.2.140,US,United States,Redmond,47.6718,-122.1232
+65.55.207.100,US,United States,Redmond,47.6718,-122.1232
+65.55.207.101,US,United States,Redmond,47.6718,-122.1232
+65.55.207.102,US,United States,Redmond,47.6718,-122.1232
+65.55.207.118,US,United States,Redmond,47.6718,-122.1232
+65.55.207.119,US,United States,Redmond,47.6718,-122.1232
+65.55.207.121,US,United States,Redmond,47.6718,-122.1232
+65.55.207.122,US,United States,Redmond,47.6718,-122.1232
+65.55.207.125,US,United States,Redmond,47.6718,-122.1232
+65.55.207.126,US,United States,Redmond,47.6718,-122.1232
+65.55.207.131,US,United States,Redmond,47.6718,-122.1232
+65.55.207.132,US,United States,Redmond,47.6718,-122.1232
+65.55.207.133,US,United States,Redmond,47.6718,-122.1232
+65.55.207.134,US,United States,Redmond,47.6718,-122.1232
+65.55.207.135,US,United States,Redmond,47.6718,-122.1232
+65.55.207.138,US,United States,Redmond,47.6718,-122.1232
+65.55.207.21,US,United States,Redmond,47.6718,-122.1232
+65.55.207.22,US,United States,Redmond,47.6718,-122.1232
+65.55.207.23,US,United States,Redmond,47.6718,-122.1232
+65.55.207.25,US,United States,Redmond,47.6718,-122.1232
+65.55.207.26,US,United States,Redmond,47.6718,-122.1232
+65.55.207.27,US,United States,Redmond,47.6718,-122.1232
+65.55.207.30,US,United States,Redmond,47.6718,-122.1232
+65.55.207.45,US,United States,Redmond,47.6718,-122.1232
+65.55.207.47,US,United States,Redmond,47.6718,-122.1232
+65.55.207.48,US,United States,Redmond,47.6718,-122.1232
+65.55.207.49,US,United States,Redmond,47.6718,-122.1232
+65.55.207.51,US,United States,Redmond,47.6718,-122.1232
+65.55.207.52,US,United States,Redmond,47.6718,-122.1232
+65.55.207.54,US,United States,Redmond,47.6718,-122.1232
+65.55.207.69,US,United States,Redmond,47.6718,-122.1232
+65.55.207.70,US,United States,Redmond,47.6718,-122.1232
+65.55.207.71,US,United States,Redmond,47.6718,-122.1232
+65.55.207.72,US,United States,Redmond,47.6718,-122.1232
+65.55.207.74,US,United States,Redmond,47.6718,-122.1232
+65.55.207.75,US,United States,Redmond,47.6718,-122.1232
+65.55.207.76,US,United States,Redmond,47.6718,-122.1232
+65.55.207.78,US,United States,Redmond,47.6718,-122.1232
+65.55.207.93,US,United States,Redmond,47.6718,-122.1232
+65.55.207.94,US,United States,Redmond,47.6718,-122.1232
+65.55.207.96,US,United States,Redmond,47.6718,-122.1232
+65.55.207.97,US,United States,Redmond,47.6718,-122.1232
+65.55.207.98,US,United States,Redmond,47.6718,-122.1232
+65.55.207.99,US,United States,Redmond,47.6718,-122.1232
+65.55.215.74,US,United States,None,47.6062,-122.3321
+65.55.215.75,US,United States,None,47.6062,-122.3321
+65.55.215.76,US,United States,None,47.6062,-122.3321
+65.55.216.10,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.11,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.32,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.33,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.44,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.53,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.54,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.55,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.216.9,IE,Ireland,Dublin,53.3331,-6.2489
+65.55.218.158,US,United States,Chicago,41.8483,-87.6517
+65.55.218.159,US,United States,Chicago,41.8483,-87.6517
+65.55.37.203,US,United States,Redmond,47.6718,-122.1232
+65.55.51.110,US,United States,Redmond,47.6718,-122.1232
+65.55.51.114,US,United States,Redmond,47.6718,-122.1232
+65.55.51.115,US,United States,Redmond,47.6718,-122.1232
+65.55.51.69,US,United States,Redmond,47.6718,-122.1232
+65.55.51.70,US,United States,Redmond,47.6718,-122.1232
+65.8.164.144,US,United States,Seattle,47.5413,-122.3129
+65.83.116.10,US,United States,Sanford,28.7644,-81.282
+66.102.62.148,US,United States,Wapakoneta,40.569,-84.1774
+66.219.58.34,US,United States,Boulder,40.0497,-105.2143
+66.220.145.246,US,United States,None,37.751,-97.822
+66.220.146.244,US,United States,None,37.751,-97.822
+66.220.146.245,US,United States,None,37.751,-97.822
+66.220.146.246,US,United States,None,37.751,-97.822
+66.220.153.245,US,United States,None,37.751,-97.822
+66.220.153.246,US,United States,None,37.751,-97.822
+66.220.153.250,US,United States,None,37.751,-97.822
+66.220.156.246,US,United States,None,37.751,-97.822
+66.235.124.18,US,United States,None,37.751,-97.822
+66.235.124.54,US,United States,None,37.751,-97.822
+66.235.124.55,US,United States,None,37.751,-97.822
+66.235.124.56,US,United States,None,37.751,-97.822
+66.235.124.57,US,United States,None,37.751,-97.822
+66.235.124.58,US,United States,None,37.751,-97.822
+66.235.124.59,US,United States,None,37.751,-97.822
+66.235.124.73,US,United States,None,37.751,-97.822
+66.249.65.101,US,United States,None,37.751,-97.822
+66.249.65.102,US,United States,None,37.751,-97.822
+66.249.65.107,US,United States,None,37.751,-97.822
+66.249.65.118,US,United States,None,37.751,-97.822
+66.249.65.129,US,United States,None,37.751,-97.822
+66.249.65.134,US,United States,None,37.751,-97.822
+66.249.65.138,US,United States,None,37.751,-97.822
+66.249.65.146,US,United States,None,37.751,-97.822
+66.249.65.147,US,United States,None,37.751,-97.822
+66.249.65.166,US,United States,None,37.751,-97.822
+66.249.65.172,US,United States,None,37.751,-97.822
+66.249.65.177,US,United States,None,37.751,-97.822
+66.249.65.181,US,United States,None,37.751,-97.822
+66.249.65.182,US,United States,None,37.751,-97.822
+66.249.65.183,US,United States,None,37.751,-97.822
+66.249.65.186,US,United States,None,37.751,-97.822
+66.249.65.188,US,United States,None,37.751,-97.822
+66.249.65.195,US,United States,None,37.751,-97.822
+66.249.65.197,US,United States,None,37.751,-97.822
+66.249.65.199,US,United States,None,37.751,-97.822
+66.249.65.2,US,United States,None,37.751,-97.822
+66.249.65.201,US,United States,None,37.751,-97.822
+66.249.65.202,US,United States,None,37.751,-97.822
+66.249.65.204,US,United States,None,37.751,-97.822
+66.249.65.205,US,United States,None,37.751,-97.822
+66.249.65.206,US,United States,None,37.751,-97.822
+66.249.65.213,US,United States,None,37.751,-97.822
+66.249.65.219,US,United States,None,37.751,-97.822
+66.249.65.226,US,United States,None,37.751,-97.822
+66.249.65.230,US,United States,None,37.751,-97.822
+66.249.65.231,US,United States,None,37.751,-97.822
+66.249.65.232,US,United States,None,37.751,-97.822
+66.249.65.235,US,United States,None,37.751,-97.822
+66.249.65.236,US,United States,None,37.751,-97.822
+66.249.65.237,US,United States,None,37.751,-97.822
+66.249.65.238,US,United States,None,37.751,-97.822
+66.249.65.24,US,United States,None,37.751,-97.822
+66.249.65.240,US,United States,None,37.751,-97.822
+66.249.65.241,US,United States,None,37.751,-97.822
+66.249.65.243,US,United States,None,37.751,-97.822
+66.249.65.245,US,United States,None,37.751,-97.822
+66.249.65.248,US,United States,None,37.751,-97.822
+66.249.65.250,US,United States,None,37.751,-97.822
+66.249.65.251,US,United States,None,37.751,-97.822
+66.249.65.252,US,United States,None,37.751,-97.822
+66.249.65.39,US,United States,None,37.751,-97.822
+66.249.65.51,US,United States,None,37.751,-97.822
+66.249.65.84,US,United States,None,37.751,-97.822
+66.249.65.88,US,United States,None,37.751,-97.822
+66.249.65.91,US,United States,None,37.751,-97.822
+66.249.66.11,US,United States,None,37.751,-97.822
+66.249.66.110,US,United States,None,37.751,-97.822
+66.249.66.119,US,United States,None,37.751,-97.822
+66.249.66.23,US,United States,None,37.751,-97.822
+66.249.66.247,US,United States,None,37.751,-97.822
+66.249.66.55,US,United States,None,37.751,-97.822
+66.249.67.101,US,United States,None,37.751,-97.822
+66.249.67.11,US,United States,None,37.751,-97.822
+66.249.67.117,US,United States,None,37.751,-97.822
+66.249.67.120,US,United States,None,37.751,-97.822
+66.249.67.15,US,United States,None,37.751,-97.822
+66.249.67.23,US,United States,None,37.751,-97.822
+66.249.67.37,US,United States,None,37.751,-97.822
+66.249.67.44,US,United States,None,37.751,-97.822
+66.249.67.52,US,United States,None,37.751,-97.822
+66.249.67.55,US,United States,None,37.751,-97.822
+66.249.67.78,US,United States,None,37.751,-97.822
+66.249.67.85,US,United States,None,37.751,-97.822
+66.249.67.9,US,United States,None,37.751,-97.822
+66.249.67.99,US,United States,None,37.751,-97.822
+66.249.71.105,US,United States,None,37.751,-97.822
+66.249.71.122,US,United States,None,37.751,-97.822
+66.249.71.14,US,United States,None,37.751,-97.822
+66.249.71.155,US,United States,None,37.751,-97.822
+66.249.71.166,US,United States,None,37.751,-97.822
+66.249.71.17,US,United States,None,37.751,-97.822
+66.249.71.172,US,United States,None,37.751,-97.822
+66.249.71.245,US,United States,None,37.751,-97.822
+66.249.71.27,US,United States,None,37.751,-97.822
+66.249.71.35,US,United States,None,37.751,-97.822
+66.249.71.38,US,United States,None,37.751,-97.822
+66.249.71.5,US,United States,None,37.751,-97.822
+66.249.71.69,US,United States,None,37.751,-97.822
+66.249.71.72,US,United States,None,37.751,-97.822
+66.249.82.65,None,None,None,35,105
+66.30.224.4,US,United States,Manchester Center,43.1693,-73.0474
+67.142.162.38,US,United States,None,37.751,-97.822
+67.159.60.65,US,United States,Chicago,41.8785,-87.633
+67.160.102.66,US,United States,Seattle,47.6116,-122.3056
+67.164.92.15,US,United States,Concord,37.9504,-122.0263
+67.169.216.38,US,United States,Sherwood,45.3514,-122.8567
+67.177.129.106,US,United States,Washington,42.7262,-83.0268
+67.182.232.196,US,United States,Ogden,41.2627,-111.9837
+67.195.110.170,US,United States,None,37.751,-97.822
+67.195.111.153,US,United States,None,37.751,-97.822
+67.195.111.183,US,United States,None,37.751,-97.822
+67.195.111.218,US,United States,None,37.751,-97.822
+67.195.112.165,US,United States,None,37.751,-97.822
+67.195.112.176,US,United States,None,37.751,-97.822
+67.195.112.253,US,United States,None,37.751,-97.822
+67.195.112.50,US,United States,None,37.751,-97.822
+67.195.112.85,US,United States,None,37.751,-97.822
+67.195.113.215,US,United States,None,37.751,-97.822
+67.195.113.224,US,United States,None,37.751,-97.822
+67.195.113.235,US,United States,None,37.751,-97.822
+67.195.114.247,US,United States,None,37.751,-97.822
+67.195.115.153,US,United States,None,37.751,-97.822
+67.195.115.185,US,United States,None,37.751,-97.822
+67.195.115.229,US,United States,None,37.751,-97.822
+67.195.115.37,US,United States,None,37.751,-97.822
+67.195.37.184,US,United States,None,37.751,-97.822
+67.202.29.142,US,United States,Ashburn,39.0481,-77.4728
+67.202.41.30,US,United States,Ashburn,39.0481,-77.4728
+67.202.8.74,US,United States,Ashburn,39.0481,-77.4728
+67.212.67.7,CA,Canada,Montreal,45.5061,-73.5573
+67.218.116.130,US,United States,None,37.751,-97.822
+67.218.116.131,US,United States,None,37.751,-97.822
+67.218.116.132,US,United States,None,37.751,-97.822
+67.218.116.133,US,United States,None,37.751,-97.822
+67.218.116.134,US,United States,None,37.751,-97.822
+67.218.116.162,US,United States,None,37.751,-97.822
+67.218.116.163,US,United States,None,37.751,-97.822
+67.218.116.164,US,United States,None,37.751,-97.822
+67.218.116.165,US,United States,None,37.751,-97.822
+67.218.116.166,US,United States,None,37.751,-97.822
+67.218.116.167,US,United States,None,37.751,-97.822
+67.218.116.168,US,United States,None,37.751,-97.822
+67.218.116.169,US,United States,None,37.751,-97.822
+67.218.116.170,US,United States,None,37.751,-97.822
+67.218.116.171,US,United States,None,37.751,-97.822
+68.121.23.146,US,United States,Los Angeles,34.1074,-118.3652
+68.142.243.60,US,United States,None,37.751,-97.822
+68.163.208.65,US,United States,None,37.751,-97.822
+68.2.158.155,US,United States,Mesa,33.4026,-111.7242
+68.206.137.36,US,United States,Eagle Pass,28.7028,-100.4818
+68.51.108.20,US,United States,Connersville,39.6435,-85.1464
+68.6.201.245,US,United States,Encinitas,33.0535,-117.2689
+68.80.196.76,US,United States,Philadelphia,39.9677,-75.1735
+69.110.5.208,US,United States,Berkeley,37.8927,-122.2761
+69.113.196.156,US,United States,Baldwin,40.6548,-73.6097
+69.143.43.246,US,United States,Baltimore,39.3316,-76.6336
+69.168.210.10,US,United States,None,37.751,-97.822
+69.20.70.86,US,United States,San Antonio,29.4969,-98.4032
+69.204.247.46,US,United States,New York,40.8019,-73.9531
+69.5.144.145,US,United States,Johnston,41.673,-93.7028
+69.63.178.246,US,United States,None,37.751,-97.822
+69.63.178.251,US,United States,None,37.751,-97.822
+69.63.180.247,US,United States,None,37.751,-97.822
+69.63.181.245,US,United States,None,37.751,-97.822
+69.63.181.247,US,United States,None,37.751,-97.822
+69.63.181.250,US,United States,None,37.751,-97.822
+69.63.181.251,US,United States,None,37.751,-97.822
+69.63.182.123,US,United States,None,37.751,-97.822
+69.63.189.246,US,United States,None,37.751,-97.822
+69.63.189.250,US,United States,None,37.751,-97.822
+69.86.163.198,US,United States,None,37.751,-97.822
+70.112.233.74,US,United States,Austin,30.2315,-97.7223
+70.143.72.10,US,United States,Oakland,37.8431,-122.2402
+70.16.158.35,US,United States,None,37.751,-97.822
+70.246.96.182,US,United States,None,37.751,-97.822
+70.249.223.164,US,United States,None,37.751,-97.822
+70.33.184.37,US,United States,None,37.751,-97.822
+70.36.101.58,US,United States,Los Angeles,34.0584,-118.278
+71.104.224.47,US,United States,None,37.751,-97.822
+71.121.200.250,US,United States,Nottingham,39.3914,-76.4871
+71.134.241.155,US,United States,None,37.751,-97.822
+71.136.42.54,US,United States,None,37.751,-97.822
+71.141.254.202,US,United States,None,37.751,-97.822
+71.150.80.84,US,United States,Lakeside,32.8562,-116.9201
+71.176.116.235,US,United States,Syracuse,43.0677,-76.1102
+71.185.144.111,US,United States,None,37.751,-97.822
+71.192.176.112,US,United States,Shelton,41.3047,-73.1294
+71.198.173.68,US,United States,Richmond,37.94,-122.362
+71.199.94.4,US,United States,Lake City,30.1601,-82.6396
+71.200.247.45,US,United States,Lehigh Acres,26.5936,-81.6619
+71.202.146.53,US,United States,Oakley,37.994,-121.7036
+71.202.151.131,US,United States,Brentwood,37.9324,-121.6894
+71.202.16.157,US,United States,San Jose,37.3476,-121.887
+71.231.87.126,US,United States,Seattle,47.4511,-122.353
+71.233.237.37,US,United States,Brighton,42.3478,-71.1566
+71.3.207.181,US,United States,Fort Myers,26.6204,-81.8725
+71.34.180.15,US,United States,Ankeny,41.7212,-93.5682
+71.34.252.253,US,United States,Black River Falls,44.2954,-90.8313
+71.35.202.75,US,United States,None,37.751,-97.822
+72.11.87.44,US,United States,Portland,45.5441,-122.6423
+72.14.164.128,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.129,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.130,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.131,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.132,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.133,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.134,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.135,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.136,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.137,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.138,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.139,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.140,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.141,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.142,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.144,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.145,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.146,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.147,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.148,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.149,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.150,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.151,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.152,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.153,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.154,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.155,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.156,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.157,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.158,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.159,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.160,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.161,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.162,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.163,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.164,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.165,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.166,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.167,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.168,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.169,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.170,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.171,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.172,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.173,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.174,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.175,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.176,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.177,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.178,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.179,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.180,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.181,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.182,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.183,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.184,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.185,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.186,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.187,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.188,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.189,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.191,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.192,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.193,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.194,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.195,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.196,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.197,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.198,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.164.199,CA,Canada,Hamilton,43.2055,-79.9004
+72.14.192.68,US,United States,None,37.751,-97.822
+72.14.193.2,None,None,None,47,8
+72.14.193.66,None,None,None,47,8
+72.14.194.1,US,United States,None,37.751,-97.822
+72.152.246.116,US,United States,None,37.751,-97.822
+72.187.245.65,US,United States,None,37.751,-97.822
+72.194.98.121,US,United States,San Clemente,33.4361,-117.6231
+72.214.129.36,US,United States,Hailey,43.5239,-114.3064
+72.3.221.188,US,United States,San Antonio,29.4969,-98.4032
+72.30.161.221,US,United States,None,37.751,-97.822
+72.30.161.222,US,United States,None,37.751,-97.822
+72.30.161.230,US,United States,None,37.751,-97.822
+72.30.161.253,US,United States,None,37.751,-97.822
+72.37.171.196,US,United States,None,37.751,-97.822
+72.44.48.41,US,United States,Ashburn,39.0481,-77.4728
+72.49.217.64,US,United States,Cincinnati,39.0713,-84.3758
+72.55.156.8,CA,Canada,Montreal,45.4594,-73.5501
+72.94.249.38,US,United States,Phoenixville,40.1267,-75.5272
+74.107.163.16,US,United States,None,37.751,-97.822
+74.107.164.170,US,United States,None,37.751,-97.822
+74.12.52.56,CA,Canada,Toronto,43.6784,-79.2941
+74.125.126.81,US,United States,None,37.751,-97.822
+74.125.126.82,US,United States,None,37.751,-97.822
+74.125.16.1,US,United States,Tulsa,36.154,-95.9928
+74.125.16.65,CN,China,Taoyuan,26.7688,115.065
+74.125.46.80,FI,Finland,Lappeenranta,61.0645,28.176
+74.125.46.81,FI,Finland,Lappeenranta,61.0645,28.176
+74.125.46.82,FI,Finland,Lappeenranta,61.0645,28.176
+74.125.74.131,FI,Finland,Lappeenranta,61.0645,28.176
+74.125.75.4,US,United States,Charleston,32.7766,-79.9309
+74.137.15.242,US,United States,London,37.0995,-84.1131
+74.182.225.230,US,United States,Gainesville,29.6813,-82.3539
+74.222.2.74,US,United States,Los Angeles,34.0584,-118.278
+74.222.3.202,US,United States,Los Angeles,34.0584,-118.278
+74.242.235.23,US,United States,Apex,35.7225,-78.8408
+74.252.104.34,US,United States,Homestead,25.2846,-80.6246
+74.52.245.146,US,United States,Dallas,32.9322,-96.8353
+74.58.211.234,CA,Canada,Beaupre,47.0499,-70.8922
+74.6.149.198,US,United States,None,37.751,-97.822
+74.6.18.221,US,United States,None,37.751,-97.822
+74.6.22.176,US,United States,None,37.751,-97.822
+74.93.61.201,US,United States,Ocklawaha,29.0643,-81.8857
+74.95.178.201,US,United States,Somerset,40.5007,-74.5013
+75.101.179.42,US,United States,Ashburn,39.0481,-77.4728
+75.101.203.73,US,United States,Ashburn,39.0481,-77.4728
+75.101.215.253,US,United States,Ashburn,39.0481,-77.4728
+75.101.220.102,US,United States,Ashburn,39.0481,-77.4728
+75.101.221.99,US,United States,Ashburn,39.0481,-77.4728
+75.111.31.182,US,United States,Fortuna,40.5835,-124.1473
+75.121.142.191,US,United States,Platteville,42.7393,-90.4854
+75.154.99.159,CA,Canada,None,43.6319,-79.3716
+75.172.54.106,US,United States,Seattle,47.6488,-122.3964
+75.180.228.114,US,United States,Bayboro,35.1526,-76.7518
+75.183.5.217,US,United States,Greensboro,36.0334,-79.8626
+75.201.49.186,US,United States,None,37.751,-97.822
+75.255.20.247,US,United States,None,37.751,-97.822
+75.52.240.89,US,United States,None,37.751,-97.822
+75.8.124.166,US,United States,None,37.751,-97.822
+75.83.76.96,US,United States,Pacoima,34.2556,-118.4208
+76.119.140.119,US,United States,Boston,42.3347,-71.0375
+76.171.179.192,US,United States,Downey,33.9218,-118.1395
+76.173.94.153,US,United States,Waianae,21.4352,-158.1781
+76.181.46.204,US,United States,Fairborn,39.8053,-84.0198
+76.188.204.130,US,United States,Aurora,41.3176,-81.3454
+76.231.191.114,US,United States,None,37.751,-97.822
+76.65.207.92,CA,Canada,Toronto,43.7223,-79.4504
+76.99.226.69,US,United States,West Chester,39.9845,-75.5962
+77.101.254.213,GB,United Kingdom,East Kilbride,55.7641,-4.1767
+77.103.5.89,GB,United Kingdom,Liverpool,53.4754,-2.952
+77.103.93.169,GB,United Kingdom,Chorley,53.65,-2.6167
+77.161.222.240,NL,Netherlands,Veldhoven,51.4147,5.4112
+77.193.230.246,FR,France,Balanod,46.4571,5.3551
+77.204.37.124,FR,France,Athis-Mons,48.7052,2.3915
+77.206.38.104,FR,France,Hayange,49.3343,6.0527
+77.21.66.203,DE,Germany,Braunschweig,52.2258,10.5271
+77.220.15.146,KE,Kenya,None,1,38
+77.224.172.132,ES,Spain,Madrid,40.4165,-3.7026
+77.250.147.41,NL,Netherlands,Apeldoorn,52.1974,6.0006
+77.255.46.240,PL,Poland,Lodz,52.214,16.6336
+77.49.57.214,GR,Greece,Ialysos,36.4,28.1667
+77.51.218.133,RU,Russia,None,55.7386,37.6068
+77.87.32.102,UA,Ukraine,Luhansk,48.567,39.3171
+77.88.43.25,RU,Russia,None,55.7386,37.6068
+77.99.11.16,GB,United Kingdom,Bristol,51.4767,-2.5572
+78.101.238.131,QA,Qatar,Al Khor,25.6839,51.5058
+78.102.178.237,CZ,Czechia,Prague,50.0765,14.5104
+78.105.202.139,GB,United Kingdom,None,51.4964,-0.1224
+78.140.138.39,NL,Netherlands,None,52.3824,4.8995
+78.141.73.219,SK,Slovakia,Brezno,48.7357,19.4638
+78.145.213.196,GB,United Kingdom,Tamworth,52.6158,-1.6663999999999999
+78.149.8.120,GB,United Kingdom,Bristol,51.462,-2.5519
+78.157.175.21,CZ,Czechia,None,50.0848,14.411200000000001
+78.159.121.20,DE,Germany,None,51.2993,9.491
+78.161.37.154,TR,Turkey,Istanbul,41.0514,28.9962
+78.161.41.227,TR,Turkey,Siirt,37.9326,41.9402
+78.162.215.4,TR,Turkey,Ankara,39.923,32.8378
+78.166.161.21,TR,Turkey,Gaziantep,37.0484,37.3437
+78.169.156.26,TR,Turkey,Batman,37.8829,41.2028
+78.170.201.167,TR,Turkey,Osmaniye,37.0742,36.2478
+78.170.207.163,TR,Turkey,Osmaniye,37.0742,36.2478
+78.170.93.184,TR,Turkey,Trabzon,40.9965,39.7275
+78.175.65.247,TR,Turkey,Diyarbakır,37.9995,40.0008
+78.175.87.103,TR,Turkey,Istanbul,41.0177,28.9744
+78.179.242.253,TR,Turkey,Izmir,38.4,27.1
+78.180.125.125,TR,Turkey,Istanbul,41.0585,28.9296
+78.183.35.39,TR,Turkey,Istanbul,41.0504,28.9184
+78.33.237.147,GB,United Kingdom,Glasgow,55.8651,-4.2576
+78.40.195.72,NL,Netherlands,None,52.3824,4.8995
+78.48.132.230,DE,Germany,Hueckelhoven,51.0555,6.2266
+78.86.201.175,GB,United Kingdom,None,51.4964,-0.1224
+79.121.234.138,GB,United Kingdom,Leicester,52.6042,-1.1463
+79.123.118.242,GB,United Kingdom,Belper,53.0031,-1.5514999999999999
+79.131.203.48,GR,Greece,Nafplion,37.5636,22.8075
+79.137.233.136,RU,Russia,None,55.7386,37.6068
+79.158.218.209,ES,Spain,Catarroja,39.4,-0.4
+79.173.144.50,GB,United Kingdom,London,51.5085,-0.1257
+79.197.82.85,DE,Germany,Roigheim,49.3647,9.34
+79.203.126.137,DE,Germany,None,51.2993,9.491
+79.229.61.236,DE,Germany,Moelln,53.617,10.6874
+79.234.49.197,DE,Germany,Korbach,51.2756,8.873
+79.246.95.46,DE,Germany,Leipzig,51.3667,12.3833
+79.31.146.101,IT,Italy,Zanica,45.6409,9.6857
+79.74.133.33,GB,United Kingdom,Dorchester,50.7167,-2.4333
+79.99.118.12,IT,Italy,Gemona,46.2741,13.1224
+80.13.147.129,FR,France,None,49.2984,0.8738
+80.162.198.240,DK,Denmark,Vejle,55.7093,9.5357
+80.164.14.21,DK,Denmark,Hellerup,55.732,12.5709
+80.176.135.205,GB,United Kingdom,Puckeridge,51.9018,0.0803
+80.176.145.20,GB,United Kingdom,Aylesbury,51.8058,-0.806
+80.176.84.62,GB,United Kingdom,Coulsdon,51.3096,-0.1732
+80.177.107.182,GB,United Kingdom,Leigh-on-Sea,51.5547,0.651
+80.177.31.148,GB,United Kingdom,Oxford,51.7971,-1.1854
+80.185.181.172,FR,France,Conde,49.1537,6.4303
+80.198.105.116,DK,Denmark,Kongens Lyngby,55.7704,12.5038
+80.200.101.58,BE,Belgium,Ghent,51.05,3.7167
+80.218.3.81,CH,Switzerland,Zurich,47.3667,8.55
+80.229.151.110,GB,United Kingdom,Crawley,51.1182,-0.1246
+80.229.196.97,GB,United Kingdom,Royal Tunbridge Wells,51.1325,0.2633
+80.229.93.121,GB,United Kingdom,Manchester,53.417,-2.2315
+80.240.220.32,RU,Russia,Ivanteyevka,55.9722,37.9306
+80.254.147.36,GB,United Kingdom,London,51.5161,-0.0949
+80.3.184.52,GB,United Kingdom,Nottingham,52.9063,-1.2316
+80.4.121.82,GB,United Kingdom,Waterbeach,52.2599,0.2288
+80.42.27.202,GB,United Kingdom,Peterborough,52.6,-0.2667
+80.52.164.107,PL,Poland,Lopuszno,50.9465,20.25
+80.58.205.38,ES,Spain,None,40.4172,-3.684
+80.58.205.54,ES,Spain,None,40.4172,-3.684
+80.58.205.98,ES,Spain,None,40.4172,-3.684
+80.65.107.50,NL,Netherlands,Nunspeet,52.3777,5.7766
+80.75.1.202,IR,Iran,None,35.6961,51.4231
+80.87.90.243,GH,Ghana,None,8,-2
+81.101.136.236,GB,United Kingdom,Bexley,51.4406,0.1446
+81.102.15.200,GB,United Kingdom,Egham,51.422,-0.5545
+81.103.107.191,GB,United Kingdom,Guildford,51.2336,-0.5996
+81.105.176.121,GB,United Kingdom,Barking,51.5333,0.0833
+81.106.219.129,GB,United Kingdom,Bury St Edmunds,52.2463,0.7111
+81.108.91.51,GB,United Kingdom,Watford,51.6553,-0.396
+81.129.143.78,GB,United Kingdom,Leicester,52.6474,-1.0865
+81.133.182.201,GB,United Kingdom,Biggleswade,52.0865,-0.2649
+81.144.199.141,GB,United Kingdom,Ipswich,52.0713,1.1444
+81.149.214.9,GB,United Kingdom,Kensington,51.5019,-0.2184
+81.151.179.228,GB,United Kingdom,Liskeard,50.4645,-4.4648
+81.152.241.52,GB,United Kingdom,Liverpool,53.4106,-2.9779
+81.154.247.103,GB,United Kingdom,Leominster,52.2331,-2.7725999999999997
+81.157.12.170,GB,United Kingdom,New Milton,50.7528,-1.658
+81.18.50.103,RS,Serbia,Belgrade,44.8186,20.4681
+81.187.204.46,GB,United Kingdom,Royal Leamington Spa,52.3123,-1.5047000000000001
+81.19.67.243,RU,Russia,Moscow,55.7522,37.6156
+81.192.199.83,MA,Morocco,Marrakesh,31.6315,-8.0083
+81.193.179.207,PT,Portugal,Beja,37.9689,-8.0266
+81.204.70.179,NL,Netherlands,Amsterdam,52.3951,4.929
+81.213.125.123,TR,Turkey,Istanbul,41.0588,28.9231
+81.213.126.80,TR,Turkey,Tekirdağ,41.05,27.3
+81.213.163.250,TR,Turkey,Istanbul,41.0177,28.9744
+81.215.160.204,TR,Turkey,Yozgat,39.7935,34.9076
+81.222.236.2,RU,Russia,None,55.7386,37.6068
+81.231.105.33,SE,Sweden,Piteå,65.3333,21.5
+81.234.118.27,SE,Sweden,Ulricehamn,57.7916,13.4142
+81.234.195.253,SE,Sweden,Lund,55.7028,13.1927
+81.242.144.2,BE,Belgium,Sinsin,50.3333,5.3667
+81.243.139.104,BE,Belgium,Aalst,50.9333,4.0333
+81.245.237.236,BE,Belgium,Brussels,50.8466,4.3528
+81.32.94.90,ES,Spain,A Coruña,43.3666,-8.4068
+81.35.239.146,ES,Spain,Pola de Lena,43.1696,-5.8438
+81.36.36.88,ES,Spain,Alicante,38.3452,-0.4815
+81.37.69.179,ES,Spain,El Medano,28.0462,-16.5363
+81.96.79.92,GB,United Kingdom,None,51.4964,-0.1224
+81.97.238.216,GB,United Kingdom,Brighton,50.8614,-0.1204
+82.12.246.119,GB,United Kingdom,Stevenage,51.9022,-0.2026
+82.132.139.30,GB,United Kingdom,None,51.4964,-0.1224
+82.132.248.18,GB,United Kingdom,None,51.4964,-0.1224
+82.133.117.157,GB,United Kingdom,Tring,51.8023,-0.6023
+82.144.245.36,GB,United Kingdom,Reading,51.4014,-0.9201
+82.147.20.75,GB,United Kingdom,Warwick,52.2836,-1.5814
+82.152.45.101,GB,United Kingdom,Prudhoe,54.9705,-1.8655
+82.154.14.192,PT,Portugal,Sintra,38.801,-9.3783
+82.16.99.188,GB,United Kingdom,Southampton,50.9463,-1.4055
+82.169.153.173,NL,Netherlands,None,52.3824,4.8995
+82.178.69.34,OM,Oman,None,21,57
+82.198.250.66,GB,United Kingdom,None,51.4964,-0.1224
+82.21.151.16,GB,United Kingdom,Notting Hill Gate,51.5016,-0.2133
+82.22.245.120,GB,United Kingdom,Mansfield,53.1333,-1.2
+82.23.63.75,GB,United Kingdom,Bolton,53.5635,-2.378
+82.35.18.160,GB,United Kingdom,Oxford,51.7321,-1.2063
+82.35.50.57,GB,United Kingdom,Southend-on-Sea,51.571,0.7832
+82.41.47.55,GB,United Kingdom,Liverpool,53.3805,-2.9086
+82.45.165.2,GB,United Kingdom,Crawley,51.113,-0.1831
+82.45.195.35,GB,United Kingdom,Glenrothes,56.2,-3.2167
+82.5.181.208,GB,United Kingdom,Reading,51.4515,-1.0141
+82.6.105.185,GB,United Kingdom,Rugby,52.3913,-1.2866
+82.6.96.33,GB,United Kingdom,Ware,51.8203,-0.009
+82.69.17.167,GB,United Kingdom,Marylebone,51.5085,-0.1257
+82.69.254.6,GB,United Kingdom,Marlow,51.557,-0.7756
+82.69.5.43,GB,United Kingdom,Hackney,51.5591,-0.0538
+82.77.138.134,RO,Romania,None,46,25
+82.8.197.65,GB,United Kingdom,Wigan,53.5086,-2.5927
+82.83.182.84,DE,Germany,Stuttgart,48.7667,9.1833
+82.84.216.247,IT,Italy,Monserrato,39.2564,9.1444
+82.95.143.3,NL,Netherlands,Haarlem,52.3825,4.6242
+83.105.17.60,GB,United Kingdom,None,51.4964,-0.1224
+83.149.3.27,RU,Russia,None,55.7386,37.6068
+83.17.87.206,PL,Poland,Karczew,52.08,21.2485
+83.183.220.124,SE,Sweden,Tyringe,56.1667,13.5833
+83.204.231.116,FR,France,Flexanville,48.8534,1.7378
+83.208.2.240,CZ,Czechia,Brno,49.2333,16.65
+83.216.132.224,GB,United Kingdom,Chard,50.8736,-2.9627
+83.220.220.87,IE,Ireland,Dungarvan,52.0881,-7.6253
+83.237.232.133,RU,Russia,Moscow,55.7522,37.6156
+83.237.53.215,RU,Russia,None,55.7386,37.6068
+83.34.114.163,ES,Spain,Las Palmas de Gran Canaria,28.0997,-15.4134
+83.36.247.216,ES,Spain,La Palma del Condado,37.386,-6.5523
+83.43.67.149,ES,Spain,Madrid,40.4167,-3.6837999999999997
+83.57.31.140,ES,Spain,San Jose,36.7605,-2.1091
+83.67.65.16,GB,United Kingdom,Sutton Coldfield,52.5667,-1.8167
+83.69.96.3,RU,Russia,None,55.7386,37.6068
+83.82.147.135,NL,Netherlands,Breda,51.5881,4.7755
+83.85.236.161,NL,Netherlands,Utrecht,52.0719,5.1244
+84.108.123.203,IL,Israel,Ramat Gan,32.0806,34.8142
+84.119.45.159,DE,Germany,Willich,51.2637,6.5473
+84.159.103.23,DE,Germany,Waldsassen,50.0017,12.3043
+84.163.126.206,DE,Germany,Ulm,48.4171,9.9635
+84.164.79.108,DE,Germany,Solingen,51.1825,7.0454
+84.17.11.114,RU,Russia,St Petersburg,59.8944,30.2642
+84.18.136.2,IT,Italy,Bolzano,46.4907,11.3398
+84.188.249.24,DE,Germany,Weinheim,49.5489,8.667
+84.234.228.182,NO,Norway,Larvik,59.056,10.1248
+84.26.11.235,NL,Netherlands,Venlo,51.3802,6.177
+84.29.48.147,NL,Netherlands,Venlo,51.3675,6.1476
+84.35.93.11,NL,Netherlands,None,52.3824,4.8995
+84.45.231.177,GB,United Kingdom,Knutsford,53.3033,-2.3715
+84.46.77.95,DE,Germany,Hamburg,53.6663,10.0057
+84.48.34.216,NO,Norway,None,59.95,10.75
+84.50.9.195,EE,Estonia,Rakvere,59.3464,26.3558
+84.60.146.18,DE,Germany,Wuppertal,51.2667,7.1833
+84.9.15.113,GB,United Kingdom,Reading,51.4563,-0.9711
+84.9.15.15,GB,United Kingdom,Reading,51.4563,-0.9711
+84.9.15.23,GB,United Kingdom,Reading,51.4563,-0.9711
+84.9.15.85,GB,United Kingdom,Reading,51.4563,-0.9711
+84.9.15.88,GB,United Kingdom,Reading,51.4563,-0.9711
+84.9.15.91,GB,United Kingdom,Reading,51.4563,-0.9711
+84.92.211.193,GB,United Kingdom,Rushden,52.306,-0.5934
+84.92.243.246,GB,United Kingdom,Cannock,52.7063,-2.0021
+84.96.6.162,FR,France,None,48.8582,2.3387000000000002
+85.101.232.61,TR,Turkey,Istanbul,41.0034,28.936
+85.103.107.43,TR,Turkey,Istanbul,41.0034,28.936
+85.103.37.1,TR,Turkey,Istanbul,40.9887,29.0236
+85.103.55.116,TR,Turkey,Istanbul,41.0318,28.9684
+85.104.107.66,TR,Turkey,Ankara,39.923,32.8378
+85.108.246.108,TR,Turkey,None,41.0214,28.9948
+85.110.224.111,TR,Turkey,Kahramanmaraş,37.5847,36.9264
+85.114.130.150,DE,Germany,None,51.2993,9.491
+85.115.58.180,DE,Germany,None,51.2993,9.491
+85.12.25.245,NL,Netherlands,None,52.3824,4.8995
+85.12.64.153,GB,United Kingdom,None,51.4964,-0.1224
+85.122.30.2,RO,Romania,Iași,47.1667,27.6
+85.141.200.64,RU,Russia,None,55.7386,37.6068
+85.145.157.10,NL,Netherlands,Zutphen,52.1511,6.1965
+85.146.136.183,NL,Netherlands,The Hague,52.0637,4.3022
+85.174.224.69,RU,Russia,Vasyurinskaya,45.1169,39.4228
+85.180.126.196,DE,Germany,Berlin,52.4712,13.4486
+85.185.137.4,IR,Iran,None,35.6961,51.4231
+85.207.245.213,CZ,Czechia,Jablonne v Podjestedi,50.7667,14.7833
+85.210.170.201,GB,United Kingdom,Manchester,53.4698,-2.2295
+85.211.39.207,GB,United Kingdom,Croydon,51.35,-0.0333
+85.26.173.176,RU,Russia,Borogontsy,62.6683,131.1683
+85.75.166.211,GR,Greece,Preveza,38.95,20.75
+85.92.209.135,GB,United Kingdom,Islington,51.5333,-0.1
+85.92.222.254,GB,United Kingdom,Northolt,51.5333,-0.3667
+85.97.191.193,TR,Turkey,Istanbul,41.0177,28.9744
+86.1.97.172,GB,United Kingdom,Johnstone,55.8333,-4.486
+86.107.62.34,US,United States,Miami,25.7704,-80.1855
+86.12.71.220,GB,United Kingdom,Grimsby,53.5367,-0.0911
+86.132.179.113,GB,United Kingdom,Evesham,52.0833,-1.9333
+86.132.217.143,GB,United Kingdom,Bishop's Stortford,51.9475,0.1355
+86.132.49.124,GB,United Kingdom,East Grinstead,51.1167,-0.0167
+86.136.148.11,GB,United Kingdom,Selby,53.7667,-1.1667
+86.137.187.124,GB,United Kingdom,Ely,52.4053,0.2219
+86.137.253.206,GB,United Kingdom,Ilminster,50.9492,-2.9665
+86.138.127.201,GB,United Kingdom,Kettering,52.3637,-0.6785
+86.138.141.39,GB,United Kingdom,Tewkesbury,51.9833,-2
+86.138.31.62,GB,United Kingdom,Annan,54.9884,-3.2565
+86.141.181.11,GB,United Kingdom,Malton,54.0451,-0.8053
+86.141.219.243,GB,United Kingdom,Limavady,55.0443,-7.0185
+86.142.91.162,GB,United Kingdom,Derby,52.9057,-1.5068000000000001
+86.143.2.36,GB,United Kingdom,Maidstone,51.2539,0.5327
+86.145.41.154,GB,United Kingdom,Mount Bures,51.9827,0.7325
+86.146.178.197,GB,United Kingdom,Weybridge,51.3722,-0.453
+86.146.252.51,GB,United Kingdom,Fareham,50.8831,-1.2437
+86.147.183.211,GB,United Kingdom,Exmouth,50.6172,-3.4023
+86.147.246.25,GB,United Kingdom,Longfield,51.3678,0.2767
+86.148.224.206,GB,United Kingdom,Liverpool,53.3596,-2.8315
+86.149.27.173,GB,United Kingdom,Spalding,52.8054,-0.1667
+86.15.59.129,GB,United Kingdom,Oxford,51.7971,-1.1854
+86.151.110.168,GB,United Kingdom,Southampton,50.9171,-1.4248
+86.153.189.0,GB,United Kingdom,Hemel Hempstead,51.7639,-0.4531
+86.154.45.56,GB,United Kingdom,Newcastle upon Tyne,55.0178,-1.5694
+86.155.91.137,GB,United Kingdom,Sutton,51.35,-0.2
+86.156.68.62,GB,United Kingdom,Manchester,53.55,-2.3
+86.159.87.69,GB,United Kingdom,Newark on Trent,53.0667,-0.7833
+86.160.134.54,GB,United Kingdom,Stafford,52.8517,-2.12
+86.160.8.110,GB,United Kingdom,Bridgend,51.5086,-3.578
+86.162.155.237,GB,United Kingdom,Wantage,51.5904,-1.3771
+86.162.160.4,GB,United Kingdom,Aberdeen,57.1437,-2.0981
+86.164.137.238,GB,United Kingdom,Dalkeith,55.9028,-3.0778
+86.165.147.31,GB,United Kingdom,Lambeth,51.4891,-0.1107
+86.165.186.113,GB,United Kingdom,Kidbrooke,51.4667,0.0333
+86.167.181.97,GB,United Kingdom,March,52.4974,-0.0246
+86.167.66.215,GB,United Kingdom,Scarborough,54.2548,-0.4748
+86.168.58.134,GB,United Kingdom,Maidenhead,51.5238,-0.7287
+86.170.206.83,GB,United Kingdom,Alloa,56.1069,-3.7534
+86.170.3.133,GB,United Kingdom,Dronfield,53.2995,-1.474
+86.173.116.57,GB,United Kingdom,Bedford,52.118,-0.56
+86.176.120.79,GB,United Kingdom,Hackney,51.546,-0.0758
+86.177.202.81,GB,United Kingdom,Bishop Auckland,54.6667,-1.65
+86.178.70.127,GB,United Kingdom,Rugby,52.3284,-1.2051
+86.181.91.73,GB,United Kingdom,London,51.4663,-0.051
+86.186.97.227,GB,United Kingdom,Presteigne,52.2664,-3.044
+86.189.1.82,GB,United Kingdom,None,51.4964,-0.1224
+86.19.96.37,GB,United Kingdom,Romford,51.5833,0.2
+86.26.11.184,GB,United Kingdom,Redhill,51.2406,-0.1004
+86.29.246.143,GB,United Kingdom,Loughborough,52.7667,-1.2
+86.31.194.166,GB,United Kingdom,Ilford,51.5597,0.0708
+86.31.79.206,GB,United Kingdom,None,51.4964,-0.1224
+86.62.102.177,RU,Russia,Moscow,55.7522,37.6156
+86.7.16.122,GB,United Kingdom,Leicester,52.6386,-1.1317
+86.9.117.23,GB,United Kingdom,Hinckley,52.5139,-1.3412
+86.9.127.200,GB,United Kingdom,Folkestone,51.089,1.1681
+86.9.165.23,GB,United Kingdom,South Normanton,53.1,-1.3333
+86.9.95.81,GB,United Kingdom,Bath,51.3934,-2.3241
+86.91.155.159,NL,Netherlands,Maasbree,51.3603,6.0487
+87.112.37.15,GB,United Kingdom,Brighton,50.8614,-0.1204
+87.112.95.56,GB,United Kingdom,Witney,51.7836,-1.4854
+87.113.16.233,GB,United Kingdom,Abbots Langley,51.7052,-0.4173
+87.113.186.3,GB,United Kingdom,Hitchin,51.9492,-0.285
+87.113.244.143,GB,United Kingdom,Worksop,53.3786,-1.0625
+87.114.185.54,GB,United Kingdom,Barnstaple,51.0721,-4.0212
+87.117.190.35,RU,Russia,Kazan’,55.75,49.1333
+87.117.190.71,RU,Russia,Kazan’,55.75,49.1333
+87.118.88.79,DE,Germany,None,51.2993,9.491
+87.126.162.69,BG,Bulgaria,Plovdiv,42.15,24.75
+87.173.128.134,DE,Germany,Ansbach,49.3048,10.5931
+87.186.102.73,DE,Germany,Pfronten,47.5822,10.5496
+87.220.53.146,ES,Spain,Oviedo,43.3603,-5.8448
+87.220.83.36,ES,Spain,Madrid,40.4165,-3.7026
+87.228.211.94,CY,Cyprus,Paphos,34.7667,32.4167
+87.236.29.87,RU,Russia,Moscow,55.7522,37.6156
+87.25.5.41,IT,Italy,None,43.1479,12.1097
+87.54.42.99,DK,Denmark,Silkeborg,56.1697,9.5451
+87.64.139.75,BE,Belgium,Courcelles,50.4667,4.3667
+87.64.38.120,BE,Belgium,Brussels,50.8466,4.3528
+87.65.247.5,BE,Belgium,Brussels,50.8466,4.3528
+87.74.13.122,GB,United Kingdom,None,51.4964,-0.1224
+87.77.155.168,DE,Germany,Berlin,52.5167,13.4
+87.79.175.136,DE,Germany,Cologne,50.9314,6.9526
+87.83.218.34,GB,United Kingdom,Cambridge,52.2333,0.15
+88.106.151.57,GB,United Kingdom,Porthcawl,51.4842,-3.6781
+88.108.107.235,GB,United Kingdom,Birmingham,52.4814,-1.8998
+88.108.246.1,GB,United Kingdom,Manchester,53.4551,-2.2645
+88.110.142.186,GB,United Kingdom,Whitchurch,52.9142,-2.8055
+88.110.181.123,GB,United Kingdom,Rotherham,53.4044,-1.3465
+88.110.184.44,GB,United Kingdom,Doncaster,53.497,-1.1821
+88.117.88.100,AT,Austria,Ferlach,46.5269,14.3019
+88.131.106.21,SE,Sweden,None,59.3247,18.056
+88.131.106.22,SE,Sweden,None,59.3247,18.056
+88.131.106.30,SE,Sweden,None,59.3247,18.056
+88.131.106.31,SE,Sweden,None,59.3247,18.056
+88.131.106.32,SE,Sweden,None,59.3247,18.056
+88.182.101.197,FR,France,Paris,48.8925,2.3444
+88.182.37.178,FR,France,Redon,47.65,-2.0833
+88.191.117.43,FR,France,Courbevoie,48.8967,2.2567
+88.209.214.246,HU,Hungary,Nyiregyhaza,47.95,21.7167
+88.209.233.194,HU,Hungary,None,47.4925,19.0514
+88.226.190.79,TR,Turkey,None,41.0214,28.9948
+88.232.254.133,TR,Turkey,Ankara,39.9115,32.858
+88.233.2.0,TR,Turkey,Istanbul,41.0186,28.9322
+88.234.187.178,TR,Turkey,Istanbul,41.0177,28.9744
+88.234.211.237,TR,Turkey,Istanbul,41.0349,28.9481
+88.234.220.119,TR,Turkey,Istanbul,41.0186,28.9322
+88.235.240.102,TR,Turkey,Istanbul,41.0177,28.9744
+88.240.165.15,TR,Turkey,Magnesia ad Sipylum,38.5267,27.785
+88.242.170.52,TR,Turkey,Adapazarı,40.8406,30.4289
+88.242.70.155,TR,Turkey,Izmir,38.3722,27.107
+88.246.202.88,TR,Turkey,Izmir,38.46,27.16
+88.247.71.192,TR,Turkey,Ankara,39.9683,32.7308
+88.250.237.33,TR,Turkey,Izmir,38.4067,27.14
+88.251.114.154,TR,Turkey,Istanbul,41.0177,28.9744
+88.251.253.113,TR,Turkey,Samsun,41.0966,36.5457
+88.251.6.53,TR,Turkey,Ankara,39.923,32.8378
+88.253.4.229,TR,Turkey,Istanbul,40.9887,29.0236
+88.255.219.130,TR,Turkey,Adana,36.95,35.35
+88.27.197.3,ES,Spain,Pantoja,40.0434,-3.8327999999999998
+88.5.212.39,ES,Spain,Madrid,40.4165,-3.7026
+88.71.69.23,DE,Germany,Essen,51.434,7.0161
+88.80.10.1,SE,Sweden,None,59.3247,18.056
+88.96.198.94,GB,United Kingdom,None,51.4964,-0.1224
+89.0.182.218,DE,Germany,Cologne,50.9685,7.0054
+89.123.119.76,RO,Romania,Tartaria,45.9336,23.413
+89.149.244.240,NL,Netherlands,None,52.3824,4.8995
+89.210.83.36,GR,Greece,Athens,37.9833,23.7333
+89.223.219.174,HU,Hungary,None,47.4925,19.0514
+89.241.103.13,GB,United Kingdom,Beaconsfield,51.6122,-0.6473
+89.248.168.41,SC,Seychelles,None,-4.5833,55.6667
+89.248.172.14,SC,Seychelles,None,-4.5833,55.6667
+89.35.98.94,RO,Romania,None,46,25
+90.163.140.157,ES,Spain,Huesca,42.1362,-0.4087
+90.195.174.244,GB,United Kingdom,Islington,51.5367,-0.0944
+90.202.46.148,GB,United Kingdom,Northampton,52.2136,-0.8858
+90.218.176.175,GB,United Kingdom,Truro,50.2633,-5.0547
+90.240.113.65,GB,United Kingdom,Crewe,53.2144,-2.3483
+90.41.186.83,FR,France,La Roche-sur-Foron,46.0666,6.3122
+91.107.63.80,RU,Russia,Lyubertsy,55.6778,37.8833
+91.109.114.7,GB,United Kingdom,Rugby,52.35,-1.2833
+91.111.70.120,GB,United Kingdom,None,51.4964,-0.1224
+91.125.209.235,GB,United Kingdom,Medstead,51.1167,-1.0667
+91.125.54.118,GB,United Kingdom,Aylesbury,51.8167,-0.8146
+91.132.35.222,GB,United Kingdom,None,51.4964,-0.1224
+91.135.234.156,GB,United Kingdom,None,51.4964,-0.1224
+91.156.167.21,FI,Finland,Kotka,60.4489,26.8858
+91.178.216.10,BE,Belgium,Leuze,50.5523,3.7431
+91.202.107.59,UA,Ukraine,Kyiv,50.4333,30.5167
+91.205.175.4,DE,Germany,Munich,48.1089,11.6074
+91.212.127.100,PL,Poland,None,52.2394,21.0362
+91.212.226.18,Not found,Not found,Not found,Not found,Not found
+91.214.44.233,LU,Luxembourg,None,49.75,6.1667
+91.214.45.233,LU,Luxembourg,None,49.75,6.1667
+91.214.45.238,LU,Luxembourg,None,49.75,6.1667
+91.42.168.153,DE,Germany,Kassel,51.3056,9.4652
+91.44.205.8,DE,Germany,Diespeck,49.6,10.6333
+91.5.244.32,DE,Germany,Berlin,52.5565,13.4482
+91.77.235.246,RU,Russia,Moscow,55.7522,37.6156
+91.82.140.34,HU,Hungary,Bekesszentandras,46.8667,20.4833
+91.84.211.17,GB,United Kingdom,Finchley,51.6077,-0.166
+91.86.30.107,BE,Belgium,Ans,50.65,5.5333
+92.10.174.101,GB,United Kingdom,Manchester,53.4482,-2.2257
+92.11.32.55,GB,United Kingdom,Lerwick,60.1464,-1.2132
+92.114.149.154,MD,Republic of Moldova,None,47.0188,28.8128
+92.143.147.189,FR,France,Orcieres,44.6839,6.3258
+92.201.107.133,DE,Germany,Wesseling,50.8271,6.9747
+92.226.192.83,DE,Germany,Frankfurt am Main,50.1039,8.6886
+92.23.128.188,GB,United Kingdom,Newcastle upon Tyne,54.9881,-1.6194
+92.23.15.195,GB,United Kingdom,Preston,53.9008,-2.7742
+92.234.17.65,GB,United Kingdom,Birmingham,52.5457,-1.8851
+92.236.82.48,GB,United Kingdom,Bonnyrigg,55.8733,-3.1051
+92.237.222.66,GB,United Kingdom,Dundee,56.5304,-3.0695
+92.237.78.233,GB,United Kingdom,Hounslow,51.4667,-0.35
+92.238.72.160,GB,United Kingdom,Richmond,51.45,-0.2833
+92.240.68.152,LV,Latvia,Riga,56.95,24.1
+92.240.68.153,LV,Latvia,Riga,56.95,24.1
+92.243.84.187,RU,Russia,None,55.7386,37.6068
+92.244.25.242,SE,Sweden,Stockholm,59.3333,18.05
+92.27.153.191,GB,United Kingdom,Addlestone,51.3714,-0.4935
+92.29.93.3,GB,United Kingdom,Bournemouth,50.7655,-1.9096
+92.40.164.35,GB,United Kingdom,None,51.4964,-0.1224
+92.43.64.71,GB,United Kingdom,Grimsby,53.4827,-0.0332
+92.75.233.143,DE,Germany,Kassel,51.336,9.4457
+93.133.64.221,DE,Germany,Mönchengladbach,51.1977,6.3911
+93.138.57.215,HR,Croatia,Zagreb,45.7333,15.9667
+93.139.123.124,HR,Croatia,Zagreb,45.7333,15.9667
+93.158.144.28,RU,Russia,None,55.7386,37.6068
+93.158.145.27,RU,Russia,None,55.7386,37.6068
+93.158.147.28,RU,Russia,None,55.7386,37.6068
+93.158.147.29,RU,Russia,None,55.7386,37.6068
+93.158.147.30,RU,Russia,None,55.7386,37.6068
+93.158.148.30,RU,Russia,None,55.7386,37.6068
+93.187.161.104,AM,Armenia,None,40,45
+93.35.153.247,IT,Italy,None,43.1479,12.1097
+93.81.13.246,RU,Russia,Kineshma,57.4517,42.1164
+94.1.65.114,GB,United Kingdom,Newtownabbey,54.6598,-5.9086
+94.100.181.99,RU,Russia,None,55.7386,37.6068
+94.111.114.16,BE,Belgium,Oostmalle,51.3,4.7083
+94.142.134.218,NL,Netherlands,None,52.3824,4.8995
+94.19.101.245,RU,Russia,St Petersburg,59.8944,30.2642
+94.192.63.155,GB,United Kingdom,Manchester,53.5114,-2.3202
+94.194.177.235,GB,United Kingdom,Durham,54.7667,-1.5667
+94.197.186.18,GB,United Kingdom,None,51.4964,-0.1224
+94.242.151.114,RU,Russia,Maloyaroslavets,55.0139,36.4725
+94.28.27.102,RU,Russia,Astrakhan,46.34,48.04
+94.52.91.54,RO,Romania,Giurgiu,43.8833,25.9667
+94.68.160.208,GR,Greece,Thessaloniki,40.6403,22.9439
+94.9.19.98,GB,United Kingdom,Ilford,51.5905,0.0637
+95.103.172.254,SK,Slovakia,Žilina,49.1992,18.8215
+95.105.166.195,SK,Slovakia,Bratislava,48.1482,17.1067
+95.108.142.150,RU,Russia,None,55.7386,37.6068
+95.130.10.37,FR,France,None,48.8582,2.3387000000000002
+95.130.137.74,IT,Italy,Marano Lagunare,45.7635,13.167300000000001
+95.133.135.144,UA,Ukraine,Kherson,46.6558,32.6178
+95.14.85.80,TR,Turkey,Istanbul,41.0177,28.9744
+95.144.190.40,GB,United Kingdom,Neasden,51.55,-0.25
+95.144.192.84,GB,United Kingdom,Dollar,56.1832,-3.6261
+95.146.230.96,GB,United Kingdom,Royal Leamington Spa,52.2705,-1.5219
+95.147.156.79,GB,United Kingdom,Folkestone,51.0746,1.1448
+95.148.135.130,GB,United Kingdom,Lincoln,53.15,-0.4
+95.148.135.232,GB,United Kingdom,Lincoln,53.15,-0.4
+95.149.29.151,GB,United Kingdom,Weymouth,50.6077,-2.4593
+95.15.70.77,TR,Turkey,Trabzon,40.9965,39.7275
+95.159.216.167,SI,Slovenia,Logatec,45.9144,14.2258
+95.172.9.202,GB,United Kingdom,None,51.4964,-0.1224
+95.173.45.55,LT,Republic of Lithuania,Vilnius,54.6841,25.317
+95.24.157.247,RU,Russia,Moscow,55.7522,37.6156
+95.32.138.48,RU,Russia,Voronezh,51.6664,39.17
+95.54.11.26,RU,Russia,St Petersburg,59.8944,30.2642
+95.7.49.168,TR,Turkey,None,41.0214,28.9948
+96.21.101.144,CA,Canada,Dosquet,46.4684,-71.5285
+96.224.32.26,US,United States,New York,40.7547,-73.9925
+96.240.169.115,US,United States,None,37.751,-97.822
+96.240.51.44,US,United States,None,37.751,-97.822
+96.31.166.228,US,United States,None,37.751,-97.822
+96.31.230.202,US,United States,None,37.751,-97.822
+96.42.119.166,US,United States,Saint Cloud,45.5713,-94.2036
+96.57.194.234,US,United States,None,37.751,-97.822
+96.9.143.181,OM,Oman,Muscat,23.6133,58.5933
+97.118.27.81,US,United States,Denver,39.8671,-104.9227
+98.118.208.230,US,United States,None,37.751,-97.822
+98.154.110.162,US,United States,None,37.751,-97.822
+98.192.4.251,US,United States,Atlanta,33.7984,-84.3883
+98.198.155.56,US,United States,Santa Fe,29.4032,-95.0734
+98.200.10.186,US,United States,Houston,29.7348,-95.522
+98.202.202.101,US,United States,Riverton,40.4954,-111.9444
+98.21.99.88,US,United States,Hughesville,41.256,-76.7141
+98.246.35.236,US,United States,Portland,45.527,-122.6854
+99.18.90.201,US,United States,None,37.751,-97.822
+99.227.247.231,CA,Canada,Scarborough,43.7812,-79.3036
+99.28.241.142,US,United States,None,37.751,-97.822
+IP,None,None,None,47,8

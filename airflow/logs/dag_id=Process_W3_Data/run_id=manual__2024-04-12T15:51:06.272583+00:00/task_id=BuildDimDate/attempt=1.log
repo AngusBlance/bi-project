@@ -1,0 +1,73 @@
+[2024-04-12T15:51:42.865+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-12T15:51:42.950+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Process_W3_Data.BuildDimDate manual__2024-04-12T15:51:06.272583+00:00 [queued]>
+[2024-04-12T15:51:42.983+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Process_W3_Data.BuildDimDate manual__2024-04-12T15:51:06.272583+00:00 [queued]>
+[2024-04-12T15:51:42.989+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-12T15:51:43.047+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): BuildDimDate> on 2024-04-12 15:51:06.272583+00:00
+[2024-04-12T15:51:43.073+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=40277) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-12T15:51:43.076+0000] {standard_task_runner.py:63} INFO - Started process 40283 to run task
+[2024-04-12T15:51:43.093+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'Process_W3_Data', 'BuildDimDate', 'manual__2024-04-12T15:51:06.272583+00:00', '--job-id', '222', '--raw', '--subdir', 'DAGS_FOLDER/w3c.py', '--cfg-path', '/tmp/tmp9a5vq24l']
+[2024-04-12T15:51:43.102+0000] {standard_task_runner.py:91} INFO - Job 222: Subtask BuildDimDate
+[2024-04-12T15:51:43.310+0000] {task_command.py:426} INFO - Running <TaskInstance: Process_W3_Data.BuildDimDate manual__2024-04-12T15:51:06.272583+00:00 [running]> on host 426f0b9f9d71
+[2024-04-12T15:51:43.637+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='Process_W3_Data' AIRFLOW_CTX_TASK_ID='BuildDimDate' AIRFLOW_CTX_EXECUTION_DATE='2024-04-12T15:51:06.272583+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-12T15:51:06.272583+00:00'
+[2024-04-12T15:51:43.643+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-12T15:51:43.649+0000] {logging_mixin.py:188} INFO - 2009-10-24
+[2024-04-12T15:51:43.653+0000] {logging_mixin.py:188} INFO - 2009-10-25
+[2024-04-12T15:51:43.656+0000] {logging_mixin.py:188} INFO - 2009-11-02
+[2024-04-12T15:51:43.656+0000] {logging_mixin.py:188} INFO - 2009-11-03
+[2024-04-12T15:51:43.657+0000] {logging_mixin.py:188} INFO - 2009-11-06
+[2024-04-12T15:51:43.657+0000] {logging_mixin.py:188} INFO - 2009-11-20
+[2024-04-12T15:51:43.658+0000] {logging_mixin.py:188} INFO - 2009-11-23
+[2024-04-12T15:51:43.658+0000] {logging_mixin.py:188} INFO - 2009-11-30
+[2024-04-12T15:51:43.658+0000] {logging_mixin.py:188} INFO - 2009-12-07
+[2024-04-12T15:51:43.659+0000] {logging_mixin.py:188} INFO - 2009-12-11
+[2024-04-12T15:51:43.659+0000] {logging_mixin.py:188} INFO - 2009-12-13
+[2024-04-12T15:51:43.660+0000] {logging_mixin.py:188} INFO - 2010-01-04
+[2024-04-12T15:51:43.660+0000] {logging_mixin.py:188} INFO - 2010-01-05
+[2024-04-12T15:51:43.661+0000] {logging_mixin.py:188} INFO - 2010-01-06
+[2024-04-12T15:51:43.668+0000] {logging_mixin.py:188} INFO - 2010-01-12
+[2024-04-12T15:51:43.668+0000] {logging_mixin.py:188} INFO - 2010-01-13
+[2024-04-12T15:51:43.669+0000] {logging_mixin.py:188} INFO - 2010-01-17
+[2024-04-12T15:51:43.669+0000] {logging_mixin.py:188} INFO - 2010-01-31
+[2024-04-12T15:51:43.669+0000] {logging_mixin.py:188} INFO - 2010-02-04
+[2024-04-12T15:51:43.670+0000] {logging_mixin.py:188} INFO - 2010-02-05
+[2024-04-12T15:51:43.678+0000] {logging_mixin.py:188} INFO - 2010-02-21
+[2024-04-12T15:51:43.681+0000] {logging_mixin.py:188} INFO - 2010-03-02
+[2024-04-12T15:51:43.682+0000] {logging_mixin.py:188} INFO - 2010-03-04
+[2024-04-12T15:51:43.682+0000] {logging_mixin.py:188} INFO - 2010-03-07
+[2024-04-12T15:51:43.683+0000] {logging_mixin.py:188} INFO - 2010-03-09
+[2024-04-12T15:51:43.683+0000] {logging_mixin.py:188} INFO - 2010-03-14
+[2024-04-12T15:51:43.684+0000] {logging_mixin.py:188} INFO - 2010-03-15
+[2024-04-12T15:51:43.684+0000] {logging_mixin.py:188} INFO - 2010-03-22
+[2024-04-12T15:51:43.685+0000] {logging_mixin.py:188} INFO - 2010-04-06
+[2024-04-12T15:51:43.685+0000] {logging_mixin.py:188} INFO - 2010-04-19
+[2024-04-12T15:51:43.686+0000] {logging_mixin.py:188} INFO - 2010-04-22
+[2024-04-12T15:51:43.686+0000] {logging_mixin.py:188} INFO - 2010-04-23
+[2024-04-12T15:51:43.686+0000] {logging_mixin.py:188} INFO - 2010-04-24
+[2024-04-12T15:51:43.687+0000] {logging_mixin.py:188} INFO - 2010-04-25
+[2024-04-12T15:51:43.698+0000] {logging_mixin.py:188} INFO - 2010-04-30
+[2024-04-12T15:51:43.701+0000] {logging_mixin.py:188} INFO - 2010-05-19
+[2024-04-12T15:51:43.702+0000] {logging_mixin.py:188} INFO - 2010-05-20
+[2024-04-12T15:51:43.702+0000] {logging_mixin.py:188} INFO - 2010-05-26
+[2024-04-12T15:51:43.703+0000] {logging_mixin.py:188} INFO - 2010-05-28
+[2024-04-12T15:51:43.706+0000] {logging_mixin.py:188} INFO - 2010-06-12
+[2024-04-12T15:51:43.707+0000] {logging_mixin.py:188} INFO - 2010-06-15
+[2024-04-12T15:51:43.707+0000] {logging_mixin.py:188} INFO - 2010-06-19
+[2024-04-12T15:51:43.708+0000] {logging_mixin.py:188} INFO - 2010-06-22
+[2024-04-12T15:51:43.708+0000] {logging_mixin.py:188} INFO - 2010-06-26
+[2024-04-12T15:51:43.709+0000] {logging_mixin.py:188} INFO - 2010-06-28
+[2024-04-12T15:51:43.709+0000] {logging_mixin.py:188} INFO - 2010-06-29
+[2024-04-12T15:51:43.710+0000] {logging_mixin.py:188} INFO - 2010-06-30
+[2024-04-12T15:51:43.710+0000] {logging_mixin.py:188} INFO - 2010-07-05
+[2024-04-12T15:51:43.711+0000] {logging_mixin.py:188} INFO - 2010-07-08
+[2024-04-12T15:51:43.711+0000] {logging_mixin.py:188} INFO - 2010-07-14
+[2024-04-12T15:51:43.720+0000] {logging_mixin.py:188} INFO - 2010-10-31
+[2024-04-12T15:51:43.720+0000] {logging_mixin.py:188} INFO - Date
+[2024-04-12T15:51:43.721+0000] {logging_mixin.py:188} INFO - Error with Date
+[2024-04-12T15:51:43.721+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-12T15:51:43.722+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-12T15:51:43.765+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=Process_W3_Data, task_id=BuildDimDate, execution_date=20240412T155106, start_date=20240412T155142, end_date=20240412T155143
+[2024-04-12T15:51:43.875+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-12T15:51:43.945+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-04-12T15:51:43.963+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

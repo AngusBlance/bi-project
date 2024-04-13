@@ -12,6 +12,11 @@ import requests
 import json
 import mysql.connector
 import logging
+import psycopg2
+from airflow.hooks.postgres_hook import PostgresHook
+import logging
+import csv
+
 
 BaseDir="/opt/airflow/data"
 RawFiles=BaseDir+"/Raw/"
@@ -42,6 +47,69 @@ try:
    os.mkdir(StarSchema)
 except:
    print("Can't make BaseDir") 
+
+
+def insert_data_into_db():
+    pg_hook = PostgresHook(postgres_conn_id='postgres_default')
+    conn = pg_hook.get_conn()
+    cursor = conn.cursor()
+
+    file_path = '/opt/airflow/data/StarSchema/CleanOutFact1.txt'
+    table_name = 'fact_table'  # Ensure this is the correct table name
+
+    try:
+        with open(file_path, 'r') as file:
+            reader = csv.reader(file)
+            headers = next(reader)  # skip the header
+            insert_query = 'INSERT INTO {} (Date, Time, Browser, IP, ResponseTime) VALUES (%s, %s, %s, %s, %s)'.format(table_name)
+            cursor.executemany(insert_query, reader)
+    except Exception as e:
+        logging.error(f"Error during data import: {e}")
+    finally:
+        conn.commit()
+        cursor.close()
+        conn.close()
+        logging.info("Data inserted successfully.")
+
+
+
+
+def validate_and_clean_data():
+    input_file_path = '/opt/airflow/data/StarSchema/OutFact1.txt'
+    clean_file_path = '/opt/airflow/data/StarSchema/CleanOutFact1.txt'
+    invalid_data_path = '/opt/airflow/data/StarSchema/InvalidOutFact1.txt'
+
+    with open(input_file_path, 'r') as infile, \
+         open(clean_file_path, 'w') as outfile, \
+         open(invalid_data_path, 'w') as errfile:
+
+        headers = infile.readline()
+        outfile.write(headers)
+        errfile.write(headers)
+
+        for line in infile:
+            fields = line.strip().split(',')
+            if validate_row(fields):
+                outfile.write(line)
+            else:
+                errfile.write(line)
+
+def validate_row(fields):
+    expected_num_fields = 5
+    if len(fields) != expected_num_fields:
+        return False
+    try:
+        datetime.strptime(fields[0], "%Y-%m-%d")
+        datetime.strptime(fields[1], "%H:%M:%S")
+        # Further checks can be added here
+    except ValueError:
+        return False
+
+    return True
+
+
+
+
 
 
 def CleanHash(filename):
@@ -265,15 +333,33 @@ copyfact = BashOperator(
 
     dag=dag,
 )
- 
+
+
+insert_data_task = PythonOperator(
+    task_id="insert_data_into_db",
+    python_callable=insert_data_into_db,
+    dag=dag,
+)
+
+validate_data_task = PythonOperator(
+    task_id="validate_and_clean_data",
+    python_callable=validate_and_clean_data,
+    dag=dag,
+) 
+
+# Update dependencies
+
+
   
 # download_data >> BuildFact1 >>DimIp>>DateTable>>uniq>>uniq2>>BuildDimDate>>IPTable
 
-BuildFact1.set_upstream(task_or_task_list=[download_data])
-DimIp.set_upstream(task_or_task_list=[BuildFact1])
-DateTable.set_upstream(task_or_task_list=[BuildFact1])
-uniq2.set_upstream(task_or_task_list=[DateTable])
-uniq.set_upstream(task_or_task_list=[DimIp])
-BuildDimDate.set_upstream(task_or_task_list=[uniq2])
-IPTable.set_upstream(task_or_task_list=[uniq])
-copyfact.set_upstream(task_or_task_list=[IPTable,BuildDimDate])
+download_data >> BuildFact1
+BuildFact1 >> [DimIp, DateTable]
+DimIp >> uniq
+DateTable >> uniq2
+uniq >> IPTable
+uniq2 >> BuildDimDate
+[IPTable, BuildDimDate] >> copyfact
+copyfact >> validate_data_task
+validate_data_task >> insert_data_task
+

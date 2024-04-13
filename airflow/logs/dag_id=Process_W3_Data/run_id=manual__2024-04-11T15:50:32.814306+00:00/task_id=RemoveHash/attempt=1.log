@@ -1,0 +1,396 @@
+[2024-04-11T15:50:38.626+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-11T15:50:38.744+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Process_W3_Data.RemoveHash manual__2024-04-11T15:50:32.814306+00:00 [queued]>
+[2024-04-11T15:50:38.797+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Process_W3_Data.RemoveHash manual__2024-04-11T15:50:32.814306+00:00 [queued]>
+[2024-04-11T15:50:38.797+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-11T15:50:38.886+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): RemoveHash> on 2024-04-11 15:50:32.814306+00:00
+[2024-04-11T15:50:38.913+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=21855) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-11T15:50:38.915+0000] {standard_task_runner.py:63} INFO - Started process 21860 to run task
+[2024-04-11T15:50:38.928+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'Process_W3_Data', 'RemoveHash', 'manual__2024-04-11T15:50:32.814306+00:00', '--job-id', '104', '--raw', '--subdir', 'DAGS_FOLDER/w3c.py', '--cfg-path', '/tmp/tmpqvn9_f20']
+[2024-04-11T15:50:38.938+0000] {standard_task_runner.py:91} INFO - Job 104: Subtask RemoveHash
+[2024-04-11T15:50:39.132+0000] {task_command.py:426} INFO - Running <TaskInstance: Process_W3_Data.RemoveHash manual__2024-04-11T15:50:32.814306+00:00 [running]> on host 426f0b9f9d71
+[2024-04-11T15:50:39.494+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='Process_W3_Data' AIRFLOW_CTX_TASK_ID='RemoveHash' AIRFLOW_CTX_EXECUTION_DATE='2024-04-11T15:50:32.814306+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-11T15:50:32.814306+00:00'
+[2024-04-11T15:50:39.497+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-11T15:50:39.499+0000] {w3c.py:128} WARNING - Starting List Filesu_ex101031.log,u_ex110411.log,u_ex100626.log,u_ex100105.log,u_ex091103.log,u_ex110510.log,u_ex100708.log,u_ex100315.log,u_ex110306.log,u_ex100528.log,u_ex100204.log,u_ex110218.log,u_ex100104.log,u_ex110209.log,u_ex100916.log,u_ex100520.log,u_ex101126.log,u_ex100205.log,u_ex110405.log,u_ex110212.log,u_ex100430.log,u_ex100830.log,u_ex110130.log,u_ex100526.log,u_ex091207.log,u_ex100923.log,u_ex110119.log,u_ex110424.log,u_ex100619.log,u_ex100714.log,u_ex100106.log,u_ex091024.log,u_ex101020.log,u_ex110205.log,u_ex100809.log,u_ex091106.log,u_ex091211.log,u_ex100322.log,u_ex100117.log,u_ex101225.log,u_ex100424.log,u_ex091102.log,u_ex091123.log,u_ex100629.log,u_ex100612.log,u_ex100912.log,u_ex101215.log,u_ex100131.log,u_ex101223.log,u_ex110427.log,u_ex101008.log,u_ex100423.log,u_ex100808.log,u_ex100519.log,u_ex091213.log,u_ex101202.log,u_ex100718.log,u_ex100314.log,u_ex100425.log,u_ex100304.log,u_ex100419.log,u_ex101023.log,u_ex101025.log,u_ex101101.log,u_ex100906.log,u_ex101113.log,u_ex100924.log,u_ex101118.log,u_ex091130.log,u_ex100309.log,u_ex100725.log,u_ex091025.log,u_ex100307.log,u_ex110516.log,u_ex100628.log,u_ex100406.log,u_ex100221.log,u_ex100113.log,u_ex101212.log,u_ex100302.log,u_ex100630.log,u_ex100615.log,u_ex091120.log,u_ex110504.log,u_ex100622.log,u_ex100801.log,u_ex110407.log,u_ex100926.log,u_ex100422.log,u_ex101111.log,u_ex100705.log,u_ex100112.log,u_ex101027.log
+[2024-04-11T15:50:39.520+0000] {w3c.py:131} WARNING - calling Clean u_ex101031.log
+[2024-04-11T15:50:39.521+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101031.log
+[2024-04-11T15:50:39.521+0000] {w3c.py:88} WARNING - Cleaning u_ex101031.log
+[2024-04-11T15:50:39.522+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.533+0000] {w3c.py:131} WARNING - calling Clean u_ex110411.log
+[2024-04-11T15:50:39.533+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110411.log
+[2024-04-11T15:50:39.533+0000] {w3c.py:88} WARNING - Cleaning u_ex110411.log
+[2024-04-11T15:50:39.534+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.548+0000] {w3c.py:131} WARNING - calling Clean u_ex100626.log
+[2024-04-11T15:50:39.549+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100626.log
+[2024-04-11T15:50:39.549+0000] {w3c.py:88} WARNING - Cleaning u_ex100626.log
+[2024-04-11T15:50:39.550+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.554+0000] {w3c.py:131} WARNING - calling Clean u_ex100105.log
+[2024-04-11T15:50:39.559+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100105.log
+[2024-04-11T15:50:39.559+0000] {w3c.py:88} WARNING - Cleaning u_ex100105.log
+[2024-04-11T15:50:39.559+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.568+0000] {w3c.py:131} WARNING - calling Clean u_ex091103.log
+[2024-04-11T15:50:39.568+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091103.log
+[2024-04-11T15:50:39.569+0000] {w3c.py:88} WARNING - Cleaning u_ex091103.log
+[2024-04-11T15:50:39.569+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.596+0000] {w3c.py:131} WARNING - calling Clean u_ex110510.log
+[2024-04-11T15:50:39.597+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110510.log
+[2024-04-11T15:50:39.599+0000] {w3c.py:88} WARNING - Cleaning u_ex110510.log
+[2024-04-11T15:50:39.599+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.619+0000] {w3c.py:131} WARNING - calling Clean u_ex100708.log
+[2024-04-11T15:50:39.626+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100708.log
+[2024-04-11T15:50:39.627+0000] {w3c.py:88} WARNING - Cleaning u_ex100708.log
+[2024-04-11T15:50:39.627+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.640+0000] {w3c.py:131} WARNING - calling Clean u_ex100315.log
+[2024-04-11T15:50:39.641+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100315.log
+[2024-04-11T15:50:39.641+0000] {w3c.py:88} WARNING - Cleaning u_ex100315.log
+[2024-04-11T15:50:39.641+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.661+0000] {w3c.py:131} WARNING - calling Clean u_ex110306.log
+[2024-04-11T15:50:39.662+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110306.log
+[2024-04-11T15:50:39.662+0000] {w3c.py:88} WARNING - Cleaning u_ex110306.log
+[2024-04-11T15:50:39.663+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.668+0000] {w3c.py:131} WARNING - calling Clean u_ex100528.log
+[2024-04-11T15:50:39.669+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100528.log
+[2024-04-11T15:50:39.669+0000] {w3c.py:88} WARNING - Cleaning u_ex100528.log
+[2024-04-11T15:50:39.669+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.685+0000] {w3c.py:131} WARNING - calling Clean u_ex100204.log
+[2024-04-11T15:50:39.686+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100204.log
+[2024-04-11T15:50:39.686+0000] {w3c.py:88} WARNING - Cleaning u_ex100204.log
+[2024-04-11T15:50:39.691+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.716+0000] {w3c.py:131} WARNING - calling Clean u_ex110218.log
+[2024-04-11T15:50:39.717+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110218.log
+[2024-04-11T15:50:39.717+0000] {w3c.py:88} WARNING - Cleaning u_ex110218.log
+[2024-04-11T15:50:39.717+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.735+0000] {w3c.py:131} WARNING - calling Clean u_ex100104.log
+[2024-04-11T15:50:39.736+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100104.log
+[2024-04-11T15:50:39.736+0000] {w3c.py:88} WARNING - Cleaning u_ex100104.log
+[2024-04-11T15:50:39.736+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.749+0000] {w3c.py:131} WARNING - calling Clean u_ex110209.log
+[2024-04-11T15:50:39.750+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110209.log
+[2024-04-11T15:50:39.750+0000] {w3c.py:88} WARNING - Cleaning u_ex110209.log
+[2024-04-11T15:50:39.751+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.765+0000] {w3c.py:131} WARNING - calling Clean u_ex100916.log
+[2024-04-11T15:50:39.765+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100916.log
+[2024-04-11T15:50:39.766+0000] {w3c.py:88} WARNING - Cleaning u_ex100916.log
+[2024-04-11T15:50:39.766+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.778+0000] {w3c.py:131} WARNING - calling Clean u_ex100520.log
+[2024-04-11T15:50:39.778+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100520.log
+[2024-04-11T15:50:39.779+0000] {w3c.py:88} WARNING - Cleaning u_ex100520.log
+[2024-04-11T15:50:39.779+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.784+0000] {w3c.py:131} WARNING - calling Clean u_ex101126.log
+[2024-04-11T15:50:39.786+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101126.log
+[2024-04-11T15:50:39.786+0000] {w3c.py:88} WARNING - Cleaning u_ex101126.log
+[2024-04-11T15:50:39.787+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.800+0000] {w3c.py:131} WARNING - calling Clean u_ex100205.log
+[2024-04-11T15:50:39.801+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100205.log
+[2024-04-11T15:50:39.801+0000] {w3c.py:88} WARNING - Cleaning u_ex100205.log
+[2024-04-11T15:50:39.801+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.805+0000] {w3c.py:131} WARNING - calling Clean u_ex110405.log
+[2024-04-11T15:50:39.806+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110405.log
+[2024-04-11T15:50:39.806+0000] {w3c.py:88} WARNING - Cleaning u_ex110405.log
+[2024-04-11T15:50:39.807+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.817+0000] {w3c.py:131} WARNING - calling Clean u_ex110212.log
+[2024-04-11T15:50:39.817+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110212.log
+[2024-04-11T15:50:39.817+0000] {w3c.py:88} WARNING - Cleaning u_ex110212.log
+[2024-04-11T15:50:39.818+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.822+0000] {w3c.py:131} WARNING - calling Clean u_ex100430.log
+[2024-04-11T15:50:39.823+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100430.log
+[2024-04-11T15:50:39.823+0000] {w3c.py:88} WARNING - Cleaning u_ex100430.log
+[2024-04-11T15:50:39.823+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.830+0000] {w3c.py:131} WARNING - calling Clean u_ex100830.log
+[2024-04-11T15:50:39.830+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100830.log
+[2024-04-11T15:50:39.830+0000] {w3c.py:88} WARNING - Cleaning u_ex100830.log
+[2024-04-11T15:50:39.831+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.835+0000] {w3c.py:131} WARNING - calling Clean u_ex110130.log
+[2024-04-11T15:50:39.836+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110130.log
+[2024-04-11T15:50:39.836+0000] {w3c.py:88} WARNING - Cleaning u_ex110130.log
+[2024-04-11T15:50:39.836+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.840+0000] {w3c.py:131} WARNING - calling Clean u_ex100526.log
+[2024-04-11T15:50:39.841+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100526.log
+[2024-04-11T15:50:39.841+0000] {w3c.py:88} WARNING - Cleaning u_ex100526.log
+[2024-04-11T15:50:39.841+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.846+0000] {w3c.py:131} WARNING - calling Clean u_ex091207.log
+[2024-04-11T15:50:39.847+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091207.log
+[2024-04-11T15:50:39.847+0000] {w3c.py:88} WARNING - Cleaning u_ex091207.log
+[2024-04-11T15:50:39.848+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.858+0000] {w3c.py:131} WARNING - calling Clean u_ex100923.log
+[2024-04-11T15:50:39.859+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100923.log
+[2024-04-11T15:50:39.859+0000] {w3c.py:88} WARNING - Cleaning u_ex100923.log
+[2024-04-11T15:50:39.859+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.872+0000] {w3c.py:131} WARNING - calling Clean u_ex110119.log
+[2024-04-11T15:50:39.872+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110119.log
+[2024-04-11T15:50:39.873+0000] {w3c.py:88} WARNING - Cleaning u_ex110119.log
+[2024-04-11T15:50:39.873+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.884+0000] {w3c.py:131} WARNING - calling Clean u_ex110424.log
+[2024-04-11T15:50:39.884+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110424.log
+[2024-04-11T15:50:39.885+0000] {w3c.py:88} WARNING - Cleaning u_ex110424.log
+[2024-04-11T15:50:39.885+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.891+0000] {w3c.py:131} WARNING - calling Clean u_ex100619.log
+[2024-04-11T15:50:39.891+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100619.log
+[2024-04-11T15:50:39.892+0000] {w3c.py:88} WARNING - Cleaning u_ex100619.log
+[2024-04-11T15:50:39.892+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.896+0000] {w3c.py:131} WARNING - calling Clean u_ex100714.log
+[2024-04-11T15:50:39.896+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100714.log
+[2024-04-11T15:50:39.896+0000] {w3c.py:88} WARNING - Cleaning u_ex100714.log
+[2024-04-11T15:50:39.897+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.900+0000] {w3c.py:131} WARNING - calling Clean u_ex100106.log
+[2024-04-11T15:50:39.901+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100106.log
+[2024-04-11T15:50:39.901+0000] {w3c.py:88} WARNING - Cleaning u_ex100106.log
+[2024-04-11T15:50:39.901+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.914+0000] {w3c.py:131} WARNING - calling Clean u_ex091024.log
+[2024-04-11T15:50:39.914+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091024.log
+[2024-04-11T15:50:39.915+0000] {w3c.py:88} WARNING - Cleaning u_ex091024.log
+[2024-04-11T15:50:39.915+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.916+0000] {w3c.py:131} WARNING - calling Clean u_ex101020.log
+[2024-04-11T15:50:39.917+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101020.log
+[2024-04-11T15:50:39.917+0000] {w3c.py:88} WARNING - Cleaning u_ex101020.log
+[2024-04-11T15:50:39.917+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.924+0000] {w3c.py:131} WARNING - calling Clean u_ex110205.log
+[2024-04-11T15:50:39.925+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110205.log
+[2024-04-11T15:50:39.925+0000] {w3c.py:88} WARNING - Cleaning u_ex110205.log
+[2024-04-11T15:50:39.926+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.929+0000] {w3c.py:131} WARNING - calling Clean u_ex100809.log
+[2024-04-11T15:50:39.930+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100809.log
+[2024-04-11T15:50:39.930+0000] {w3c.py:88} WARNING - Cleaning u_ex100809.log
+[2024-04-11T15:50:39.931+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.941+0000] {w3c.py:131} WARNING - calling Clean u_ex091106.log
+[2024-04-11T15:50:39.943+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091106.log
+[2024-04-11T15:50:39.943+0000] {w3c.py:88} WARNING - Cleaning u_ex091106.log
+[2024-04-11T15:50:39.943+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.945+0000] {w3c.py:131} WARNING - calling Clean u_ex091211.log
+[2024-04-11T15:50:39.946+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091211.log
+[2024-04-11T15:50:39.947+0000] {w3c.py:88} WARNING - Cleaning u_ex091211.log
+[2024-04-11T15:50:39.947+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.964+0000] {w3c.py:131} WARNING - calling Clean u_ex100322.log
+[2024-04-11T15:50:39.965+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100322.log
+[2024-04-11T15:50:39.965+0000] {w3c.py:88} WARNING - Cleaning u_ex100322.log
+[2024-04-11T15:50:39.966+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:39.978+0000] {w3c.py:131} WARNING - calling Clean u_ex100117.log
+[2024-04-11T15:50:39.979+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100117.log
+[2024-04-11T15:50:39.979+0000] {w3c.py:88} WARNING - Cleaning u_ex100117.log
+[2024-04-11T15:50:39.981+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.004+0000] {w3c.py:131} WARNING - calling Clean u_ex101225.log
+[2024-04-11T15:50:40.004+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101225.log
+[2024-04-11T15:50:40.005+0000] {w3c.py:88} WARNING - Cleaning u_ex101225.log
+[2024-04-11T15:50:40.005+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.010+0000] {w3c.py:131} WARNING - calling Clean u_ex100424.log
+[2024-04-11T15:50:40.010+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100424.log
+[2024-04-11T15:50:40.011+0000] {w3c.py:88} WARNING - Cleaning u_ex100424.log
+[2024-04-11T15:50:40.011+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.019+0000] {w3c.py:131} WARNING - calling Clean u_ex091102.log
+[2024-04-11T15:50:40.020+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091102.log
+[2024-04-11T15:50:40.020+0000] {w3c.py:88} WARNING - Cleaning u_ex091102.log
+[2024-04-11T15:50:40.021+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.034+0000] {w3c.py:131} WARNING - calling Clean u_ex091123.log
+[2024-04-11T15:50:40.035+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091123.log
+[2024-04-11T15:50:40.036+0000] {w3c.py:88} WARNING - Cleaning u_ex091123.log
+[2024-04-11T15:50:40.036+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.049+0000] {w3c.py:131} WARNING - calling Clean u_ex100629.log
+[2024-04-11T15:50:40.050+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100629.log
+[2024-04-11T15:50:40.050+0000] {w3c.py:88} WARNING - Cleaning u_ex100629.log
+[2024-04-11T15:50:40.050+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.054+0000] {w3c.py:131} WARNING - calling Clean u_ex100612.log
+[2024-04-11T15:50:40.055+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100612.log
+[2024-04-11T15:50:40.055+0000] {w3c.py:88} WARNING - Cleaning u_ex100612.log
+[2024-04-11T15:50:40.056+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.059+0000] {w3c.py:131} WARNING - calling Clean u_ex100912.log
+[2024-04-11T15:50:40.059+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100912.log
+[2024-04-11T15:50:40.060+0000] {w3c.py:88} WARNING - Cleaning u_ex100912.log
+[2024-04-11T15:50:40.060+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.066+0000] {w3c.py:131} WARNING - calling Clean u_ex101215.log
+[2024-04-11T15:50:40.067+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101215.log
+[2024-04-11T15:50:40.067+0000] {w3c.py:88} WARNING - Cleaning u_ex101215.log
+[2024-04-11T15:50:40.067+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.074+0000] {w3c.py:131} WARNING - calling Clean u_ex100131.log
+[2024-04-11T15:50:40.074+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100131.log
+[2024-04-11T15:50:40.075+0000] {w3c.py:88} WARNING - Cleaning u_ex100131.log
+[2024-04-11T15:50:40.075+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.081+0000] {w3c.py:131} WARNING - calling Clean u_ex101223.log
+[2024-04-11T15:50:40.082+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101223.log
+[2024-04-11T15:50:40.082+0000] {w3c.py:88} WARNING - Cleaning u_ex101223.log
+[2024-04-11T15:50:40.082+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.089+0000] {w3c.py:131} WARNING - calling Clean u_ex110427.log
+[2024-04-11T15:50:40.089+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110427.log
+[2024-04-11T15:50:40.089+0000] {w3c.py:88} WARNING - Cleaning u_ex110427.log
+[2024-04-11T15:50:40.090+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.098+0000] {w3c.py:131} WARNING - calling Clean u_ex101008.log
+[2024-04-11T15:50:40.098+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101008.log
+[2024-04-11T15:50:40.099+0000] {w3c.py:88} WARNING - Cleaning u_ex101008.log
+[2024-04-11T15:50:40.099+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.110+0000] {w3c.py:131} WARNING - calling Clean u_ex100423.log
+[2024-04-11T15:50:40.111+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100423.log
+[2024-04-11T15:50:40.111+0000] {w3c.py:88} WARNING - Cleaning u_ex100423.log
+[2024-04-11T15:50:40.111+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.119+0000] {w3c.py:131} WARNING - calling Clean u_ex100808.log
+[2024-04-11T15:50:40.120+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100808.log
+[2024-04-11T15:50:40.120+0000] {w3c.py:88} WARNING - Cleaning u_ex100808.log
+[2024-04-11T15:50:40.120+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.124+0000] {w3c.py:131} WARNING - calling Clean u_ex100519.log
+[2024-04-11T15:50:40.124+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100519.log
+[2024-04-11T15:50:40.125+0000] {w3c.py:88} WARNING - Cleaning u_ex100519.log
+[2024-04-11T15:50:40.125+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.131+0000] {w3c.py:131} WARNING - calling Clean u_ex091213.log
+[2024-04-11T15:50:40.131+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091213.log
+[2024-04-11T15:50:40.132+0000] {w3c.py:88} WARNING - Cleaning u_ex091213.log
+[2024-04-11T15:50:40.132+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.137+0000] {w3c.py:131} WARNING - calling Clean u_ex101202.log
+[2024-04-11T15:50:40.138+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101202.log
+[2024-04-11T15:50:40.138+0000] {w3c.py:88} WARNING - Cleaning u_ex101202.log
+[2024-04-11T15:50:40.138+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.143+0000] {w3c.py:131} WARNING - calling Clean u_ex100718.log
+[2024-04-11T15:50:40.143+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100718.log
+[2024-04-11T15:50:40.143+0000] {w3c.py:88} WARNING - Cleaning u_ex100718.log
+[2024-04-11T15:50:40.144+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.152+0000] {w3c.py:131} WARNING - calling Clean u_ex100314.log
+[2024-04-11T15:50:40.152+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100314.log
+[2024-04-11T15:50:40.153+0000] {w3c.py:88} WARNING - Cleaning u_ex100314.log
+[2024-04-11T15:50:40.153+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.160+0000] {w3c.py:131} WARNING - calling Clean u_ex100425.log
+[2024-04-11T15:50:40.160+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100425.log
+[2024-04-11T15:50:40.161+0000] {w3c.py:88} WARNING - Cleaning u_ex100425.log
+[2024-04-11T15:50:40.161+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.167+0000] {w3c.py:131} WARNING - calling Clean u_ex100304.log
+[2024-04-11T15:50:40.168+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100304.log
+[2024-04-11T15:50:40.168+0000] {w3c.py:88} WARNING - Cleaning u_ex100304.log
+[2024-04-11T15:50:40.168+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.174+0000] {w3c.py:131} WARNING - calling Clean u_ex100419.log
+[2024-04-11T15:50:40.175+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100419.log
+[2024-04-11T15:50:40.175+0000] {w3c.py:88} WARNING - Cleaning u_ex100419.log
+[2024-04-11T15:50:40.175+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.182+0000] {w3c.py:131} WARNING - calling Clean u_ex101023.log
+[2024-04-11T15:50:40.182+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101023.log
+[2024-04-11T15:50:40.182+0000] {w3c.py:88} WARNING - Cleaning u_ex101023.log
+[2024-04-11T15:50:40.183+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.190+0000] {w3c.py:131} WARNING - calling Clean u_ex101025.log
+[2024-04-11T15:50:40.191+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101025.log
+[2024-04-11T15:50:40.191+0000] {w3c.py:88} WARNING - Cleaning u_ex101025.log
+[2024-04-11T15:50:40.191+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.197+0000] {w3c.py:131} WARNING - calling Clean u_ex101101.log
+[2024-04-11T15:50:40.197+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101101.log
+[2024-04-11T15:50:40.197+0000] {w3c.py:88} WARNING - Cleaning u_ex101101.log
+[2024-04-11T15:50:40.198+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.207+0000] {w3c.py:131} WARNING - calling Clean u_ex100906.log
+[2024-04-11T15:50:40.207+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100906.log
+[2024-04-11T15:50:40.208+0000] {w3c.py:88} WARNING - Cleaning u_ex100906.log
+[2024-04-11T15:50:40.208+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.212+0000] {w3c.py:131} WARNING - calling Clean u_ex101113.log
+[2024-04-11T15:50:40.213+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101113.log
+[2024-04-11T15:50:40.213+0000] {w3c.py:88} WARNING - Cleaning u_ex101113.log
+[2024-04-11T15:50:40.213+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.219+0000] {w3c.py:131} WARNING - calling Clean u_ex100924.log
+[2024-04-11T15:50:40.220+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100924.log
+[2024-04-11T15:50:40.220+0000] {w3c.py:88} WARNING - Cleaning u_ex100924.log
+[2024-04-11T15:50:40.220+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.226+0000] {w3c.py:131} WARNING - calling Clean u_ex101118.log
+[2024-04-11T15:50:40.227+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101118.log
+[2024-04-11T15:50:40.230+0000] {w3c.py:88} WARNING - Cleaning u_ex101118.log
+[2024-04-11T15:50:40.231+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.238+0000] {w3c.py:131} WARNING - calling Clean u_ex091130.log
+[2024-04-11T15:50:40.238+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091130.log
+[2024-04-11T15:50:40.239+0000] {w3c.py:88} WARNING - Cleaning u_ex091130.log
+[2024-04-11T15:50:40.239+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.248+0000] {logging_mixin.py:188} INFO - Fault 26
+[2024-04-11T15:50:40.254+0000] {logging_mixin.py:188} INFO - Fault 10
+[2024-04-11T15:50:40.258+0000] {logging_mixin.py:188} INFO - Fault 6
+[2024-04-11T15:50:40.259+0000] {w3c.py:131} WARNING - calling Clean u_ex100309.log
+[2024-04-11T15:50:40.260+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100309.log
+[2024-04-11T15:50:40.260+0000] {w3c.py:88} WARNING - Cleaning u_ex100309.log
+[2024-04-11T15:50:40.260+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.265+0000] {w3c.py:131} WARNING - calling Clean u_ex100725.log
+[2024-04-11T15:50:40.266+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100725.log
+[2024-04-11T15:50:40.266+0000] {w3c.py:88} WARNING - Cleaning u_ex100725.log
+[2024-04-11T15:50:40.267+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.272+0000] {w3c.py:131} WARNING - calling Clean u_ex091025.log
+[2024-04-11T15:50:40.273+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091025.log
+[2024-04-11T15:50:40.273+0000] {w3c.py:88} WARNING - Cleaning u_ex091025.log
+[2024-04-11T15:50:40.273+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.274+0000] {w3c.py:131} WARNING - calling Clean u_ex100307.log
+[2024-04-11T15:50:40.275+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100307.log
+[2024-04-11T15:50:40.275+0000] {w3c.py:88} WARNING - Cleaning u_ex100307.log
+[2024-04-11T15:50:40.275+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.280+0000] {w3c.py:131} WARNING - calling Clean u_ex110516.log
+[2024-04-11T15:50:40.280+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110516.log
+[2024-04-11T15:50:40.281+0000] {w3c.py:88} WARNING - Cleaning u_ex110516.log
+[2024-04-11T15:50:40.281+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.290+0000] {w3c.py:131} WARNING - calling Clean u_ex100628.log
+[2024-04-11T15:50:40.291+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100628.log
+[2024-04-11T15:50:40.291+0000] {w3c.py:88} WARNING - Cleaning u_ex100628.log
+[2024-04-11T15:50:40.292+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.296+0000] {w3c.py:131} WARNING - calling Clean u_ex100406.log
+[2024-04-11T15:50:40.296+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100406.log
+[2024-04-11T15:50:40.296+0000] {w3c.py:88} WARNING - Cleaning u_ex100406.log
+[2024-04-11T15:50:40.297+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.302+0000] {w3c.py:131} WARNING - calling Clean u_ex100221.log
+[2024-04-11T15:50:40.302+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100221.log
+[2024-04-11T15:50:40.302+0000] {w3c.py:88} WARNING - Cleaning u_ex100221.log
+[2024-04-11T15:50:40.302+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.305+0000] {w3c.py:131} WARNING - calling Clean u_ex100113.log
+[2024-04-11T15:50:40.305+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100113.log
+[2024-04-11T15:50:40.305+0000] {w3c.py:88} WARNING - Cleaning u_ex100113.log
+[2024-04-11T15:50:40.305+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.311+0000] {w3c.py:131} WARNING - calling Clean u_ex101212.log
+[2024-04-11T15:50:40.311+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101212.log
+[2024-04-11T15:50:40.312+0000] {w3c.py:88} WARNING - Cleaning u_ex101212.log
+[2024-04-11T15:50:40.312+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.315+0000] {w3c.py:131} WARNING - calling Clean u_ex100302.log
+[2024-04-11T15:50:40.316+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100302.log
+[2024-04-11T15:50:40.316+0000] {w3c.py:88} WARNING - Cleaning u_ex100302.log
+[2024-04-11T15:50:40.316+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.322+0000] {w3c.py:131} WARNING - calling Clean u_ex100630.log
+[2024-04-11T15:50:40.322+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100630.log
+[2024-04-11T15:50:40.322+0000] {w3c.py:88} WARNING - Cleaning u_ex100630.log
+[2024-04-11T15:50:40.322+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.325+0000] {w3c.py:131} WARNING - calling Clean u_ex100615.log
+[2024-04-11T15:50:40.325+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100615.log
+[2024-04-11T15:50:40.325+0000] {w3c.py:88} WARNING - Cleaning u_ex100615.log
+[2024-04-11T15:50:40.325+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.331+0000] {w3c.py:131} WARNING - calling Clean u_ex091120.log
+[2024-04-11T15:50:40.332+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex091120.log
+[2024-04-11T15:50:40.332+0000] {w3c.py:88} WARNING - Cleaning u_ex091120.log
+[2024-04-11T15:50:40.333+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.341+0000] {w3c.py:131} WARNING - calling Clean u_ex110504.log
+[2024-04-11T15:50:40.341+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110504.log
+[2024-04-11T15:50:40.342+0000] {w3c.py:88} WARNING - Cleaning u_ex110504.log
+[2024-04-11T15:50:40.342+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.350+0000] {w3c.py:131} WARNING - calling Clean u_ex100622.log
+[2024-04-11T15:50:40.351+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100622.log
+[2024-04-11T15:50:40.351+0000] {w3c.py:88} WARNING - Cleaning u_ex100622.log
+[2024-04-11T15:50:40.351+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.360+0000] {w3c.py:131} WARNING - calling Clean u_ex100801.log
+[2024-04-11T15:50:40.360+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100801.log
+[2024-04-11T15:50:40.361+0000] {w3c.py:88} WARNING - Cleaning u_ex100801.log
+[2024-04-11T15:50:40.361+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.365+0000] {w3c.py:131} WARNING - calling Clean u_ex110407.log
+[2024-04-11T15:50:40.365+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex110407.log
+[2024-04-11T15:50:40.366+0000] {w3c.py:88} WARNING - Cleaning u_ex110407.log
+[2024-04-11T15:50:40.366+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.396+0000] {w3c.py:131} WARNING - calling Clean u_ex100926.log
+[2024-04-11T15:50:40.397+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100926.log
+[2024-04-11T15:50:40.397+0000] {w3c.py:88} WARNING - Cleaning u_ex100926.log
+[2024-04-11T15:50:40.398+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.413+0000] {w3c.py:131} WARNING - calling Clean u_ex100422.log
+[2024-04-11T15:50:40.414+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100422.log
+[2024-04-11T15:50:40.414+0000] {w3c.py:88} WARNING - Cleaning u_ex100422.log
+[2024-04-11T15:50:40.415+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.425+0000] {w3c.py:131} WARNING - calling Clean u_ex101111.log
+[2024-04-11T15:50:40.426+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101111.log
+[2024-04-11T15:50:40.426+0000] {w3c.py:88} WARNING - Cleaning u_ex101111.log
+[2024-04-11T15:50:40.427+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.453+0000] {w3c.py:131} WARNING - calling Clean u_ex100705.log
+[2024-04-11T15:50:40.454+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100705.log
+[2024-04-11T15:50:40.455+0000] {w3c.py:88} WARNING - Cleaning u_ex100705.log
+[2024-04-11T15:50:40.455+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.460+0000] {w3c.py:131} WARNING - calling Clean u_ex100112.log
+[2024-04-11T15:50:40.461+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex100112.log
+[2024-04-11T15:50:40.461+0000] {w3c.py:88} WARNING - Cleaning u_ex100112.log
+[2024-04-11T15:50:40.462+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.484+0000] {w3c.py:131} WARNING - calling Clean u_ex101027.log
+[2024-04-11T15:50:40.485+0000] {logging_mixin.py:188} INFO - Cleaning  u_ex101027.log
+[2024-04-11T15:50:40.485+0000] {w3c.py:88} WARNING - Cleaning u_ex101027.log
+[2024-04-11T15:50:40.485+0000] {logging_mixin.py:188} INFO - sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt
+[2024-04-11T15:50:40.496+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-11T15:50:40.497+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-11T15:50:40.508+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=Process_W3_Data, task_id=RemoveHash, execution_date=20240411T155032, start_date=20240411T155038, end_date=20240411T155040
+[2024-04-11T15:50:40.536+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-11T15:50:40.576+0000] {taskinstance.py:3482} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-04-11T15:50:40.578+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

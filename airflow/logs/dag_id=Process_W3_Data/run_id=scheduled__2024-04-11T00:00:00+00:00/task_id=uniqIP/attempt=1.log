@@ -1,0 +1,23 @@
+[2024-04-12T00:00:23.895+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-12T00:00:23.940+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Process_W3_Data.uniqIP scheduled__2024-04-11T00:00:00+00:00 [queued]>
+[2024-04-12T00:00:23.979+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Process_W3_Data.uniqIP scheduled__2024-04-11T00:00:00+00:00 [queued]>
+[2024-04-12T00:00:23.980+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-12T00:00:24.009+0000] {taskinstance.py:2327} INFO - Executing <Task(BashOperator): uniqIP> on 2024-04-11 00:00:00+00:00
+[2024-04-12T00:00:24.025+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=28366) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-12T00:00:24.028+0000] {standard_task_runner.py:63} INFO - Started process 28369 to run task
+[2024-04-12T00:00:24.035+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'Process_W3_Data', 'uniqIP', 'scheduled__2024-04-11T00:00:00+00:00', '--job-id', '209', '--raw', '--subdir', 'DAGS_FOLDER/w3c.py', '--cfg-path', '/tmp/tmpwk5f_g3u']
+[2024-04-12T00:00:24.040+0000] {standard_task_runner.py:91} INFO - Job 209: Subtask uniqIP
+[2024-04-12T00:00:24.149+0000] {task_command.py:426} INFO - Running <TaskInstance: Process_W3_Data.uniqIP scheduled__2024-04-11T00:00:00+00:00 [running]> on host 426f0b9f9d71
+[2024-04-12T00:00:24.332+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='Process_W3_Data' AIRFLOW_CTX_TASK_ID='uniqIP' AIRFLOW_CTX_EXECUTION_DATE='2024-04-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-04-11T00:00:00+00:00'
+[2024-04-12T00:00:24.336+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-12T00:00:24.342+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-04-12T00:00:24.344+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'sort -u /opt/***/data/Staging/DimIP.txt > /opt/***/data/Staging/DimIPUniq.txt']
+[2024-04-12T00:00:24.369+0000] {subprocess.py:86} INFO - Output:
+[2024-04-12T00:00:24.469+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-04-12T00:00:24.470+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-12T00:00:24.516+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=Process_W3_Data, task_id=uniqIP, execution_date=20240411T000000, start_date=20240412T000023, end_date=20240412T000024
+[2024-04-12T00:00:24.573+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-12T00:00:24.634+0000] {taskinstance.py:3482} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-04-12T00:00:24.649+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

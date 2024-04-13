@@ -1,0 +1,20 @@
+[2024-04-11T14:49:01.030+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-11T14:49:01.169+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Process_W3_Data.DateTable manual__2024-04-11T14:48:42.895422+00:00 [queued]>
+[2024-04-11T14:49:01.205+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Process_W3_Data.DateTable manual__2024-04-11T14:48:42.895422+00:00 [queued]>
+[2024-04-11T14:49:01.212+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-11T14:49:01.286+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): DateTable> on 2024-04-11 14:48:42.895422+00:00
+[2024-04-11T14:49:01.332+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=20843) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-11T14:49:01.335+0000] {standard_task_runner.py:63} INFO - Started process 20854 to run task
+[2024-04-11T14:49:01.353+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'Process_W3_Data', 'DateTable', 'manual__2024-04-11T14:48:42.895422+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/w3c.py', '--cfg-path', '/tmp/tmp7i1gbmwg']
+[2024-04-11T14:49:01.369+0000] {standard_task_runner.py:91} INFO - Job 38: Subtask DateTable
+[2024-04-11T14:49:01.556+0000] {task_command.py:426} INFO - Running <TaskInstance: Process_W3_Data.DateTable manual__2024-04-11T14:48:42.895422+00:00 [running]> on host 426f0b9f9d71
+[2024-04-11T14:49:01.925+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='Process_W3_Data' AIRFLOW_CTX_TASK_ID='DateTable' AIRFLOW_CTX_EXECUTION_DATE='2024-04-11T14:48:42.895422+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-11T14:48:42.895422+00:00'
+[2024-04-11T14:49:01.933+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-11T14:49:02.453+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-11T14:49:02.455+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-11T14:49:02.471+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=Process_W3_Data, task_id=DateTable, execution_date=20240411T144842, start_date=20240411T144901, end_date=20240411T144902
+[2024-04-11T14:49:02.544+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-11T14:49:02.670+0000] {taskinstance.py:3482} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-04-11T14:49:02.676+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
