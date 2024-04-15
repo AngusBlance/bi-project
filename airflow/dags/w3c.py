@@ -83,20 +83,20 @@ def insert_data_into_db():
     conn.close()
     logging.info("Data inserted successfully into all tables.")
 
-def insert_data_into_db():
-    pg_hook = PostgresHook(postgres_conn_id='postgres_default')
-    conn = pg_hook.get_conn()
-    cursor = conn.cursor()  # Open cursor
-
+def insert_data_from_file(cursor, file_path, table_name, columns):
     try:
-        # Operations using cursor
-        for config in data_config:
-            insert_data_from_file(cursor, config['file_path'], config['table_name'], config['columns'])
+        with open(file_path, 'r') as file:
+            reader = csv.reader(file)
+            next(reader)  # Skip the header
+            placeholders = ', '.join(['%s'] * len(columns.split(',')))
+            insert_query = f'INSERT INTO {table_name} {columns} VALUES ({placeholders})'
+            for row in reader:
+                #logging.info(f"Inserting row: {row}")  # Log the row data
+                cursor.execute(insert_query, row)
     except Exception as e:
-        logging.error(f"General error in data import: {e}")
+        logging.error(f"Error during data import in {table_name}: {e}")
     finally:
-        cursor.close()  # Close cursor only once after all operations are done
-        conn.close()  # Close connection
+        cursor.close()
 
 
 
