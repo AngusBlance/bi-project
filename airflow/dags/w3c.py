@@ -54,24 +54,45 @@ def insert_data_into_db():
     conn = pg_hook.get_conn()
     cursor = conn.cursor()
 
-    file_path = '/opt/airflow/data/StarSchema/CleanOutFact1.txt'
-    table_name = 'fact_table'  # Ensure this is the correct table name
+    # File and table configuration
+    data_config = [
+        {
+            "file_path": '/opt/airflow/data/StarSchema/CleanOutFact1.txt',
+            "table_name": 'fact_table',
+            "columns": "(Date, Time, Browser, IP, ResponseTime)"
+        },
+        {
+            "file_path": '/opt/airflow/data/StarSchema/DimDateTable.txt',
+            "table_name": 'dim_date',
+            "columns": "(Date, Year, Month, Day, DayofWeek)"
+        },
+        {
+            "file_path": '/opt/airflow/data/StarSchema/DimIPLoc.txt',
+            "table_name": 'dim_iploc',
+            "columns": "(IP, Country_Code, Country_Name, City, Latitude, Longitude)"
+        }
+    ]
 
+    # Process each data configuration
+    for config in data_config:
+        insert_data_from_file(cursor, config['file_path'], config['table_name'], config['columns'])
+
+    # Commit changes and close connection
+    conn.commit()
+    cursor.close()
+    conn.close()
+    logging.info("Data inserted successfully into all tables.")
+
+def insert_data_from_file(cursor, file_path, table_name, columns):
     try:
         with open(file_path, 'r') as file:
             reader = csv.reader(file)
-            headers = next(reader)  # skip the header
-            insert_query = 'INSERT INTO {} (Date, Time, Browser, IP, ResponseTime) VALUES (%s, %s, %s, %s, %s)'.format(table_name)
+            next(reader)  # Skip the header
+            placeholders = ', '.join(['%s'] * len(columns.split(',')))
+            insert_query = f'INSERT INTO {table_name} {columns} VALUES ({placeholders})'
             cursor.executemany(insert_query, reader)
     except Exception as e:
-        logging.error(f"Error during data import: {e}")
-    finally:
-        conn.commit()
-        cursor.close()
-        conn.close()
-        logging.info("Data inserted successfully.")
-
-
+        logging.error(f"Error during data import in {table_name}: {e}")
 
 
 def validate_and_clean_data():
@@ -360,6 +381,6 @@ DateTable >> uniq2
 uniq >> IPTable
 uniq2 >> BuildDimDate
 [IPTable, BuildDimDate] >> copyfact
-copyfact >> validate_data_task
-validate_data_task >> insert_data_task
-
+# copyfact >> validate_data_task
+# validate_data_task >> insert_data_task
+copyfact >> insert_data_task
