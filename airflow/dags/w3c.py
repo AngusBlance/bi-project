@@ -59,7 +59,7 @@ def insert_data_into_db():
         {
             "file_path": '/opt/airflow/data/StarSchema/CleanOutFact1.txt',
             "table_name": 'fact_table',
-            "columns": "(Date, Time, Browser, IP, ResponseTime)"
+            "columns": "(Date, Time, Browser, IP, ResponseTime, RequestedFile)"
         },
         {
             "file_path": '/opt/airflow/data/StarSchema/DimDateTable.txt',
@@ -83,16 +83,22 @@ def insert_data_into_db():
     conn.close()
     logging.info("Data inserted successfully into all tables.")
 
-def insert_data_from_file(cursor, file_path, table_name, columns):
+def insert_data_into_db():
+    pg_hook = PostgresHook(postgres_conn_id='postgres_default')
+    conn = pg_hook.get_conn()
+    cursor = conn.cursor()  # Open cursor
+
     try:
-        with open(file_path, 'r') as file:
-            reader = csv.reader(file)
-            next(reader)  # Skip the header
-            placeholders = ', '.join(['%s'] * len(columns.split(',')))
-            insert_query = f'INSERT INTO {table_name} {columns} VALUES ({placeholders})'
-            cursor.executemany(insert_query, reader)
+        # Operations using cursor
+        for config in data_config:
+            insert_data_from_file(cursor, config['file_path'], config['table_name'], config['columns'])
     except Exception as e:
-        logging.error(f"Error during data import in {table_name}: {e}")
+        logging.error(f"General error in data import: {e}")
+    finally:
+        cursor.close()  # Close cursor only once after all operations are done
+        conn.close()  # Close connection
+
+
 
 
 def validate_and_clean_data():
@@ -116,7 +122,7 @@ def validate_and_clean_data():
                 errfile.write(line)
 
 def validate_row(fields):
-    expected_num_fields = 5
+    expected_num_fields = 6
     if len(fields) != expected_num_fields:
         return False
     try:
@@ -189,7 +195,7 @@ def BuildFactShort():
     for line in Lines:
         Split=line.split(" ")
         Browser=Split[9].replace(",","")
-        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13]
+        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4] + "\n"
 
         OutFact1.write(Out)
 
@@ -201,12 +207,12 @@ def BuildFactLong():
     for line in Lines:
         Split=line.split(" ")
         Browser=Split[9].replace(",","")
-        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[16]
+        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4] + "\n"
         OutFact1.write(Out)
 
 def Fact1():
     with open(Staging+'OutFact1.txt', 'w') as file:
-        file.write("Date,Time,Browser,IP,ResponseTime\n")
+        file.write("Date,Time,Browser,IP,ResponseTime,RequestedFile\n")
     BuildFactShort()
     BuildFactLong()
  
@@ -350,7 +356,7 @@ uniq2 = BashOperator(
 copyfact = BashOperator(
     task_id="copyfact",
 #    bash_command=uniqDateCommand,
-     bash_command="cp /opt/airflow/data/Staging/OutFact1.txt /opt/airflow/data/StarSchema/OutFact1.txt",
+    bash_command="cp /opt/airflow/data/Staging/OutFact1.txt /opt/airflow/data/StarSchema/OutFact1.txt",
 
     dag=dag,
 )
@@ -381,6 +387,5 @@ DateTable >> uniq2
 uniq >> IPTable
 uniq2 >> BuildDimDate
 [IPTable, BuildDimDate] >> copyfact
-# copyfact >> validate_data_task
-# validate_data_task >> insert_data_task
-copyfact >> insert_data_task
+copyfact >> validate_data_task
+validate_data_task >> insert_data_task
