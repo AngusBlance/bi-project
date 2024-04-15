@@ -91,10 +91,15 @@ def insert_data_from_file(cursor, file_path, table_name, columns):
             placeholders = ', '.join(['%s'] * len(columns.split(',')))
             insert_query = f'INSERT INTO {table_name} {columns} VALUES ({placeholders})'
             for row in reader:
-                #logging.info(f"Inserting row: {row}")  # Log the row data
-                cursor.execute(insert_query, row)
+                try:
+                    cursor.execute(insert_query, row)
+                except Exception as e:
+                    logging.error(f"Error inserting row {row}: {e}")
+                    raise e
     except Exception as e:
-        logging.error(f"Error during data import in {table_name}: {e}")
+        logging.error(f"General error during data import in {table_name}: {e}")
+        raise e
+
     
 
 
