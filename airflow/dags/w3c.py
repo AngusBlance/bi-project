@@ -95,8 +95,7 @@ def insert_data_from_file(cursor, file_path, table_name, columns):
                 cursor.execute(insert_query, row)
     except Exception as e:
         logging.error(f"Error during data import in {table_name}: {e}")
-    finally:
-        cursor.close()
+    
 
 
 
