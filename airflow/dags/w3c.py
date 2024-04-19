@@ -212,7 +212,7 @@ def BuildFactLong():
         Split=line.split(" ")
         Browser=Split[9].replace(",","")
         # 
-        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4].replace("/", "") 
+        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4]
         OutFact1.write(Out)
 
 def Fact1():
