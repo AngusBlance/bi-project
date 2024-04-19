@@ -1,4 +1,4 @@
-psql -h 35.204.112.229 -p 5432 -U airflow -d airflow
+psql -h 34.91.230.60 -p 5432 -U airflow -d airflow
 
 
 # Basic psql Commands
