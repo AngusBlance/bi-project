@@ -59,7 +59,7 @@ def insert_data_into_db():
         {
             "file_path": '/opt/airflow/data/StarSchema/CleanOutFact1.txt',
             "table_name": 'fact_table',
-            "columns": "(Date, Time, Browser, IP, ResponseTime, RequestedFile)"
+            "columns": "(Date, Time, Browser, IP, ResponseTime, RequestedFile, IsRobot,FileType)"
         },
         {
             "file_path": '/opt/airflow/data/StarSchema/DimDateTable.txt',
@@ -126,7 +126,7 @@ def validate_and_clean_data():
                 errfile.write(line)
 
 def validate_row(fields):
-    expected_num_fields = 6
+    expected_num_fields = 8
     if len(fields) != expected_num_fields:
         return False
     try:
@@ -174,6 +174,28 @@ def CleanHash(filename):
 def DeleteFiles():
     OutputFileShort=open(Staging+'Outputshort.txt', 'w')
     OutputFileLong=open(Staging+'Outputlong.txt', 'w')
+    
+
+def clear_data_from_tables():
+    pg_hook = PostgresHook(postgres_conn_id='postgres_default')
+    conn = pg_hook.get_conn()
+    cursor = conn.cursor()
+
+    # List of table names to clear
+    tables = ['fact_table', 'dim_date', 'dim_iploc']
+
+    # Clear data from each table
+    try:
+        for table in tables:
+            cursor.execute(f"DELETE FROM {table};")
+            logging.info(f"Data cleared from table: {table}")
+        conn.commit()
+    except Exception as e:
+        logging.error(f"Error clearing tables: {e}")
+        conn.rollback()  # Rollback the transaction in case of error
+    finally:
+        cursor.close()
+        conn.close()
 
 def ListFiles():
    
@@ -190,34 +212,92 @@ def ListFiles():
    for f in arr:
        logging.warning('calling Clean '+f)
        CleanHash(f)
-       
+
+def check_for_robots(text):
+    # Search for the specific substring "robots.txt" in the given text
+    if "robots.txt" in text:
+        return True
+    else:
+        return False
+    
+def get_file_extension(filename):
+    # Split the filename by dot and get the last element as the extension
+    parts = filename.split('.')
+    if len(parts) > 1:
+        return parts[-1]  # Return the last part as the extension
+    else:
+        return ""  # Return an empty string if there's no dot
+    
+
+
+
+
+def find_browser(user_agent, browser_list):
+    # Normalize the user agent string to lower case for case-insensitive matching
+    user_agent_lower = user_agent.lower()
+    
+    # Check each browser in the list to see if it's in the user agent string
+    for browser in browser_list:
+        if browser.lower() in user_agent_lower:
+            return browser
+    return "Unknown Browser"
+
 def BuildFactShort():
+    browsers = [
+    "Mozilla", "Chrome", "Safari", "Edge", "Firefox", "Opera", 
+    "IE", "Internet Explorer", "SeaMonkey", "Konqueror", "Lynx", 
+    "Baiduspider", "Googlebot", "Bingbot", "Slurp", "DuckDuckBot", 
+    "Baiduspider", "YandexBot", "Sogou", "Exabot", "FacebookExternalHit"
+    ]
     InFile = open(Staging+'Outputshort.txt','r')
     OutFact1=open(Staging+'OutFact1.txt', 'a')
 
     Lines= InFile.readlines()
     for line in Lines:
         Split=line.split(" ")
-        Browser=Split[9].replace(",","")
-        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4] + "\n"
+        Split=line.split(" ")
+        date = Split[0]
+        time = Split[1]
+        Browser=find_browser(Split[9], browsers)
+        ip = Split[8]
+        responsetime = Split[13].replace("\n","")
+        requestedfile = Split[4]
+        isrobot = check_for_robots(requestedfile)
+        filetype = get_file_extension(requestedfile)
+        Out=date+","+time+","+Browser+","+ip+","+responsetime+","+requestedfile + "," + str(isrobot)+ filetype +"\n"
 
         OutFact1.write(Out)
 
+
+
+
 def BuildFactLong():
+    browsers = [
+    "Mozilla", "Chrome", "Safari", "Edge", "Firefox", "Opera", 
+    "IE", "Internet Explorer", "SeaMonkey", "Konqueror", "Lynx", 
+    "Baiduspider", "Googlebot", "Bingbot", "Slurp", "DuckDuckBot", 
+    "Baiduspider", "YandexBot", "Sogou", "Exabot", "FacebookExternalHit"
+    ]
     InFile = open(Staging+'Outputlong.txt','r')
     OutFact1=open(Staging+'OutFact1.txt', 'a')
 
     Lines= InFile.readlines()
     for line in Lines:
         Split=line.split(" ")
-        Browser=Split[9].replace(",","")
-        # 
-        Out=Split[0]+","+Split[1]+","+Browser+","+Split[8]+","+Split[13].replace("\n","")+","+Split[4]
+        date = Split[0]
+        time = Split[1]
+        Browser=Browser=find_browser(Split[9], browsers)
+        ip = Split[8]
+        responsetime = Split[16].replace("\n","")
+        requestedfile = Split[4]
+        isrobot = check_for_robots(requestedfile)
+        filetype = get_file_extension(requestedfile)
+        Out=date+","+time+","+Browser+","+ip+","+responsetime+","+requestedfile + "," + str(isrobot) + ","+ filetype +"\n"
         OutFact1.write(Out)
 
 def Fact1():
     with open(Staging+'OutFact1.txt', 'w') as file:
-        file.write("Date,Time,Browser,IP,ResponseTime,RequestedFile\n")
+        file.write("Date,Time,Browser,IP,ResponseTime,RequestedFile,IsRobot,FileType\n")
     BuildFactShort()
     BuildFactLong()
  
@@ -229,6 +309,8 @@ def getIPs():
         Split=line.split(",")
         Out=Split[3]+"\n"
         OutputFile.write(Out)
+
+
 def makeDimDate():
     InFile = open(Staging+'OutFact1.txt', 'r')
     OutputFile=open(Staging+'DimDate.txt', 'w')
@@ -248,14 +330,15 @@ def getDates():
     with OutputDateFile as file:
        file.write("Date,Year,Month,Day,DayofWeek\n")
     Lines= InDateFile.readlines()
-    
+    id = 0
     for line in Lines:
         line=line.replace("\n","")
         print(line)
         try:
             date=datetime.strptime(line,"%Y-%m-%d").date()
             weekday=Days[date.weekday()]
-            out=str(date)+","+str(date.year)+","+str(date.month)+","+str(date.day)+","+weekday+"\n"
+            id = id+1
+            out=str(id) + "," + str(date)+","+str(date.year)+","+str(date.month)+","+str(date.day)+","+weekday+"\n"
             
             with open(StarSchema+'DimDateTable.txt', 'a') as file:
                file.write(out)
@@ -324,6 +407,12 @@ DateTable = PythonOperator(
     dag=dag,
 )
 
+cleardb = PythonOperator(
+    task_id = "cleardb",
+    python_callable=clear_data_from_tables,
+    dag = dag,
+)
+
 IPTable = PythonOperator(
     task_id="IPTable",
     python_callable=GetLocations,
@@ -385,12 +474,16 @@ validate_data_task = PythonOperator(
   
 # download_data >> BuildFact1 >>DimIp>>DateTable>>uniq>>uniq2>>BuildDimDate>>IPTable
 
-download_data >> BuildFact1
+download_data >> cleardb
+cleardb >> BuildFact1
 BuildFact1 >> [DimIp, DateTable]
+
 DimIp >> uniq
 DateTable >> uniq2
+
 uniq >> IPTable
 uniq2 >> BuildDimDate
+
 [IPTable, BuildDimDate] >> copyfact
 copyfact >> validate_data_task
 validate_data_task >> insert_data_task
